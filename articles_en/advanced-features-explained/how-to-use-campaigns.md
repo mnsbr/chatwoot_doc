@@ -1,6 +1,6 @@
 # How to use Campaigns?The Campaigns feature is a way for you to send outbound messages to your customers. There are two types of campaigns in
 
-Katalis:
+Katalis.app:
 
 I. Ongoing campaigns
 

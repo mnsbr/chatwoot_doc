@@ -4,14 +4,14 @@ contributing factor to sales as well as customer retention. Not to mention the e
 to always sound perfect––you've got to be a robot. So we brought AI to your dashboard instead. With our OpenAI
 integration, you can improve your customer conversations as they happen.
 
-By integrating AI into your Katalis dashboard, you can improve your customer conversations in real-time without
+By integrating AI into your Katalis.app dashboard, you can improve your customer conversations in real-time without
 sacrificing your unique voice or brand identity. You'll receive AI-powered suggestions that help you refine your
 messages and communicate more effectively with your customers.
 
 Setting up the integration takes less than a minute, and the benefits are immediate. To get started, follow the steps
 below.
 
-How to integrate OpenAI with Katalis?
+How to integrate OpenAI with Katalis.app?
 
 Step 1. Go to Settings → Applications → OpenAI. Click the corresponding “Configure” button.
 
@@ -21,9 +21,9 @@ To get your OpenAI API key, log in to your OpenAI account and visit this link.
 
 Once you enter your secret API key, you'll see a success message on the screen.
 
-How to use the AI features in Katalis?
+How to use the AI features in Katalis.app?
 
-There are three AI-powered features in Katalis. The sections below explain how to use them.
+There are three AI-powered features in Katalis.app. The sections below explain how to use them.
 
 Reply suggestion with AI
 

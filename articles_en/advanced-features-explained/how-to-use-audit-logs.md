@@ -12,7 +12,7 @@ track to audit your account, team, or services. Essentially, audit logs answer t
 
 Or, who did what, when and from where?
 
-Where to find the Audit Logs within Katalis?
+Where to find the Audit Logs within Katalis.app?
 
 Step 1. If the feature is available to you, you can find it by going to 'Settings' -> 'Audit Logs'.
 

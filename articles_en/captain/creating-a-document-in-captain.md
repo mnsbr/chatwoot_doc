@@ -18,7 +18,7 @@ process. Captain will begin analyzing the content from the provided URL or docum
 gather information that can help answer customer questions effectively.
 
 Captain will systematically crawl all pages linked under the provided URL path, scanning for articles, guides, and other
-resources associated with the main URL. For instance, if you provide a URL like https://katalis.help/user-guide,
+resources associated with the main URL. For instance, if you provide a URL like https://Katalis.app.help/user-guide,
 Captain will analyze all URLs that start with this path. As it crawls the content, it organizes and indexes the
 information, making it easily accessible for answering customer inquiries. This structured crawling process guarantees
 that all relevant knowledge from your specified source is captured and available for reference.

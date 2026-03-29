@@ -1,9 +1,9 @@
 
 # Cara Melacak Isu dan Fitur dengan Integrasi Linear
 
-Jika perusahaan, akun, atau proyek Anda menggunakan Linear sebagai alat proyek, Anda bisa mengintegrasikannya dengan Katalis untuk mengelola semua percakapan di workspace Linear Anda.
+Jika perusahaan, akun, atau proyek Anda menggunakan Linear sebagai alat proyek, Anda bisa mengintegrasikannya dengan Katalis.app untuk mengelola semua percakapan di workspace Linear Anda.
 
-Anda bisa membuat isu Linear baru langsung dari jendela percakapan atau menautkan ke isu yang sudah ada untuk pelacakan yang lebih efisien. Untuk memulai pengaturan, ikuti langkah-langkah di bawah. Jika Anda menggunakan instance Katalis self-hosted, silakan ikuti panduan ini.
+Anda bisa membuat isu Linear baru langsung dari jendela percakapan atau menautkan ke isu yang sudah ada untuk pelacakan yang lebih efisien. Untuk memulai pengaturan, ikuti langkah-langkah di bawah. Jika Anda menggunakan instance Katalis.app self-hosted, silakan ikuti panduan ini.
 
 ## Cara Menghubungkan Integrasi Linear
 
@@ -11,7 +11,7 @@ Anda bisa membuat isu Linear baru langsung dari jendela percakapan atau menautka
 
 **Langkah 2.** Klik tombol Connect. Ketika prompt persetujuan muncul, klik Authorize untuk memberikan izin.
 
-Setelah selesai, Anda akan diarahkan ke aplikasi Katalis. Sekarang Anda bisa menggunakan Linear di akun Katalis Anda.
+Setelah selesai, Anda akan diarahkan ke aplikasi Katalis.app. Sekarang Anda bisa menggunakan Linear di akun Katalis.app Anda.
 
 ## Fitur yang Didukung
 

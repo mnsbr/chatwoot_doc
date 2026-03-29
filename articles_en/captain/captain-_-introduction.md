@@ -1,4 +1,4 @@
-# Introduction to CaptainCaptain is the AI agent for Katalis that helps make customer support faster, smarter, and more personal. It comes with
+# Introduction to CaptainCaptain is the AI agent for Katalis.app that helps make customer support faster, smarter, and more personal. It comes with
 
 powerful tools to assist both your customers and support agents, ensuring smooth conversations and quick resolutions.
 

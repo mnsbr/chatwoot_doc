@@ -1,9 +1,9 @@
-# How to use Dashboard Apps?With Dashboard apps, you can integrate an app within the Katalis dashboard for agents' use. This feature enables you to
+# How to use Dashboard Apps?With Dashboard apps, you can integrate an app within the Katalis.app dashboard for agents' use. This feature enables you to
 
 create an application independently, which can then be embedded to provide customers' information, orders, past payment
 history, etc.
 
-When embedded in Katalis dashboard, your application will get the context of the conversation and contact as a window
+When embedded in Katalis.app dashboard, your application will get the context of the conversation and contact as a window
 event. Implement a listener for the message event on your page to receive the context.
 
 P.S. Check out our YouTube live on building a Dashboard App.
@@ -18,11 +18,11 @@ Step 2. Add your app name and the URL on which your app is hosted.
 Once you are done, a new tab with the name you gave to the app will appear in the conversation window. In this case, it
 is “Customer Orders”.
 
-When you click on the new tab, you will be able to see your application fetching data on the Katalis dashboard.
+When you click on the new tab, you will be able to see your application fetching data on the Katalis.app dashboard.
 
-Receiving data from Katalis into your app
+Receiving data from Katalis.app into your app
 
-Katalis will deliver the conversation and contact context as a window event. This can be accessed within your app by
+Katalis.app will deliver the conversation and contact context as a window event. This can be accessed within your app by
 implementing a listener for the event, as shown here:
 
 window.addEventListener("message", function (event) {
@@ -33,19 +33,19 @@ window.addEventListener("message", function (event) {
   const eventData = JSON.parse(event.data);
 });
 
-On-demand request for data from Katalis
+On-demand request for data from Katalis.app
 
-If you need to request the conversation data on demand from Katalis, you can send a message to the parent window using
+If you need to request the conversation data on demand from Katalis.app, you can send a message to the parent window using
 the javascript postMessage API.
 
-Katalis will be listening to this key: katalis-dashboard-app:fetch-info.
+Katalis.app will be listening to this key: Katalis.app-dashboard-app:fetch-info.
 
 Example
 
-The following code can be used to query the dashboard app. Katalis will respond to this request by providing the
+The following code can be used to query the dashboard app. Katalis.app will respond to this request by providing the
 updated conversation payload promptly.
 
-window.parent.postMessage('katalis-dashboard-app:fetch-info', '*')
+window.parent.postMessage('Katalis.app-dashboard-app:fetch-info', '*')
 
 // You would get a message in the on message listener with the appContext payload.
 

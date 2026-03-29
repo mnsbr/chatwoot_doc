@@ -1,8 +1,8 @@
 # Menambahkan Inbox
 
-Inbox adalah instansi dari channel yang menghubungkan website atau akun media sosial Anda seperti Facebook, Twitter atau platform chat seperti WhatsApp, Line, dan lainnya ke Katalis.
+Inbox adalah instansi dari channel yang menghubungkan website atau akun media sosial Anda seperti Facebook, Twitter atau platform chat seperti WhatsApp, Line, dan lainnya ke Katalis.app.
 
-Anda bisa memiliki inbox tak terbatas* di akun Katalis Anda. Anda bisa menambahkan inbox ke akun dengan salah satu dari tiga cara yang dijelaskan di bawah.
+Anda bisa memiliki inbox tak terbatas* di akun Katalis.app Anda. Anda bisa menambahkan inbox ke akun dengan salah satu dari tiga cara yang dijelaskan di bawah.
 
 ## I. Melalui Layar Welcome/Onboarding
 
@@ -10,7 +10,7 @@ Anda akan melihat opsi untuk menghubungkan inbox di layar onboarding. Klik Klik 
 
 ## II. Melalui Layar Settings
 
-Di dashboard Katalis Anda, klik Settings → Inboxes.
+Di dashboard Katalis.app Anda, klik Settings → Inboxes.
 
 ## III. Melalui Layar Home
 

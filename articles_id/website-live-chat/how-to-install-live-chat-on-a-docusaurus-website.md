@@ -1,17 +1,17 @@
 # Cara Menginstal Live Chat di Website Docusaurus
 
-Katalis terintegrasi dengan mulus dengan Docusaurus melalui plugin @katalis/docusaurus-plugin. Plugin ini membantu Anda dengan mudah menginstal widget live chat Katalis di website yang dibuat dengan Docusaurus.
+Katalis.app terintegrasi dengan mulus dengan Docusaurus melalui plugin @Katalis.app/docusaurus-plugin. Plugin ini membantu Anda dengan mudah menginstal widget live chat Katalis.app di website yang dibuat dengan Docusaurus.
 
 Untuk menginstal plugin, ikuti langkah-langkah cepat di bawah ini.
 
 **Langkah 1.** Tambahkan plugin ke proyek Anda.
 
 ```bash
-yarn add @katalis/docusaurus-plugin
+yarn add @Katalis.app/docusaurus-plugin
 ```
 atau
 ```bash
-npm install @katalis/docusaurus-plugin --save
+npm install @Katalis.app/docusaurus-plugin --save
 ```
 
 **Langkah 2.** Konfigurasi plugin di docusaurus.config.js
@@ -19,13 +19,13 @@ npm install @katalis/docusaurus-plugin --save
 ```javascript
 // docusaurus.config.js
 module.exports = {
-  plugins: ["@katalis/docusaurus-plugin"],
+  plugins: ["@Katalis.app/docusaurus-plugin"],
   themeConfig: {
-    katalis: {
+    Katalis.app: {
       websiteToken: "Token inbox website Anda",
       baseURL: "https://app.katalis.app",  // opsional
       enableInDevelopment: false,  // opsional
-      katalisSettings: {
+      Katalis.appSettings: {
         hideMessageBubble: false,
         position: "left",
         locale: "id",

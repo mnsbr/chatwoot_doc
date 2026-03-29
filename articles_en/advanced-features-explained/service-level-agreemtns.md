@@ -5,7 +5,7 @@ such as response times, availability, and resolution times, that you have agreed
 service provider, accountable for the quality of service you deliver, ensuring a consistent and reliable level of
 support for your customers.
 
-Katalis allows you to track the following metrics:
+Katalis.app allows you to track the following metrics:
 
   - FRT (First Response Time): This metric refers to the time it takes for the agent to respond to a customer's initial
     inquiry or request. It is a critical measure of responsiveness, as customers expect prompt attention to their issues

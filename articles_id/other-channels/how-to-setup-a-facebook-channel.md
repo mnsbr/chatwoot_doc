@@ -1,8 +1,8 @@
 # Cara Menyiapkan Channel Facebook
 
-Jika Anda menggunakan instalasi Katalis self-hosted, silakan siapkan aplikasi Facebook Anda seperti yang dijelaskan di panduan ini.
+Jika Anda menggunakan instalasi Katalis.app self-hosted, silakan siapkan aplikasi Facebook Anda seperti yang dijelaskan di panduan ini.
 
-Untuk versi cloud Katalis, silakan ikuti langkah-langkah di bawah ini.
+Untuk versi cloud Katalis.app, silakan ikuti langkah-langkah di bawah ini.
 
 **Langkah 1.** Buka Settings → Inboxes → "Add Inbox".
 
@@ -10,13 +10,13 @@ Untuk versi cloud Katalis, silakan ikuti langkah-langkah di bawah ini.
 
 **Langkah 3.** Klik tombol login Facebook. Ini akan membuka jendela baru untuk Anda login.
 
-**Langkah 4.** Autentikasi dengan Facebook dan pilih halaman yang ingin Anda hubungkan. Aktifkan semua izin yang ditampilkan dalam daftar. Ini akan membantu Katalis melakukan semua tindakan yang diinginkan dengan lancar.
+**Langkah 4.** Autentikasi dengan Facebook dan pilih halaman yang ingin Anda hubungkan. Aktifkan semua izin yang ditampilkan dalam daftar. Ini akan membantu Katalis.app melakukan semua tindakan yang diinginkan dengan lancar.
 
-**Langkah 5.** Anda sekarang bisa memilih halaman Facebook Anda dari menu dropdown yang muncul di Katalis.
+**Langkah 5.** Anda sekarang bisa memilih halaman Facebook Anda dari menu dropdown yang muncul di Katalis.app.
 
 **Langkah 6.** "Add agents" ke inbox Facebook Anda.
 
-Anda telah berhasil membuat inbox Facebook. Setiap kali pelanggan mengirim pesan ke halaman Facebook Anda, Anda akan bisa melihat dan membalasnya di Katalis.
+Anda telah berhasil membuat inbox Facebook. Setiap kali pelanggan mengirim pesan ke halaman Facebook Anda, Anda akan bisa melihat dan membalasnya di Katalis.app.
 
 ## Pengaturan Inbox Tambahan
 
@@ -24,7 +24,7 @@ Inbox Facebook yang baru dikonfigurasi seharusnya sekarang muncul di daftar inbo
 
 ### Tab Settings
 
-**Enable channel greeting.** Setelah diaktifkan, Katalis akan mengirim pesan salam ke percakapan baru yang dibuat melalui inbox Facebook Anda.
+**Enable channel greeting.** Setelah diaktifkan, Katalis.app akan mengirim pesan salam ke percakapan baru yang dibuat melalui inbox Facebook Anda.
 
 **Enable CSAT.** Setelah diaktifkan, survei Kepuasan Pelanggan akan diluncurkan setiap kali tiket diselesaikan. Hasil CSAT bisa dilihat nanti di bagian Reports.
 

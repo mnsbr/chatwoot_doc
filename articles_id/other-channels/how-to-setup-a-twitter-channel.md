@@ -2,11 +2,11 @@
 
 **CATATAN:** Integrasi Twitter telah dihentikan sementara sebagai akibat dari modifikasi yang dilakukan Twitter pada API-nya. Ini termasuk batasan jumlah permintaan per menit, ditambah perubahan harga yang signifikan.
 
-Dengan inbox Twitter, Anda bisa mengelola tweet yang menyebut Anda dan DM Twitter Anda dari Katalis.
+Dengan inbox Twitter, Anda bisa mengelola tweet yang menyebut Anda dan DM Twitter Anda dari Katalis.app.
 
-Jika Anda menggunakan instalasi Katalis self-hosted, silakan siapkan inbox Twitter Anda seperti yang dijelaskan di panduan ini.
+Jika Anda menggunakan instalasi Katalis.app self-hosted, silakan siapkan inbox Twitter Anda seperti yang dijelaskan di panduan ini.
 
-Untuk versi cloud Katalis, silakan ikuti langkah-langkah di bawah ini.
+Untuk versi cloud Katalis.app, silakan ikuti langkah-langkah di bawah ini.
 
 **Langkah 1.** Buka Settings → Inboxes → "Add Inbox".
 
@@ -18,7 +18,7 @@ Untuk versi cloud Katalis, silakan ikuti langkah-langkah di bawah ini.
 
 **Langkah 5.** "Add agents" ke inbox Twitter Anda.
 
-Anda telah berhasil membuat inbox Twitter. Sekarang Anda bisa mengelola DM Twitter serta tweet yang menyebut Anda dari Katalis.
+Anda telah berhasil membuat inbox Twitter. Sekarang Anda bisa mengelola DM Twitter serta tweet yang menyebut Anda dari Katalis.app.
 
 ## Pengaturan Inbox Tambahan
 
@@ -28,7 +28,7 @@ Anda bisa melakukan beberapa perubahan mendasar di sini.
 
 ### Tab Settings
 
-**Enable channel greeting.** Setelah diaktifkan, Katalis akan mengirim pesan salam ke percakapan baru yang dibuat melalui inbox Twitter Anda.
+**Enable channel greeting.** Setelah diaktifkan, Katalis.app akan mengirim pesan salam ke percakapan baru yang dibuat melalui inbox Twitter Anda.
 
 **Enable CSAT.** Setelah diaktifkan, survei Kepuasan Pelanggan akan diluncurkan setiap kali tiket diselesaikan. Hasil CSAT bisa dilihat nanti di bagian Reports.
 

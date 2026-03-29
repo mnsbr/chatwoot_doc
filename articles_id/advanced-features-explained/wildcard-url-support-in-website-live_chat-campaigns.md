@@ -2,7 +2,7 @@
 
 Campaign website live-chat mendukung pola URL wildcard. Saat membangun pola URL, pertimbangkan perilaku berikut.
 
-Di Katalis, setiap pola URL harus dimulai dengan `http://` atau `https://`.
+Di Katalis.app, setiap pola URL harus dimulai dengan `http://` atau `https://`.
 
 ## Menjalankan Campaign di URL yang Tepat
 

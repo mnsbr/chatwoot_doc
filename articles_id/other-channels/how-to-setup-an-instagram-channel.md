@@ -2,13 +2,13 @@
 
 Kami merekomendasikan Instagram Business Login sebagai metode autentikasi yang lebih disukai, karena memberikan konfigurasi yang lebih sederhana dan pengalaman developer yang lebih baik. Silakan lihat panduan ini untuk detail lebih lanjut. Kami akan menghentikan dukungan untuk Instagram via Facebook Login di masa depan mulai v4.1 ke atas.
 
-Jika Anda menggunakan instalasi Katalis self-hosted, silakan siapkan aplikasi Instagram Anda seperti yang dijelaskan di panduan ini.
+Jika Anda menggunakan instalasi Katalis.app self-hosted, silakan siapkan aplikasi Instagram Anda seperti yang dijelaskan di panduan ini.
 
-Untuk versi cloud Katalis, silakan ikuti panduan ini.
+Untuk versi cloud Katalis.app, silakan ikuti panduan ini.
 
 ## Prasyarat
 
-Sebelum menghubungkan inbox Instagram ke Katalis, Anda perlu memastikan bahwa Anda memiliki akun Instagram Business.
+Sebelum menghubungkan inbox Instagram ke Katalis.app, Anda perlu memastikan bahwa Anda memiliki akun Instagram Business.
 
 **Langkah 1.** Siapkan akun Instagram Business jika belum memilikinya. Panduan dari Instagram ini akan membantu Anda.
 
@@ -19,9 +19,9 @@ Sebelum menghubungkan inbox Instagram ke Katalis, Anda perlu memastikan bahwa An
 3. Buka Settings.
 4. Pilih "Instagram" dan hubungkan akun bisnis Anda seperti yang ditunjukkan di bawah:
 
-Sekarang kembali ke Aplikasi Katalis.
+Sekarang kembali ke Aplikasi Katalis.app.
 
-## Cara Membuat Inbox Instagram di Katalis
+## Cara Membuat Inbox Instagram di Katalis.app
 
 **Langkah 1.** Buka Settings → Inboxes → "Add Inbox".
 
@@ -29,8 +29,8 @@ Sekarang kembali ke Aplikasi Katalis.
 
 **Langkah 3.** Klik tombol login Facebook. Ini akan membuka jendela baru untuk Anda login.
 
-**Langkah 4.** Autentikasi dengan Facebook, pilih akun Instagram dan pilih halaman yang ingin Anda hubungkan. Aktifkan semua izin yang ditampilkan dalam daftar. Ini akan membantu Katalis melakukan semua tindakan yang diinginkan dengan lancar.
+**Langkah 4.** Autentikasi dengan Facebook, pilih akun Instagram dan pilih halaman yang ingin Anda hubungkan. Aktifkan semua izin yang ditampilkan dalam daftar. Ini akan membantu Katalis.app melakukan semua tindakan yang diinginkan dengan lancar.
 
 **Langkah 5.** "Add agents" ke inbox Instagram Anda.
 
-Anda telah berhasil membuat inbox Instagram. Setiap kali pelanggan mengirim pesan ke akun Instagram Anda, Anda akan bisa melihat dan membalasnya di Katalis.
+Anda telah berhasil membuat inbox Instagram. Setiap kali pelanggan mengirim pesan ke akun Instagram Anda, Anda akan bisa melihat dan membalasnya di Katalis.app.

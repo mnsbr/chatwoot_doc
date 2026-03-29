@@ -1,4 +1,4 @@
-# How to Set Up a WhatsApp Channel with Twilio?Manage your WhatsApp business account conversations through Katalis. You have two provider options:
+# How to Set Up a WhatsApp Channel with Twilio?Manage your WhatsApp business account conversations through Katalis.app. You have two provider options:
 
 1.  WhatsApp Cloud API (preferred way)
 
@@ -14,7 +14,7 @@ Prerequisites
 
 Using Twilio API
 
-There are two ways to use Twilio with Katalis:
+There are two ways to use Twilio with Katalis.app:
 
 1.  Regular way without messaging service
 
@@ -29,7 +29,7 @@ Complete all required fields and finish the account creation process
 Copy your Account SID, Auth Token, and phone number. If you haven't added a phone number to your Twilio account yet, do
 so before proceeding.
 
-Log into your Katalis account, click on Settings > Inbox > Add Inbox and select Whatsapp
+Log into your Katalis.app account, click on Settings > Inbox > Add Inbox and select Whatsapp
 
 Enter your Account SID, Auth Token, and WhatsApp number here
 
@@ -49,7 +49,7 @@ Return to your Twilio dashboard
 
 5.  Update the webhook URL.
 
-That's it! You're all set to start sending WhatsApp messages through Katalis.
+That's it! You're all set to start sending WhatsApp messages through Katalis.app.
 
 Setting Up Twilio with a Messaging Service
 
@@ -60,19 +60,19 @@ Navigate to Messaging > Services and click "Create Messaging Service" button.
 Fill in all the required fields in the subsequent steps till you reach here. Copy your messaging service ID and click
 “Save”.
 
-Log into your Katalis account. When creating an inbox, check the "Use Twilio Message Service" box. Then copy and paste
+Log into your Katalis.app account. When creating an inbox, check the "Use Twilio Message Service" box. Then copy and paste
 your Account ID, Message Service ID, and Token into the appropriate fields.
 
 Go to your Twilio dashboard, navigate to Messaging > Services > Select Service > Integration, and paste your Webhook URL
 here.
 
-That's it—you're all set! You can now start sending WhatsApp messages through Katalis.
+That's it—you're all set! You can now start sending WhatsApp messages through Katalis.app.
 
 FAQ’s
 
-What types of WhatsApp templates does Katalis support when using Twilio?
+What types of WhatsApp templates does Katalis.app support when using Twilio?
 
-Currently, Katalis does not support templates with Twilio.
+Currently, Katalis.app does not support templates with Twilio.
 
 I'm using Twilio Studio. Are there additional steps needed to make it work?
 

@@ -1,5 +1,5 @@
 
-# Embedding videos in Help CenterKatalis Help Center supports automatic embedding of videos from multiple platforms. When you paste supported video
+# Embedding videos in Help CenterKatalis.app Help Center supports automatic embedding of videos from multiple platforms. When you paste supported video
 
 URLs on their own lines (surrounded by empty lines), they will be automatically converted to embedded video players.
 

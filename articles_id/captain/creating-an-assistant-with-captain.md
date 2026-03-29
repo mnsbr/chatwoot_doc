@@ -5,7 +5,7 @@ Assistant di Captain dibuat untuk membantu menjawab pertanyaan pelanggan, member
 
 ## Cara Membuat Assistant di Captain
 
-Jika Anda menggunakan paket berbayar di Katalis Cloud, Anda akan menemukan menu Captain di sidebar kiri. Di bawah menu ini, Anda akan melihat opsi untuk Assistants, Documents, dan FAQs.
+Jika Anda menggunakan paket berbayar di Katalis.app Cloud, Anda akan menemukan menu Captain di sidebar kiri. Di bawah menu ini, Anda akan melihat opsi untuk Assistants, Documents, dan FAQs.
 
 Klik Assistants. Anda akan melihat halaman seperti di bawah ini.
 

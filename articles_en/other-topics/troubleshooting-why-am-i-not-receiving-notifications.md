@@ -4,7 +4,7 @@
 
 Go to Profile settings → Notifications and enable the types you want for Email and/or Push.
 
-If a type is turned off, Katalis will not send it.
+If a type is turned off, Katalis.app will not send it.
 
 2. Check whether you are included in that conversation
 
@@ -26,7 +26,7 @@ Important:
 
 3. Check the conversation status
 
-  - For pending conversations, Katalis does not send “Conversation created” or “Conversation assigned” notifications.
+  - For pending conversations, Katalis.app does not send “Conversation created” or “Conversation assigned” notifications.
 
   - Notifications are not limited only to “open” conversations.
 
@@ -41,7 +41,7 @@ Important:
 
 5. If Push notifications are missing
 
-  - Turn on push in Katalis profile settings.
+  - Turn on push in Katalis.app profile settings.
 
   - Allow notifications in your browser or mobile OS settings.
 

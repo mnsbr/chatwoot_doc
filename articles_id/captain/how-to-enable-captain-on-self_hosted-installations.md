@@ -9,7 +9,7 @@ Panduan ini akan menunjukkan cara mengaktifkan Captain di Enterprise Edition sel
 
 Sebelum memulai, pastikan Anda memiliki:
 
-- Katalis Enterprise Edition dengan paket berbayar.
+- Katalis.app Enterprise Edition dengan paket berbayar.
 - Akses Admin ke Super Admin Console.
 - API key OpenAI yang valid.
 - (Opsional) Endpoint API yang kompatibel dengan OpenAI untuk self-hosted.
@@ -48,4 +48,4 @@ Jika Captain tidak merespons sesuai harapan:
 - Pastikan API key Firecrawl Anda valid jika menggunakan crawling.
 - Konfirmasi bahwa Captain diaktifkan baik di tingkat instalasi maupun tingkat akun.
 
-Jika Captain masih tidak merespons, tinjau log server Katalis untuk proses web dan worker untuk mengidentifikasi error apa pun, dan bagikan detail error tersebut dengan tim dukungan untuk bantuan lebih lanjut.
+Jika Captain masih tidak merespons, tinjau log server Katalis.app untuk proses web dan worker untuk mengidentifikasi error apa pun, dan bagikan detail error tersebut dengan tim dukungan untuk bantuan lebih lanjut.

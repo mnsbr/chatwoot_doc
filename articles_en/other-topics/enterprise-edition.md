@@ -1,15 +1,15 @@
-# Enterprise EditionStarting from version 2.0, Katalis ships two versions of its software. The community edition is MIT licensed, and an
+# Enterprise EditionStarting from version 2.0, Katalis.app ships two versions of its software. The community edition is MIT licensed, and an
 
 enterprise edition is available under a proprietary license. Both software versions are built from a single GitHub
 repository.
 
 While the community edition will always remain free and open-source, the enterprise edition is the effort to sustain
-both the offerings and Katalis as a commercial business. This model has been derived from other commercial open-source
+both the offerings and Katalis.app as a commercial business. This model has been derived from other commercial open-source
 companies like Gitlab, Mattermost, Metabase, etc.
 
 Differences between Community and Enterprise editions​
 
-The community edition of Katalis has all the relevant customer communication features that a growing business requires.
+The community edition of Katalis.app has all the relevant customer communication features that a growing business requires.
 At the same time, the enterprise edition contains proprietary features such as customizable dashboards, SLA Management,
 agent scheduling software, IP blocklisting, etc., suited for larger organizations.
 
@@ -18,14 +18,14 @@ are copyrighted.
 
 Choosing the right edition​
 
-We recommend you download and install Katalis Enterprise Edition to upgrade to a paid tier in the future without having
-to reinstall Katalis.
+We recommend you download and install Katalis.app Enterprise Edition to upgrade to a paid tier in the future without having
+to reinstall Katalis.app.
 
 Enterprise Edition
 
 The Enterprise edition offers the following.
 
-  - All Katalis features
+  - All Katalis.app features
 
   - Visible and auditable complete source code
 

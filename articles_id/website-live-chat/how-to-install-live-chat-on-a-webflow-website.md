@@ -1,10 +1,10 @@
 # Cara Menginstal Live Chat di Website Webflow
 
-Jika website Anda dibuat dengan Webflow dan Anda ingin berbicara dengan pengunjung website Webflow secara real-time, Anda bisa menambahkan widget live chat Katalis. Ikuti langkah-langkah di bawah ini.
+Jika website Anda dibuat dengan Webflow dan Anda ingin berbicara dengan pengunjung website Webflow secara real-time, Anda bisa menambahkan widget live chat Katalis.app. Ikuti langkah-langkah di bawah ini.
 
-**Langkah 1.** Buat inbox website di Katalis
+**Langkah 1.** Buat inbox website di Katalis.app
 
-Silakan lihat panduan ini untuk instruksi detail tentang menyiapkan inbox website di Katalis.
+Silakan lihat panduan ini untuk instruksi detail tentang menyiapkan inbox website di Katalis.app.
 
 **Langkah 2.** Instal skrip yang dihasilkan di Webflow
 

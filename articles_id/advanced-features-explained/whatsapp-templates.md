@@ -47,7 +47,7 @@ WhatsApp mengorganisir template ke dalam kategori berbeda berdasarkan tujuannya:
 
 ## Template Legacy vs Enhanced
 
-Katalis mendukung dua format template untuk memastikan kompatibilitas dengan semua template yang ada:
+Katalis.app mendukung dua format template untuk memastikan kompatibilitas dengan semua template yang ada:
 
 ### Template Legacy
 
@@ -103,13 +103,13 @@ Saat ini, template WhatsApp harus dibuat melalui WhatsApp Business Manager:
 3. **Buat template baru** - Klik "Create template" dan pilih jenis template
 4. **Desain template** - Tambahkan header, body, footer, dan tombol sesuai kebutuhan
 5. **Kirim untuk persetujuan** - WhatsApp akan meninjau template (bisa memakan waktu hingga 24 jam)
-6. **Sinkronkan ke Katalis** - Setelah disetujui, template akan otomatis muncul atau Anda bisa sinkronkan secara manual via inbox di Katalis
+6. **Sinkronkan ke Katalis.app** - Setelah disetujui, template akan otomatis muncul atau Anda bisa sinkronkan secara manual via inbox di Katalis.app
 
 ## Cara Mengirim Template WhatsApp
 
 Template WhatsApp bisa dikirim dalam dua cara:
 - **Percakapan individu** - Kirim template ke pelanggan tertentu selama percakapan
-- **Campaign** - Kirim template ke beberapa pelanggan sekaligus menggunakan fitur campaign Katalis
+- **Campaign** - Kirim template ke beberapa pelanggan sekaligus menggunakan fitur campaign Katalis.app
 
 ### Mengirim Template di Percakapan
 
@@ -137,15 +137,15 @@ Untuk template tombol:
 
 ### Mengirim Template via Campaign
 
-Buka WhatsApp Campaigns di dashboard Katalis, buat campaign baru dan pilih WhatsApp sebagai channel, pilih template dari opsi yang tersedia, dan konfigurasikan audiens serta parameter template.
+Buka WhatsApp Campaigns di dashboard Katalis.app, buat campaign baru dan pilih WhatsApp sebagai channel, pilih template dari opsi yang tersedia, dan konfigurasikan audiens serta parameter template.
 
 ## FAQ
 
-### Mengapa saya tidak bisa melihat semua template WhatsApp di Katalis?
-Hanya template yang disetujui WhatsApp dan didukung Katalis yang akan muncul. Jenis template yang tidak didukung (seperti template autentikasi dengan kode OTP) otomatis difilter.
+### Mengapa saya tidak bisa melihat semua template WhatsApp di Katalis.app?
+Hanya template yang disetujui WhatsApp dan didukung Katalis.app yang akan muncul. Jenis template yang tidak didukung (seperti template autentikasi dengan kode OTP) otomatis difilter.
 
-### Bisakah saya mengedit template langsung di Katalis?
-Tidak, template harus dibuat dan diedit di WhatsApp Business Manager. Katalis hanya digunakan untuk mengirim template yang disetujui.
+### Bisakah saya mengedit template langsung di Katalis.app?
+Tidak, template harus dibuat dan diedit di WhatsApp Business Manager. Katalis.app hanya digunakan untuk mengirim template yang disetujui.
 
 ### Template saya gagal terkirim. Apa yang harus diperiksa?
 Masalah umum meliputi: variabel hilang, URL media rusak, ukuran file terlalu besar, atau template belum disetujui.

@@ -1,13 +1,13 @@
 
-# Agent CapacityThe Agent Capacity feature in Katalis is designed to improve the efficiency of customer support operations,
+# Agent CapacityThe Agent Capacity feature in Katalis.app is designed to improve the efficiency of customer support operations,
 
 particularly for larger organizations. It allows administrators to set limits on the number of conversations assigned to
-each agent, preventing overload and optimizing performance. This feature is part of the Enterprise Edition of Katalis
+each agent, preventing overload and optimizing performance. This feature is part of the Enterprise Edition of Katalis.app
 and is an enhancement to the Auto Assignment functionality.
 
 Why Agent Capacity Management?
 
-Traditionally, Katalis’s Auto Assignment feature worked well for small to medium-sized organizations. However, as
+Traditionally, Katalis.app’s Auto Assignment feature worked well for small to medium-sized organizations. However, as
 larger organizations adopted the platform, a key challenge emerged: agents were overwhelmed with an excessive number of
 assigned conversations, leading to inefficiencies and poor response quality.
 
@@ -35,7 +35,7 @@ Channel-Specific Customization
 
 How It Works
 
-To enable Agent Capacity, you must have the Enterprise Edition of Katalis. Administrators can set capacity limits per
+To enable Agent Capacity, you must have the Enterprise Edition of Katalis.app. Administrators can set capacity limits per
 agent through the Inbox Settings, and set the maximum number of conversations an agent can handle. See the screenshot
 below.
 

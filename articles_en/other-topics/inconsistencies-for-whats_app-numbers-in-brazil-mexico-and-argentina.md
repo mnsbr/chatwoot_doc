@@ -10,14 +10,14 @@ created inconsistencies between the number you can dial today and the number Wha
     
     1234-5678.
 
-Because of this, when Katalis initiates a WhatsApp conversation (using the “correct” dialable format), WhatsApp may
+Because of this, when Katalis.app initiates a WhatsApp conversation (using the “correct” dialable format), WhatsApp may
 respond with the user’s older registered number. This can create duplicate contacts and disrupt ticket flow in your
 inbox.
 
 Unfortunately, this issue comes from WhatsApp itself. There is no fix at the API level, and it’s unlikely WhatsApp will
 update old accounts to match the new numbering rules.
 
-How Katalis Solves This
+How Katalis.app Solves This
 
 We’ve added logic to automatically prevent duplicate contacts and tickets when these mismatches occur:
 
@@ -27,14 +27,14 @@ We’ve added logic to automatically prevent duplicate contacts and tickets when
 
   - Case 2: Incoming message with an old-format number
     (e.g., +55 country code + area code + number, 12 digits total, missing the extra digit)
-    → Katalis checks if a contact already exists in the new format.
+    → Katalis.app checks if a contact already exists in the new format.
     → If it does, we link the message to the correct contact instead of creating a duplicate.
 
 What this means for you
 
   - You may still notice the difference in how numbers look in WhatsApp vs how they look in your CRM.
 
-  - You can continue messaging customers normally Katalis takes care of the background mismatch
+  - You can continue messaging customers normally Katalis.app takes care of the background mismatch
 
-  - Katalis automatically normalizes phone numbers from both old and new formats behind the scenes to ensure consistent
+  - Katalis.app automatically normalizes phone numbers from both old and new formats behind the scenes to ensure consistent
     contact matching, regardless of which format WhatsApp returns.Last updated on Oct 15, 2025

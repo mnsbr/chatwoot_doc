@@ -1,6 +1,6 @@
-# How to setup a Facebook channel?If you are using a self-hosted Katalis installation, please setup your Facebook app as described in the this guide.
+# How to setup a Facebook channel?If you are using a self-hosted Katalis.app installation, please setup your Facebook app as described in the this guide.
 
-For the cloud version of Katalis, please follow the steps below.
+For the cloud version of Katalis.app, please follow the steps below.
 
 Step 1. Go to Settings → Inboxes → “Add Inbox”.
 
@@ -9,14 +9,14 @@ Step 2. Click on the "Messenger" icon.
 Step 3. Click the Facebook login button. It will open a new window for you to login.
 
 Step 4. Authenticate with Facebook and select the page you want to connect. Enable all permissions shown in the list.
-This will help Katalis to perform all the desired actions smoothly.
+This will help Katalis.app to perform all the desired actions smoothly.
 
-Step 5. You can now select your Facebook page from the dropdown menu that appears on Katalis.
+Step 5. You can now select your Facebook page from the dropdown menu that appears on Katalis.app.
 
 Step 6. "Add agents" to your Facebook inbox.
 
 You have successfully created a Facebook inbox. Whenever a customer sends a message to your Facebook page, you will be
-able to see and reply to it in Katalis.
+able to see and reply to it in Katalis.app.
 
 Additional Inbox settings​
 
@@ -26,7 +26,7 @@ will see the following screen:
 
 Settings tab​
 
-Enable channel greeting. Once you enable this, Katalis will send a greeting message to new conversations created
+Enable channel greeting. Once you enable this, Katalis.app will send a greeting message to new conversations created
 through your Facebook inbox.
 
 Enable CSAT. Once you enable this, your Customer Satisfaction survey will be launched every time a ticket is resolved.

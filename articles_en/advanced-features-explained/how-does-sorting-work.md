@@ -1,5 +1,5 @@
 
-# How does sorting work?When managing conversations in Katalis, sorting helps prioritize and organize messages efficiently. There are four
+# How does sorting work?When managing conversations in Katalis.app, sorting helps prioritize and organize messages efficiently. There are four
 
 available sorting options: Latest Activity, Creation Time, Priority, and Pending Response. Each sorting method serves a
 specific purpose in streamlining communication.

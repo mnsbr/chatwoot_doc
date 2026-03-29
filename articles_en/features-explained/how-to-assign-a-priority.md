@@ -1,6 +1,6 @@
 # How to assign a priorityPrioritizing conversations is essential for managing your workload effectively, ensuring that you address urgent issues
 
-promptly while still handling less critical matters efficiently. Katalis priority feature allows you to assign a
+promptly while still handling less critical matters efficiently. Katalis.app priority feature allows you to assign a
 priority level to each conversation, making it easy to identify which conversations require immediate attention and
 which ones can wait.
 
@@ -42,7 +42,7 @@ FAQs
 
 Do you support custom priorities?
 
-Katalis does not allow for customized or overly specific priorities. We intentionally designed it this way to avoid the
+Katalis.app does not allow for customized or overly specific priorities. We intentionally designed it this way to avoid the
 pitfalls of excessive complexity, which can make it more challenging to establish priorities effectively and ultimately
 lead to lesser or no extra value over the current system. The best workaround this is to use labels or custom
 attributes.

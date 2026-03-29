@@ -3,20 +3,20 @@
 
 access support content without leaving the chat interface, creating a seamless support experience.
 
-Katalis offers a built-in feature that makes this integration simple. Follow this step-by-step guide to embed your help
-center in your Katalis live chat widget.
+Katalis.app offers a built-in feature that makes this integration simple. Follow this step-by-step guide to embed your help
+center in your Katalis.app live chat widget.
 
 Prerequisites
 
 Before you begin, ensure you have:
 
-  - An active Katalis account with admin access
+  - An active Katalis.app account with admin access
 
   - A configured live chat inbox
 
 Step 1: Set Up Your Help Center
 
-First, you'll need to create and configure your help center in Katalis.
+First, you'll need to create and configure your help center in Katalis.app.
 
 1.  Follow the detailed help center setup guide to create your help center
 
@@ -28,7 +28,7 @@ Step 2: Access Inbox Settings
 
 Navigate to your inbox configuration:
 
-1.  Go to the Settings section in your Katalis dashboard
+1.  Go to the Settings section in your Katalis.app dashboard
 
 2.  Click on Inbox Settings from the vertical navigation bar
 

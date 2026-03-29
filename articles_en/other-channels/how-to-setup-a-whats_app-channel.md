@@ -1,6 +1,6 @@
-# How to setup a WhatsApp channel?You can manage your WhatsApp Business Account conversations directly from Katalis. To connect your WhatsApp number,
+# How to setup a WhatsApp channel?You can manage your WhatsApp Business Account conversations directly from Katalis.app. To connect your WhatsApp number,
 
-Katalis supports two onboarding methods:
+Katalis.app supports two onboarding methods:
 
   - Embedded Signup (recommended) – a guided flow powered by Meta that auto-configures your number, webhooks, and
     tokens.
@@ -15,11 +15,11 @@ Prerequisites
 
   - A valid phone number (not already tied to another WhatsApp Embedded Signup flow, unless migrating)
 
-  - A Katalis workspace with WhatsApp feature enabled
+  - A Katalis.app workspace with WhatsApp feature enabled
 
 Step 1: Go to Inboxes
 
-1.  Log into your Katalis account.
+1.  Log into your Katalis.app account.
 
 2.  Navigate to Settings › Inboxes › Add Inbox.
 
@@ -36,7 +36,7 @@ Connect with Whatsapp Business (Embedded Signup)
   - You log in with your Facebook account, select or create a WhatsApp Business Account (WABA), and add your phone
     number.
 
-  - Katalis automatically receives the webhook, tokens, and phone number configuration.
+  - Katalis.app automatically receives the webhook, tokens, and phone number configuration.
 
 Use this option if you are:
 
@@ -54,7 +54,7 @@ Manual Setup
 
   - Requires generating tokens, creating a system user, assigning assets, and setting up webhooks manually.
 
-  - You copy/paste the Phone Number ID, Business Account ID, and API key into Katalis.
+  - You copy/paste the Phone Number ID, Business Account ID, and API key into Katalis.app.
 
 Use this option if you are:
 

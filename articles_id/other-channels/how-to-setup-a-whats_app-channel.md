@@ -1,6 +1,6 @@
 # Cara Menyiapkan Channel WhatsApp
 
-Anda bisa mengelola percakapan Akun Bisnis WhatsApp langsung dari Katalis. Untuk menghubungkan nomor WhatsApp Anda, Katalis mendukung dua metode onboarding:
+Anda bisa mengelola percakapan Akun Bisnis WhatsApp langsung dari Katalis.app. Untuk menghubungkan nomor WhatsApp Anda, Katalis.app mendukung dua metode onboarding:
 
 - **Embedded Signup (disarankan)** – alur terpandu yang didukung oleh Meta yang mengonfigurasi nomor, webhook, dan token Anda secara otomatis.
 - **Manual Setup** – opsi lanjutan untuk penyedia teknologi dan kasus di mana Embedded Signup tidak bisa digunakan.
@@ -11,11 +11,11 @@ Panduan ini memberi Anda gambaran umum tentang kedua metode, perbedaannya, dan t
 
 - Akun developer atau bisnis Meta (Facebook)
 - Nomor telepon yang valid (belum terikat ke alur WhatsApp Embedded Signup lain, kecuali jika sedang migrasi)
-- Workspace Katalis dengan fitur WhatsApp diaktifkan
+- Workspace Katalis.app dengan fitur WhatsApp diaktifkan
 
 ## Langkah 1: Buka Inboxes
 
-1. Masuk ke akun Katalis Anda.
+1. Masuk ke akun Katalis.app Anda.
 2. Navigasi ke Settings › Inboxes › Add Inbox.
 3. Pilih WhatsApp sebagai channel.
 
@@ -27,7 +27,7 @@ Saat membuat Inbox WhatsApp, Anda akan melihat dua opsi:
 
 - Mengarahkan Anda ke alur Embedded Signup Meta.
 - Anda masuk dengan akun Facebook, pilih atau buat WhatsApp Business Account (WABA), dan tambahkan nomor telepon Anda.
-- Katalis secara otomatis menerima webhook, token, dan konfigurasi nomor telepon.
+- Katalis.app secara otomatis menerima webhook, token, dan konfigurasi nomor telepon.
 
 Gunakan opsi ini jika Anda:
 - Menambahkan nomor WhatsApp baru
@@ -40,7 +40,7 @@ Baca panduan lengkap tentang WhatsApp Embedded Signup.
 
 - Anda mengonfigurasi semuanya melalui Meta Developer Console.
 - Memerlukan pembuatan token, membuat system user, menetapkan aset, dan menyiapkan webhook secara manual.
-- Anda menyalin/menempel Phone Number ID, Business Account ID, dan API key ke Katalis.
+- Anda menyalin/menempel Phone Number ID, Business Account ID, dan API key ke Katalis.app.
 
 Gunakan opsi ini jika Anda:
 - Penyedia teknologi yang meng-onboard nomor sendiri

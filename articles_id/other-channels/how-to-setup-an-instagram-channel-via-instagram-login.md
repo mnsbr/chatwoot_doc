@@ -1,14 +1,14 @@
 # Cara Menyiapkan Channel Instagram
 
-Jika Anda menggunakan instalasi Katalis self-hosted, silakan siapkan aplikasi Instagram Anda seperti yang dijelaskan di panduan ini.
+Jika Anda menggunakan instalasi Katalis.app self-hosted, silakan siapkan aplikasi Instagram Anda seperti yang dijelaskan di panduan ini.
 
-Untuk versi cloud Katalis, silakan ikuti panduan ini.
+Untuk versi cloud Katalis.app, silakan ikuti panduan ini.
 
 ## Prasyarat
 
-Sebelum menghubungkan inbox Instagram ke Katalis, Anda perlu memastikan bahwa Anda memiliki akun Instagram Business. Siapkan akun Instagram Business jika belum memilikinya. Panduan dari Instagram ini akan membantu Anda melakukannya.
+Sebelum menghubungkan inbox Instagram ke Katalis.app, Anda perlu memastikan bahwa Anda memiliki akun Instagram Business. Siapkan akun Instagram Business jika belum memilikinya. Panduan dari Instagram ini akan membantu Anda melakukannya.
 
-## Cara Membuat Inbox Instagram di Katalis
+## Cara Membuat Inbox Instagram di Katalis.app
 
 **Langkah 1.** Buka Settings → Inboxes → "Add Inbox".
 
@@ -18,4 +18,4 @@ Sebelum menghubungkan inbox Instagram ke Katalis, Anda perlu memastikan bahwa An
 
 **Langkah 5.** "Add agents" ke inbox Instagram Anda.
 
-Anda telah berhasil membuat inbox Instagram. Setiap kali pelanggan mengirim pesan ke akun Instagram Anda, Anda akan bisa melihat dan membalasnya di Katalis.
+Anda telah berhasil membuat inbox Instagram. Setiap kali pelanggan mengirim pesan ke akun Instagram Anda, Anda akan bisa melihat dan membalasnya di Katalis.app.

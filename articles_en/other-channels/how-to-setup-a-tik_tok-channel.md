@@ -1,6 +1,6 @@
-# How to setup a TikTok channel?If you are using a self-hosted Katalis installation, please set up your TikTok app as described in is this guide.
+# How to setup a TikTok channel?If you are using a self-hosted Katalis.app installation, please set up your TikTok app as described in is this guide.
 
-For the cloud version of Katalis, please follow this guide.
+For the cloud version of Katalis.app, please follow this guide.
 
 Prerequisites
 
@@ -23,17 +23,17 @@ Step 2: Connect Your TikTok Account
 
 Click Continue with TikTok to begin the authentication process.
 
-Step 4: Authorize Katalis
+Step 4: Authorize Katalis.app
 
-You will be redirected to TikTok. Review the requested permissions and click Continue to authorize Katalis to access
+You will be redirected to TikTok. Review the requested permissions and click Continue to authorize Katalis.app to access
 your TikTok Business Account.
 
 Step 5: Add Agents
 
-After authorization, you will be redirected back to Katalis. Add agents to the TikTok inbox so they can view and
+After authorization, you will be redirected back to Katalis.app. Add agents to the TikTok inbox so they can view and
 respond to messages.
 
-Your TikTok channel is now connected. Incoming TikTok direct messages will appear in your Katalis dashboard.
+Your TikTok channel is now connected. Incoming TikTok direct messages will appear in your Katalis.app dashboard.
 
 Messaging Limitations
 
@@ -46,7 +46,7 @@ Messaging Limitations
   - Only text, image, and post share messages are currently supported due to limitations in the TikTok Business
     Messaging API.
 
-  - Messages sent directly from the TikTok app will be synced into Katalis.
+  - Messages sent directly from the TikTok app will be synced into Katalis.app.
 
   - Messages received in unsupported formats (e.g., audio, stickers) will appear as "This message is unsupported. You
     can view this message on the TikTok app."

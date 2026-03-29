@@ -4,6 +4,6 @@ Untuk meningkatkan produktivitas Anda, Anda bisa menggunakan keyboard shortcut. 
 
 Untuk menampilkan daftar keyboard shortcut yang tersedia, tekan "CMD + /" atau "Win + /" pada keyboard Anda. Atau, pilih "Keyboard Shortcuts" dari menu Profile Settings Anda.
 
-## Daftar Keyboard Shortcut di Katalis
+## Daftar Keyboard Shortcut di Katalis.app
 
 Silakan lihat daftar shortcut yang tersedia di aplikasi untuk referensi lengkap.

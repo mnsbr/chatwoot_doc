@@ -1,4 +1,4 @@
-# Group your contacts into custom segments.With Katalis, you can sort and filter your contacts using different categories by using advanced filters. You can save
+# Group your contacts into custom segments.With Katalis.app, you can sort and filter your contacts using different categories by using advanced filters. You can save
 
 these filtered contacts as segments, appearing in the secondary sidebar under the "Segments" section. This feature helps
 save different groups of contacts based on your requirements and access them readily.

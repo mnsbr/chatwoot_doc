@@ -1,6 +1,6 @@
 # Kelola Kontrol Akses Tim dengan Izin Berbasis Peran yang Fleksibel
 
-Custom role (peran kustom) adalah kumpulan izin yang dapat digunakan ulang yang bisa Anda tugaskan ke rekan tim di workspace Katalis Anda. Ini memudahkan untuk memperbarui izin untuk beberapa anggota tim sekaligus.
+Custom role (peran kustom) adalah kumpulan izin yang dapat digunakan ulang yang bisa Anda tugaskan ke rekan tim di workspace Katalis.app Anda. Ini memudahkan untuk memperbarui izin untuk beberapa anggota tim sekaligus.
 
 ## Membuat Custom Role Baru
 
@@ -8,7 +8,7 @@ Untuk membuat role baru, buka Settings > Custom Roles, dan klik Add custom role.
 
 Masukkan nama, deskripsi, dan izin yang diperlukan untuk role Anda:
 
-Tulis deskripsi yang jelas yang memberi tahu rekan tim izin dan kemampuan tepat apa yang diberikan role ini di Katalis.
+Tulis deskripsi yang jelas yang memberi tahu rekan tim izin dan kemampuan tepat apa yang diberikan role ini di Katalis.app.
 
 Kemudian simpan role baru Anda.
 

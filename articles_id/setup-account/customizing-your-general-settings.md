@@ -8,7 +8,7 @@ Kolom di halaman ini dijelaskan di bawah.
 
 1. **Nama Akun** - Masukkan nama Akun Anda. Contoh: Hopkins Inc.
 
-2. **Bahasa Situs** - Pilih bahasa yang Anda inginkan dari dropdown. Ini akan menampilkan dashboard dan percakapan Anda dalam bahasa yang dipilih. Contoh: Pilih English (en) dari dropdown untuk menggunakan Katalis dalam Bahasa Inggris.
+2. **Bahasa Situs** - Pilih bahasa yang Anda inginkan dari dropdown. Ini akan menampilkan dashboard dan percakapan Anda dalam bahasa yang dipilih. Contoh: Pilih English (en) dari dropdown untuk menggunakan Katalis.app dalam Bahasa Inggris.
 
 3. **Jumlah hari setelah tiket harus otomatis diselesaikan jika tidak ada aktivitas** - Tetapkan jumlah hari setelah tiket atau percakapan harus ditandai sebagai terselesaikan.
 

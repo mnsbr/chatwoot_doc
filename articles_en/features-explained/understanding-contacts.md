@@ -1,6 +1,6 @@
-# Understanding ContactsThe "Contacts" section in Katalis serves as a database of end-users or customers with whom you have interacted via the
+# Understanding ContactsThe "Contacts" section in Katalis.app serves as a database of end-users or customers with whom you have interacted via the
 
-Katalis widget. You can also upload contacts manually.
+Katalis.app widget. You can also upload contacts manually.
 
 To view the Contacts screen, click on the “Contacts” tab from the left-sidebar of your dashboard. This is what a typical
 contacts screen looks like:
@@ -11,7 +11,7 @@ Contacts can be added to the list in 3 ways, as explained in the following secti
 
 Manual upload
 
-You can manually upload contacts to your Katalis customer database in two ways.
+You can manually upload contacts to your Katalis.app customer database in two ways.
 
 1.  Add a single contact
     
@@ -23,12 +23,12 @@ You can manually upload contacts to your Katalis customer database in two ways.
     
     Step 1. On the Contacts screen, click on the “Import” button from the top-right corner.
     
-    Step 2. Choose a CSV file from your system to upload it to the Katalis database. This is what a sample database
+    Step 2. Choose a CSV file from your system to upload it to the Katalis.app database. This is what a sample database
     looks like:
 
 Pre-chat forms
 
-If you have a pre-chat form enabled, every time a customer gives their email and other details through it, Katalis will
+If you have a pre-chat form enabled, every time a customer gives their email and other details through it, Katalis.app will
 save them as a new contact.
 
 In the example shared above, Raji Nair will be autosaved as a contact when she fills the pre-chat form.
@@ -87,7 +87,7 @@ meeting with the customer.
 
 To add notes:​
 
-1.  Click on Contacts menu item from the Katalis Dashboard.
+1.  Click on Contacts menu item from the Katalis.app Dashboard.
 
 2.  Select a Contact from the list. (Click on the contact name)
 

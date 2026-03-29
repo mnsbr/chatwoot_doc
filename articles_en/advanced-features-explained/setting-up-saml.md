@@ -3,7 +3,7 @@
 
 Before you get started, there are some points to take note of
 
-  - Once SAML is enabled, your users won't be able to access Katalis with their password. Disabling SAML will revert
+  - Once SAML is enabled, your users won't be able to access Katalis.app with their password. Disabling SAML will revert
     this behaviour.
 
   - If a user is part of multiple accounts, and any one account has SAML setup, they will have to login via SAML IdP
@@ -25,7 +25,7 @@ You can find the SAML settings under Settings > Security. Here are the settings 
     Provider stores this cert and verifies signatures with it, ensuring the message wasn’t altered and truly came from
     the IdP.
 
-Once setup, you will find the details required to register Katalis as a Service Provider (SP) on your SAML provider.
+Once setup, you will find the details required to register Katalis.app as a Service Provider (SP) on your SAML provider.
 Here are the details you will get
 
   - ACS URL: The Assertion Consumer Service endpoint on the Service Provider that receives the SAML Response from the
@@ -37,9 +37,9 @@ Here are the details you will get
 
 In case, you need this information before-hand, here's the format for it
 
-  - ACS URL: <your-katalis-installation>/omniauth/saml/callback?account_id=<your-account-id>
+  - ACS URL: <your-Katalis.app-installation>/omniauth/saml/callback?account_id=<your-account-id>
 
-  - SP Entity ID: <your-katalis-installation>/saml/sp/<your-account-id>
+  - SP Entity ID: <your-Katalis.app-installation>/saml/sp/<your-account-id>
 
 Mapping Data
 

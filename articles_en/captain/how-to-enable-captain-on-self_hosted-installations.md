@@ -11,7 +11,7 @@ Prerequisites
 
 Before you begin, make sure that you have:
 
-  - Katalis Enterprise Edition with a paid plan.
+  - Katalis.app Enterprise Edition with a paid plan.
 
   - Admin access to the Super Admin Console.
 
@@ -63,5 +63,5 @@ If Captain is not responding as expected:
 
   - Confirm that Captain is enabled both at the installation and account levels.
 
-If Captain is still not responding, review the Katalis server logs for both the web and worker processes to identify
+If Captain is still not responding, review the Katalis.app server logs for both the web and worker processes to identify
 any errors, and share those error details with the support team for further assistance.Last updated on Aug 15, 2025

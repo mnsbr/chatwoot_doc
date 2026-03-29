@@ -1,4 +1,4 @@
-# How to add labels?Labels in Katalis can help you easily categorize and prioritize conversations, making it easier to manage your
+# How to add labels?Labels in Katalis.app can help you easily categorize and prioritize conversations, making it easier to manage your
 
 workflow. By assigning a label to a conversation from the chat's side panel, you can quickly identify the topic or
 status of the conversation.
@@ -9,7 +9,7 @@ sidebar for easy filtering.
 
 To add labels, follow the steps described below.
 
-Step 1. Click on Settings on Katalis home screen. Go to Labels → Add Label button.
+Step 1. Click on Settings on Katalis.app home screen. Go to Labels → Add Label button.
 
 Step 2. Start designing your own label. As you add more labels, try to give them meaningful names as well as different
 colours to maintain distinction and clarity.

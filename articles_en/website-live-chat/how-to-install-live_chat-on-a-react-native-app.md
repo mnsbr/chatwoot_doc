@@ -1,20 +1,20 @@
-# How to install live-chat on a React Native app?If you have a React Native app, you can add Katalis live chat widget and talk to your visitors in real-time. This can
+# How to install live-chat on a React Native app?If you have a React Native app, you can add Katalis.app live chat widget and talk to your visitors in real-time. This can
 
-be done in 3 simple steps using the Katalis plugin.
+be done in 3 simple steps using the Katalis.app plugin.
 
-Step 1. Create a website inbox in Katalis​
+Step 1. Create a website inbox in Katalis.app​
 
-Please refer to this guide for detailed instructions on setting a website inbox in Katalis.
+Please refer to this guide for detailed instructions on setting a website inbox in Katalis.app.
 
 Step 2. Add the plugin to your project​
 
 Add one of the following plugins to your project.
 
-yarn add @katalis/react-native-widget
+yarn add @Katalis.app/react-native-widget
 
 or
 
-npm install --save @katalis/react-native-widget --save
+npm install --save @Katalis.app/react-native-widget --save
 
 This library depends on react-native-webview and async-storage. Please follow the instructions provided in the docs.
 
@@ -30,7 +30,7 @@ Replace websiteToken and baseUrl with appropriate values.
 
 import React, { useState } from 'react';
 import { StyleSheet, View, SafeAreaView, TouchableOpacity, Text } from 'react-native';
-import ChatWootWidget from '@katalis/react-native-widget';
+import Katalis.appWidget from '@Katalis.app/react-native-widget';
 
 const App = () => {
   const [showWidget, toggleWidget] = useState(false);
@@ -43,7 +43,7 @@ const App = () => {
   };
   const customAttributes = { accountId: 1, pricingPlan: 'paid', status: 'active' };
   const websiteToken = 'WEBSITE_TOKEN';
-  const baseUrl = 'CHATWOOT_INSTALLATION_URL';
+  const baseUrl = 'Katalis.app_INSTALLATION_URL';
   const locale = 'en';
 
   return (
@@ -55,7 +55,7 @@ const App = () => {
       </View>
       {
         showWidget&&
-          <ChatWootWidget
+          <Katalis.appWidget
             websiteToken={websiteToken}
             locale={locale}
             baseUrl={baseUrl}

@@ -1,6 +1,6 @@
 # Cara Membuat Pesan Interaktif
 
-Katalis memungkinkan Anda membuat jenis pesan interaktif seperti kartu dan formulir di dalam Web Widget Katalis menggunakan API. Anda bisa membuat pesan ini menggunakan New Message API.
+Katalis.app memungkinkan Anda membuat jenis pesan interaktif seperti kartu dan formulir di dalam Web Widget Katalis.app menggunakan API. Anda bisa membuat pesan ini menggunakan New Message API.
 
 ## Contoh Payload
 

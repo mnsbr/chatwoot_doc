@@ -1,4 +1,4 @@
-# How to create an API channel inbox?To create and configure an API channel inbox in Katalis installations, follow the step described below.
+# How to create an API channel inbox?To create and configure an API channel inbox in Katalis.app installations, follow the step described below.
 
 Setup the API channel
 
@@ -14,12 +14,12 @@ The inbox setup is complete.
 
 Send messages to the API channel
 
-To send messages to the API channel, ensure you understand the following models and nomenclature used in Katalis.
+To send messages to the API channel, ensure you understand the following models and nomenclature used in Katalis.app.
 
 1.  Channel: Channel defines the type of source of conversations. E.g., Facebook, Twitter, API, etc.
 
 2.  Inbox: You can create multiple sources of conversations of the same channel type. E.g., You can have more than one
-    Facebook page connected to a Katalis account. Each page is called the inbox in Katalis.
+    Facebook page connected to a Katalis.app account. Each page is called the inbox in Katalis.app.
 
 3.  Conversation: A Conversation is a collection of messages.
 
@@ -167,15 +167,15 @@ Event type: message_created
 
 Create Interfaces using client APIs
 
-Client APIs available for the API channel will help you build customer-facing interfaces for Katalis.
+Client APIs available for the API channel will help you build customer-facing interfaces for Katalis.app.
 
 These APIs are useful for cases like the ones listed below.
 
-1.  Use a custom chat interface instead of the Katalis chat widget.
+1.  Use a custom chat interface instead of the Katalis.app chat widget.
 
 2.  Build conversational interfaces into your mobile apps.
 
-3.  Add Katalis to other platforms for which Katalis doesn't have an official SDK.
+3.  Add Katalis.app to other platforms for which Katalis.app doesn't have an official SDK.
 
 Creating customer objects
 
@@ -209,9 +209,9 @@ following on your rails console.
 # replace api_inbox_id with your inbox id
 Inbox.find(api_inbox_id).channel.hmac_token
 
-Connecting to the Katalis WebSockets
+Connecting to the Katalis.app WebSockets
 
-To get real-time updates from the agent dashboard, connect to Katalis WebSockets using the following URL.
+To get real-time updates from the agent dashboard, connect to Katalis.app WebSockets using the following URL.
 
 <your installation url>/cable
 

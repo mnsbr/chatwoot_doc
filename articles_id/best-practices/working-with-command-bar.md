@@ -1,6 +1,6 @@
 # Bekerja dengan Command Bar
 
-Command bar adalah fitur penting di Katalis yang meningkatkan produktivitas. Fitur ini memungkinkan Anda melakukan banyak tindakan hanya dengan beberapa ketukan tombol. Anda bisa mengakses command bar menggunakan ⌘ + K di macOS atau Ctrl + K di Windows dan Linux dari mana saja di dashboard Katalis.
+Command bar adalah fitur penting di Katalis.app yang meningkatkan produktivitas. Fitur ini memungkinkan Anda melakukan banyak tindakan hanya dengan beberapa ketukan tombol. Anda bisa mengakses command bar menggunakan ⌘ + K di macOS atau Ctrl + K di Windows dan Linux dari mana saja di dashboard Katalis.app.
 
 Setelah dibuka, pilih halaman tertentu untuk navigasi langsung atau pilih tindakan yang ingin dilakukan. Command bar juga menawarkan saran tindakan cerdas berdasarkan lokasi Anda saat ini di dashboard. Misalnya: Jika Anda melihat command bar dari conversations, akan ditampilkan tindakan spesifik percakapan seperti snooze, resolve terlebih dahulu.
 
@@ -31,7 +31,7 @@ Command bar memungkinkan Anda navigasi cepat ke halaman, seperti Settings, Repor
 
 ## Melakukan Tindakan Percakapan dengan Command Bar
 
-Command bar mengetahui posisi Anda di dashboard Katalis dan merekomendasikan tindakan yang membantu Anda lebih produktif dan cepat. Anda bisa menjalankan tindakan pada percakapan seperti Resolve/Reopen, Snooze, atau bahkan menetapkan agen atau label tertentu dengan mencarinya.
+Command bar mengetahui posisi Anda di dashboard Katalis.app dan merekomendasikan tindakan yang membantu Anda lebih produktif dan cepat. Anda bisa menjalankan tindakan pada percakapan seperti Resolve/Reopen, Snooze, atau bahkan menetapkan agen atau label tertentu dengan mencarinya.
 
 ### Perintah yang Tersedia
 

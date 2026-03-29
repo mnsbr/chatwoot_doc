@@ -1,22 +1,22 @@
-# Apa yang Tidak Tercakup dalam Uji Coba Gratis Katalis
+# Apa yang Tidak Tercakup dalam Uji Coba Gratis Katalis.app
 
-Uji coba gratis 15 hari Katalis dirancang untuk memberikan pengalaman produk dan memberi Anda kesempatan menilai kompatibilitasnya dengan kebutuhan keterlibatan pelanggan Anda. Kami telah mengaktifkan hampir semua fitur untuk periode uji coba ini, dengan beberapa pengecualian.
+Uji coba gratis 15 hari Katalis.app dirancang untuk memberikan pengalaman produk dan memberi Anda kesempatan menilai kompatibilitasnya dengan kebutuhan keterlibatan pelanggan Anda. Kami telah mengaktifkan hampir semua fitur untuk periode uji coba ini, dengan beberapa pengecualian.
 
-Dokumen ini mencakup apa yang tidak termasuk dalam uji coba gratis 15 hari Katalis.
+Dokumen ini mencakup apa yang tidak termasuk dalam uji coba gratis 15 hari Katalis.app.
 
-## Fitur yang Dikecualikan dari Uji Coba Gratis Katalis
+## Fitur yang Dikecualikan dari Uji Coba Gratis Katalis.app
 
 ### Beberapa Inbox
 
 **Channel Email**
 
-Channel Email dirancang untuk menghubungkan akun email dukungan Anda ke Katalis, memusatkan dukungan email dan sistem tiket dalam dashboard.
+Channel Email dirancang untuk menghubungkan akun email dukungan Anda ke Katalis.app, memusatkan dukungan email dan sistem tiket dalam dashboard.
 
 Tidak termasuk dalam uji coba gratis untuk meminimalkan kemungkinan spam ke kontak Anda.
 
 **Channel Facebook**
 
-Channel Facebook dirancang untuk menghubungkan akun Facebook Messenger Anda ke Katalis, memusatkan manajemen media sosial dan dukungan dalam dashboard.
+Channel Facebook dirancang untuk menghubungkan akun Facebook Messenger Anda ke Katalis.app, memusatkan manajemen media sosial dan dukungan dalam dashboard.
 
 Tidak termasuk dalam uji coba gratis untuk meminimalkan kemungkinan spam ke kontak Anda.
 
@@ -34,7 +34,7 @@ Tidak termasuk dalam uji coba gratis.
 
 ### Manajemen Tim
 
-Dengan fitur Teams, Anda bisa mengelola operasi dukungan dalam Katalis dengan berkolaborasi dengan anggota tim.
+Dengan fitur Teams, Anda bisa mengelola operasi dukungan dalam Katalis.app dengan berkolaborasi dengan anggota tim.
 
 Tidak termasuk dalam uji coba gratis.
 
@@ -46,5 +46,5 @@ Tidak termasuk dalam uji coba gratis untuk meminimalkan kemungkinan spam ke kont
 
 ## Catatan Penting
 
-- Ketersediaan fitur mungkin berubah dari waktu ke waktu, jadi kami sarankan untuk merujuk ke versi terbaru dokumentasi Katalis. Anda juga bisa menghubungi kami di support@katalis.app untuk informasi terbaru tentang ketersediaan fitur.
+- Ketersediaan fitur mungkin berubah dari waktu ke waktu, jadi kami sarankan untuk merujuk ke versi terbaru dokumentasi Katalis.app. Anda juga bisa menghubungi kami di support@katalis.app untuk informasi terbaru tentang ketersediaan fitur.
 - Jika ada fitur seperti yang disebutkan dalam dokumen ini yang penting untuk alur kerja Anda, dan Anda ingin mengujinya dengan uji coba gratis, kirim email ke support@katalis.app. Kami bisa mengevaluasi kasus Anda dan mengaktifkan fitur untuk akun Anda. :)

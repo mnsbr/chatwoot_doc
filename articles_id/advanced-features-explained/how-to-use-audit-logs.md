@@ -9,7 +9,7 @@ Audit Log adalah fitur Enterprise. Ini menyimpan catatan aktivitas yang terjadi 
 
 Atau, siapa melakukan apa, kapan dan dari mana?
 
-## Di Mana Menemukan Audit Log di Katalis?
+## Di Mana Menemukan Audit Log di Katalis.app?
 
 **Langkah 1.** Jika fitur tersedia untuk Anda, Anda bisa menemukannya dengan membuka 'Settings' → 'Audit Logs'.
 

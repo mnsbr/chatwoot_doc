@@ -6,7 +6,7 @@ Anda bisa menemukan halaman Pengaturan Profil di pojok kiri bawah dashboard Anda
 
 ## Memperbarui Profil Agen Anda
 
-Bagian ini membantu Anda memperbarui profil Agen di Katalis. Informasi yang diperbarui akan digunakan di dashboard, widget live-chat, dan semua email komunikasi eksternal.
+Bagian ini membantu Anda memperbarui profil Agen di Katalis.app. Informasi yang diperbarui akan digunakan di dashboard, widget live-chat, dan semua email komunikasi eksternal.
 
 Kolom di bagian ini dijelaskan di bawah.
 
@@ -16,7 +16,7 @@ Kolom di bagian ini dijelaskan di bawah.
 
 3. **Nama Tampilan** - Berikan nama yang ingin Anda tampilkan di percakapan/email Anda. Contoh: John H.
 
-4. **Alamat email Anda** - Alamat email ini akan digunakan untuk masuk ke Katalis dan mengirim notifikasi.
+4. **Alamat email Anda** - Alamat email ini akan digunakan untuk masuk ke Katalis.app dan mengirim notifikasi.
 
    **Catatan:** Jika Anda memperbarui alamat email, sistem akan mengeluarkan Anda. Anda perlu masuk lagi dengan alamat email dan kata sandi yang diperbarui.
 

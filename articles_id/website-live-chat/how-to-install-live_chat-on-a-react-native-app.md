@@ -1,19 +1,19 @@
 # Cara Menginstal Live Chat di Aplikasi React Native
 
-Jika Anda memiliki aplikasi React Native, Anda bisa menambahkan widget live chat Katalis dan berbicara dengan pengunjung secara real-time. Ini bisa dilakukan dalam 3 langkah sederhana menggunakan plugin Katalis.
+Jika Anda memiliki aplikasi React Native, Anda bisa menambahkan widget live chat Katalis.app dan berbicara dengan pengunjung secara real-time. Ini bisa dilakukan dalam 3 langkah sederhana menggunakan plugin Katalis.app.
 
-**Langkah 1.** Buat inbox website di Katalis
+**Langkah 1.** Buat inbox website di Katalis.app
 
-Silakan lihat panduan ini untuk instruksi detail tentang menyiapkan inbox website di Katalis.
+Silakan lihat panduan ini untuk instruksi detail tentang menyiapkan inbox website di Katalis.app.
 
 **Langkah 2.** Tambahkan plugin ke proyek Anda
 
 ```bash
-yarn add @katalis/react-native-widget
+yarn add @Katalis.app/react-native-widget
 ```
 atau
 ```bash
-npm install --save @katalis/react-native-widget --save
+npm install --save @Katalis.app/react-native-widget --save
 ```
 
 Library ini bergantung pada react-native-webview dan async-storage. Silakan ikuti instruksi yang disediakan di dokumentasi.
@@ -31,7 +31,7 @@ Ganti `websiteToken` dan `baseUrl` dengan nilai yang sesuai.
 ```javascript
 import React, { useState } from 'react';
 import { StyleSheet, View, SafeAreaView, TouchableOpacity, Text } from 'react-native';
-import KatalisWidget from '@katalis/react-native-widget';
+import Katalis.appWidget from '@Katalis.app/react-native-widget';
 
 const App = () => {
   const [showWidget, toggleWidget] = useState(false);
@@ -44,7 +44,7 @@ const App = () => {
   };
   const customAttributes = { accountId: 1, pricingPlan: 'paid', status: 'active' };
   const websiteToken = 'WEBSITE_TOKEN';
-  const baseUrl = 'URL_INSTALASI_KATALIS';
+  const baseUrl = 'URL_INSTALASI_Katalis.app';
   const locale = 'id';
 
   return (
@@ -55,7 +55,7 @@ const App = () => {
         </TouchableOpacity>
       </View>
       {showWidget &&
-        <KatalisWidget
+        <Katalis.appWidget
           websiteToken={websiteToken}
           locale={locale}
           baseUrl={baseUrl}

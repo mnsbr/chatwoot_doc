@@ -1,8 +1,8 @@
 # Cara Menerjemahkan Pesan dengan Google Translate
 
-Jika Anda sering menerima pertanyaan dalam bahasa yang tidak Anda/anggota tim pahami, Anda bisa menggunakan integrasi Google Translate di Katalis. Saat diaktifkan, Anda bisa langsung menerjemahkan pesan masuk menggunakan menu klik kanan. Dengan cara ini, Anda bisa dengan mudah berkomunikasi dengan pelanggan dalam bahasa asli mereka, bahkan jika Anda tidak menguasainya.
+Jika Anda sering menerima pertanyaan dalam bahasa yang tidak Anda/anggota tim pahami, Anda bisa menggunakan integrasi Google Translate di Katalis.app. Saat diaktifkan, Anda bisa langsung menerjemahkan pesan masuk menggunakan menu klik kanan. Dengan cara ini, Anda bisa dengan mudah berkomunikasi dengan pelanggan dalam bahasa asli mereka, bahkan jika Anda tidak menguasainya.
 
-## Cara Mengaktifkan Google Translate di Katalis
+## Cara Mengaktifkan Google Translate di Katalis.app
 
 **Langkah 1.** Buka Settings → Applications → Google Translate. Klik tombol "Configure" yang sesuai.
 

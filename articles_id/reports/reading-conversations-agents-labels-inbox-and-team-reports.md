@@ -1,6 +1,6 @@
 # Membaca Laporan Conversations, Agents, Labels, Inbox, dan Team
 
-Di Katalis, laporan Conversations, Agents, Labels, Inbox, dan Team semuanya bisa diinterpretasikan menggunakan metrik yang sama.
+Di Katalis.app, laporan Conversations, Agents, Labels, Inbox, dan Team semuanya bisa diinterpretasikan menggunakan metrik yang sama.
 
 Laporan tipikal terlihat seperti screenshot berikut, dengan grafik untuk setiap metrik.
 

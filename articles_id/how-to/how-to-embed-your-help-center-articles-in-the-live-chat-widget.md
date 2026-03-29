@@ -3,18 +3,18 @@
 
 Ingin mengintegrasikan artikel help center langsung ke widget live chat? Fitur canggih ini memungkinkan pelanggan mengakses konten dukungan tanpa meninggalkan antarmuka chat, menciptakan pengalaman dukungan yang mulus.
 
-Katalis menawarkan fitur bawaan yang membuat integrasi ini sederhana. Ikuti panduan langkah demi langkah ini untuk menyematkan help center di widget live chat Katalis.
+Katalis.app menawarkan fitur bawaan yang membuat integrasi ini sederhana. Ikuti panduan langkah demi langkah ini untuk menyematkan help center di widget live chat Katalis.app.
 
 ## Prasyarat
 
 Sebelum memulai, pastikan Anda memiliki:
 
-- Akun Katalis aktif dengan akses admin
+- Akun Katalis.app aktif dengan akses admin
 - Inbox live chat yang telah dikonfigurasi
 
 ## Langkah 1: Siapkan Help Center
 
-Pertama, Anda perlu membuat dan mengonfigurasi help center di Katalis.
+Pertama, Anda perlu membuat dan mengonfigurasi help center di Katalis.app.
 
 1. Ikuti panduan pengaturan help center yang detail untuk membuat help center
 2. Tambahkan artikel help center pertama untuk menguji integrasi
@@ -24,7 +24,7 @@ Pertama, Anda perlu membuat dan mengonfigurasi help center di Katalis.
 
 Navigasi ke konfigurasi inbox:
 
-1. Buka bagian Settings di dashboard Katalis
+1. Buka bagian Settings di dashboard Katalis.app
 2. Klik Inbox Settings dari navigation bar vertikal
 
 ## Langkah 3: Buka Pengaturan Live Chat

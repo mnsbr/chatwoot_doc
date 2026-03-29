@@ -6,7 +6,7 @@ inbox, it can handle conversations directly with your customers.
 
 How to create an assistant in Captain?
 
-If you’re using a paid plan on Katalis Cloud, you’ll find the Captain menu on the left-hand sidebar. Under this menu,
+If you’re using a paid plan on Katalis.app Cloud, you’ll find the Captain menu on the left-hand sidebar. Under this menu,
 you’ll see options for Assistants, Documents, and FAQs.
 
 Click on Assistants. You will see a page like the one give below.

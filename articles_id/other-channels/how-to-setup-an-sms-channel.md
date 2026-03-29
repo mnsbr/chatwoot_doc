@@ -9,7 +9,7 @@ Anda bisa menyiapkan inbox channel SMS melalui dua provider:
 
 Ikuti langkah-langkah di bawah ini.
 
-**Langkah 1.** Buka dashboard Katalis Anda. Buka Settings → Inboxes → Add Inbox.
+**Langkah 1.** Buka dashboard Katalis.app Anda. Buka Settings → Inboxes → Add Inbox.
 
 **Langkah 2.** Klik ikon "SMS".
 
@@ -23,7 +23,7 @@ Ini adalah input yang diperlukan untuk membuat channel ini:
 
 Klik Create Twilio Channel setelah mengisi informasi.
 
-#### Mengonfigurasikan Katalis dengan Twilio Studio
+#### Mengonfigurasikan Katalis.app dengan Twilio Studio
 
 Jika Anda menggunakan Twilio Studio untuk alur percakapan kustom, memperbarui webhook URL secara langsung akan merusak integrasi yang ada.
 
@@ -39,6 +39,6 @@ Setelah selesai dengan langkah ini, lanjutkan dengan menambahkan agen.
 
 **Langkah 4.** "Add agents" ke inbox Anda.
 
-Anda telah berhasil membuat inbox SMS. Anda akan mulai menerima pesan di dashboard Katalis Anda.
+Anda telah berhasil membuat inbox SMS. Anda akan mulai menerima pesan di dashboard Katalis.app Anda.
 
 Lihat juga: Mengirim kampanye SMS ke grup kontak.

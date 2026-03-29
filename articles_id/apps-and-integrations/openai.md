@@ -2,9 +2,9 @@
 
 Berinteraksi dengan pelanggan menuntut profesionalisme yang tak kenal lelah. Seberapa baik Anda berkomunikasi dengan pelanggan biasanya merupakan faktor besar yang berkontribusi pada penjualan serta retensi pelanggan. Belum lagi dampaknya pada identitas merek. Tapi, untuk selalu terdengar sempurna — Anda harus menjadi robot. Jadi kami membawa AI ke dashboard Anda. Dengan integrasi OpenAI kami, Anda bisa meningkatkan percakapan pelanggan saat terjadi.
 
-Dengan mengintegrasikan AI ke dashboard Katalis, Anda bisa meningkatkan percakapan pelanggan secara real-time tanpa mengorbankan suara unik atau identitas merek Anda.
+Dengan mengintegrasikan AI ke dashboard Katalis.app, Anda bisa meningkatkan percakapan pelanggan secara real-time tanpa mengorbankan suara unik atau identitas merek Anda.
 
-## Cara Mengintegrasikan OpenAI dengan Katalis
+## Cara Mengintegrasikan OpenAI dengan Katalis.app
 
 **Langkah 1.** Buka Settings → Applications → OpenAI. Klik tombol "Configure" yang sesuai.
 
@@ -14,9 +14,9 @@ Untuk mendapatkan API key OpenAI, masuk ke akun OpenAI Anda dan kunjungi link in
 
 Setelah Anda memasukkan secret API key, Anda akan melihat pesan sukses di layar.
 
-## Cara Menggunakan Fitur AI di Katalis
+## Cara Menggunakan Fitur AI di Katalis.app
 
-Ada tiga fitur bertenaga AI di Katalis:
+Ada tiga fitur bertenaga AI di Katalis.app:
 
 ### Reply Suggestion with AI
 

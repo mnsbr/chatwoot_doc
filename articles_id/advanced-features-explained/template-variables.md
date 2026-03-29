@@ -2,7 +2,7 @@
 
 Dengan variabel template, Anda bisa mempersonalisasi pesan dengan menyisipkan konten dinamis yang disesuaikan untuk setiap penerima. Dengan menambahkan placeholder dalam pesan, Anda bisa dengan mudah menyesuaikan komunikasi Anda dengan informasi seperti nama pelanggan, nomor pesanan, atau detail lainnya.
 
-Contoh: Jika Anda mengirim pesan `Hey {{ contact.name }}, how may I help you?`, Katalis akan mengambil nama kontak dan mengirim pesan seperti `Hey John, how may I help you?`.
+Contoh: Jika Anda mengirim pesan `Hey {{ contact.name }}, how may I help you?`, Katalis.app akan mengambil nama kontak dan mengirim pesan seperti `Hey John, how may I help you?`.
 
 Anda juga bisa menggunakan variabel di canned response, makro, dan automasi.
 
@@ -25,7 +25,7 @@ Variabel template yang tersedia adalah:
 
 ## Bagaimana Jika Saya Mengirim Variabel yang Tidak Ada?
 
-Jika Anda mencoba mengirim variabel yang tidak terdefinisi, Katalis akan menampilkan peringatan.
+Jika Anda mencoba mengirim variabel yang tidak terdefinisi, Katalis.app akan menampilkan peringatan.
 
 ## Cara Menambahkan Teks Fallback
 

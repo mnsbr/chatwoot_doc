@@ -1,12 +1,12 @@
 # Cara Menambahkan Label
 
-Label di Katalis dapat membantu Anda mengkategorikan dan memprioritaskan percakapan dengan mudah, sehingga lebih mudah mengelola alur kerja Anda. Dengan menugaskan label ke percakapan dari panel samping chat, Anda bisa dengan cepat mengidentifikasi topik atau status percakapan.
+Label di Katalis.app dapat membantu Anda mengkategorikan dan memprioritaskan percakapan dengan mudah, sehingga lebih mudah mengelola alur kerja Anda. Dengan menugaskan label ke percakapan dari panel samping chat, Anda bisa dengan cepat mengidentifikasi topik atau status percakapan.
 
 Label bersifat khusus akun, yang berarti Anda bisa menggunakannya untuk membuat alur kerja kustom yang unik untuk organisasi Anda. Anda juga bisa menyesuaikan warna label untuk membantu membedakannya, dan menampilkannya di sidebar untuk penyaringan yang mudah.
 
 Untuk menambahkan label, ikuti langkah-langkah di bawah ini.
 
-**Langkah 1.** Klik Settings di layar utama Katalis. Buka Labels → tombol Add Label.
+**Langkah 1.** Klik Settings di layar utama Katalis.app. Buka Labels → tombol Add Label.
 
 **Langkah 2.** Mulai merancang label Anda sendiri. Saat menambahkan lebih banyak label, berikan nama yang bermakna serta warna yang berbeda untuk menjaga perbedaan dan kejelasan.
 

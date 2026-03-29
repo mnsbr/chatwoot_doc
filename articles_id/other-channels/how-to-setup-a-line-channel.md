@@ -21,5 +21,5 @@ Pengaturan inbox selesai.
 
 **Langkah 7.** Buka channel "Messaging API" di developer console dan konfigurasikan webhook.
 
-1. Verifikasi webhook URL Katalis
+1. Verifikasi webhook URL Katalis.app
 2. Aktifkan "Use webhook"

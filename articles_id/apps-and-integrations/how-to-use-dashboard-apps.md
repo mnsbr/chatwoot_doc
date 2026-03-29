@@ -1,8 +1,8 @@
 # Cara Menggunakan Dashboard Apps
 
-Dengan Dashboard Apps, Anda bisa mengintegrasikan aplikasi di dalam dashboard Katalis untuk digunakan agen. Fitur ini memungkinkan Anda membuat aplikasi secara independen, yang kemudian bisa disematkan untuk menyediakan informasi pelanggan, pesanan, riwayat pembayaran, dll.
+Dengan Dashboard Apps, Anda bisa mengintegrasikan aplikasi di dalam dashboard Katalis.app untuk digunakan agen. Fitur ini memungkinkan Anda membuat aplikasi secara independen, yang kemudian bisa disematkan untuk menyediakan informasi pelanggan, pesanan, riwayat pembayaran, dll.
 
-Saat disematkan di dashboard Katalis, aplikasi Anda akan mendapatkan konteks percakapan dan kontak sebagai window event. Implementasikan listener untuk event message di halaman Anda untuk menerima konteks.
+Saat disematkan di dashboard Katalis.app, aplikasi Anda akan mendapatkan konteks percakapan dan kontak sebagai window event. Implementasikan listener untuk event message di halaman Anda untuk menerima konteks.
 
 ## Cara Membuat Dashboard App
 
@@ -12,11 +12,11 @@ Saat disematkan di dashboard Katalis, aplikasi Anda akan mendapatkan konteks per
 
 Setelah selesai, tab baru dengan nama yang Anda berikan akan muncul di jendela percakapan. Dalam kasus ini, namanya "Customer Orders".
 
-Saat Anda mengklik tab baru, Anda akan bisa melihat aplikasi Anda mengambil data di dashboard Katalis.
+Saat Anda mengklik tab baru, Anda akan bisa melihat aplikasi Anda mengambil data di dashboard Katalis.app.
 
-## Menerima Data dari Katalis ke Aplikasi Anda
+## Menerima Data dari Katalis.app ke Aplikasi Anda
 
-Katalis akan mengirimkan konteks percakapan dan kontak sebagai window event. Ini bisa diakses di dalam aplikasi Anda dengan mengimplementasikan listener untuk event:
+Katalis.app akan mengirimkan konteks percakapan dan kontak sebagai window event. Ini bisa diakses di dalam aplikasi Anda dengan mengimplementasikan listener untuk event:
 
 ```javascript
 window.addEventListener("message", function (event) {
@@ -27,14 +27,14 @@ window.addEventListener("message", function (event) {
 });
 ```
 
-## Permintaan Data On-Demand dari Katalis
+## Permintaan Data On-Demand dari Katalis.app
 
-Jika Anda perlu meminta data percakapan sesuai permintaan dari Katalis, Anda bisa mengirim pesan ke jendela induk menggunakan API JavaScript postMessage.
+Jika Anda perlu meminta data percakapan sesuai permintaan dari Katalis.app, Anda bisa mengirim pesan ke jendela induk menggunakan API JavaScript postMessage.
 
-Katalis akan mendengarkan key ini: `katalis-dashboard-app:fetch-info`.
+Katalis.app akan mendengarkan key ini: `Katalis.app-dashboard-app:fetch-info`.
 
 ```javascript
-window.parent.postMessage('katalis-dashboard-app:fetch-info', '*')
+window.parent.postMessage('Katalis.app-dashboard-app:fetch-info', '*')
 // Anda akan mendapatkan pesan di listener on message dengan payload appContext.
 ```
 

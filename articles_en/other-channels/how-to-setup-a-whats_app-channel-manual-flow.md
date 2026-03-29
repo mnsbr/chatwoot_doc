@@ -1,4 +1,4 @@
-# How to setup a WhatsApp channel (Manual flow)?You can manage your WhatsApp business account conversations from Katalis. To set it up, you have two options to choose
+# How to setup a WhatsApp channel (Manual flow)?You can manage your WhatsApp business account conversations from Katalis.app. To set it up, you have two options to choose
 
 your provider:
 
@@ -94,13 +94,13 @@ password).
 
 Once you have added and verified your phone number, the next step is configuring a webhook to receive inbound messages.
 
-Connecting Your Katalis Account
+Connecting Your Katalis.app Account
 
-Let's connect your Katalis account with your WhatsApp Cloud API
+Let's connect your Katalis.app account with your WhatsApp Cloud API
 
 Copy your WhatsApp Phone Number ID and Business Account ID from this section
 
-Log into your Katalis account, go to Settings > Inbox, and select WhatsApp channel
+Log into your Katalis.app account, go to Settings > Inbox, and select WhatsApp channel
 
 Enter your phone number, phone number ID, and business ID from your WhatsApp API setup
 
@@ -116,21 +116,21 @@ Your callback URL should be in the format of https://app.katalis.app/webhooks/wh
 
 Log into your Facebook developer account and navigate to WhatsApp > Configuration
 
-Paste your Katalis webhook URL and verification token here, then click "Verify and Save"
+Paste your Katalis.app webhook URL and verification token here, then click "Verify and Save"
 
 Set up webhook permissions by subscribing to messages
 
-That's it—you're all done! You can now start sending WhatsApp messages through Katalis.
+That's it—you're all done! You can now start sending WhatsApp messages through Katalis.app.
 
 FAQ’s
 
 How to configure multiple numbers under a single Facebook app?
 
-Facebook App allows configuring only a single Webhook endpoint. So create Inboxes in Katalis for all the numbers as
+Facebook App allows configuring only a single Webhook endpoint. So create Inboxes in Katalis.app for all the numbers as
 required. You will need to configure the Webhook URL provided for only one of these inboxes in the Facebook app for all
 the other inboxes to work.
 
-What type of Whatsapp templates are supported by Katalis ?
+What type of Whatsapp templates are supported by Katalis.app ?
 
 Please check the doc for more details about templates.
 

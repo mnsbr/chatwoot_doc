@@ -8,7 +8,7 @@
 - Channel WhatsApp berhasil terhubung
 - Status nomor telepon menunjukkan Connected
 - Rating kualitas Green
-- Tidak ada error yang ditampilkan di Katalis
+- Tidak ada error yang ditampilkan di Katalis.app
 - Pesan keluar mungkin berfungsi, tetapi pesan masuk tidak diterima
 
 ### Mengapa Ini Terjadi
@@ -77,7 +77,7 @@ Jika pesan WhatsApp berhenti berfungsi setelah pembaruan nama tampilan, mendafta
 
 Error 131049 berarti penerima belum menerima Ketentuan Layanan WhatsApp terbaru.
 
-Error ini dikembalikan oleh WhatsApp, bukan Katalis, dan khusus untuk nomor telepon pelanggan, bukan pengaturan bisnis Anda.
+Error ini dikembalikan oleh WhatsApp, bukan Katalis.app, dan khusus untuk nomor telepon pelanggan, bukan pengaturan bisnis Anda.
 
 ### Kapan Error Ini Terjadi?
 
@@ -100,7 +100,7 @@ Sampai pengguna menerima ketentuan, WhatsApp akan menolak pesan dengan error 131
 
 ### Cara Memperbaiki Error 131049
 
-Masalah ini tidak dapat diperbaiki dari Katalis atau akun WhatsApp Business Anda.
+Masalah ini tidak dapat diperbaiki dari Katalis.app atau akun WhatsApp Business Anda.
 
 Pengguna akhir harus:
 

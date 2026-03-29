@@ -6,7 +6,7 @@ Untuk mengakses pengaturan notifikasi, buka pengaturan profil Anda dari menu pro
 
 ## Notifikasi Audio
 
-Notifikasi audio tersedia ketika Anda membuka Katalis di browser. Notifikasi dikirim segera, berdasarkan pengaturan yang Anda pilih.
+Notifikasi audio tersedia ketika Anda membuka Katalis.app di browser. Notifikasi dikirim segera, berdasarkan pengaturan yang Anda pilih.
 
 Berikut gambaran umum setiap pengaturan ini:
 
@@ -24,7 +24,7 @@ Anda bisa memilih salah satu dari tiga opsi yang tersedia.
 
 Untuk agen, disarankan untuk mengaktifkan notifikasi audio hanya untuk percakapan yang ditugaskan. Ini akan memastikan Anda tidak melewatkan pesan penting sambil mengurangi gangguan dibandingkan mengaktifkan notifikasi untuk semua pesan. Untuk manajer, Anda bisa memilih Ditugaskan + Belum Ditugaskan, sehingga Anda bisa tetap mengawasi chat dan percakapan yang menunggu ditugaskan. Memilih ketiga opsi akan memberi Anda peringatan untuk semua pesan masuk.
 
-Perhatikan bahwa notifikasi audio hanya berfungsi ketika Katalis terbuka di browser. Jika Anda ingin mendapat notifikasi aktivitas meskipun aplikasi tidak terbuka, Anda bisa mengaktifkan "Notifikasi Push". Ini dijelaskan secara detail lebih lanjut di halaman ini.
+Perhatikan bahwa notifikasi audio hanya berfungsi ketika Katalis.app terbuka di browser. Jika Anda ingin mendapat notifikasi aktivitas meskipun aplikasi tidak terbuka, Anda bisa mengaktifkan "Notifikasi Push". Ini dijelaskan secara detail lebih lanjut di halaman ini.
 
 ### Kondisi Peringatan
 
@@ -40,7 +40,7 @@ Secara default, tidak ada yang dipilih karena notifikasi audio dinonaktifkan, na
 
 ## Notifikasi Push dan Notifikasi Email
 
-Katalis akan mengirim notifikasi tentang event baru dengan Notifikasi Push di browser dan aplikasi mobile, serta email berdasarkan preferensi Anda. Kami menyarankan untuk mengaktifkan notifikasi untuk percakapan yang ditugaskan dan yang menyebut Anda seperti yang ditunjukkan di tangkapan layar di bawah.
+Katalis.app akan mengirim notifikasi tentang event baru dengan Notifikasi Push di browser dan aplikasi mobile, serta email berdasarkan preferensi Anda. Kami menyarankan untuk mengaktifkan notifikasi untuk percakapan yang ditugaskan dan yang menyebut Anda seperti yang ditunjukkan di tangkapan layar di bawah.
 
 ### Mengaktifkan Notifikasi Push di Browser
 

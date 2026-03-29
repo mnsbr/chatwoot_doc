@@ -1,7 +1,7 @@
 
 # Pengenalan Captain
 
-Captain adalah agen AI untuk Katalis yang membantu membuat dukungan pelanggan lebih cepat, lebih cerdas, dan lebih personal. Captain dilengkapi dengan alat-alat canggih untuk membantu pelanggan dan agen dukungan Anda, memastikan percakapan yang lancar dan resolusi yang cepat.
+Captain adalah agen AI untuk Katalis.app yang membantu membuat dukungan pelanggan lebih cepat, lebih cerdas, dan lebih personal. Captain dilengkapi dengan alat-alat canggih untuk membantu pelanggan dan agen dukungan Anda, memastikan percakapan yang lancar dan resolusi yang cepat.
 
 🤖 **Captain Assistant** – Asisten cerdas yang berbicara dengan pelanggan Anda, belajar dari dokumen bantuan dan percakapan sebelumnya, serta memberikan respons yang cepat dan akurat. Saat diaktifkan, asisten akan menangani pertanyaan awal sebelum mentransfer ke agen.
 

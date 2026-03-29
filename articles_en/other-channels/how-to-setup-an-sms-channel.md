@@ -8,7 +8,7 @@ Creating an SMS inbox
 
 Follow the steps below.
 
-Step 1. Open your Katalis dashboard. Go to Settings → Inboxes → Add Inbox.
+Step 1. Open your Katalis.app dashboard. Go to Settings → Inboxes → Add Inbox.
 
 Step 2. Click on the "SMS" icon.
 
@@ -23,7 +23,7 @@ These are the inputs required to create this channel:
 
 Click Create Twilio Channel after filling in the information.
 
-Configuring Katalis with Twilio Studio​
+Configuring Katalis.app with Twilio Studio​
 
 If you use Twilio Studio for a custom conversation flow, updating the webhook URL directly will break your existing
 integration.
@@ -41,6 +41,6 @@ Once you are done with this step, proceed with adding agents.
 
 Step 4. "Add agents" to your inbox.
 
-You have successfully created an SMS inbox. You will start receiving the messages in your Katalis dashboard.
+You have successfully created an SMS inbox. You will start receiving the messages in your Katalis.app dashboard.
 
 Also, see: Sending an SMS campaign to a group of contacts.Last updated on Mar 31, 2025

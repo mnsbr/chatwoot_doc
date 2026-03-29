@@ -1,12 +1,12 @@
 # Menambahkan Agen
 
-Agen adalah anggota tim Komunikasi Pelanggan Anda di Katalis. Agen akan dapat melihat dan membalas pesan dari pengguna Anda.
+Agen adalah anggota tim Komunikasi Pelanggan Anda di Katalis.app. Agen akan dapat melihat dan membalas pesan dari pengguna Anda.
 
-Untuk menambahkan agen ke akun Katalis Anda, Anda bisa menggunakan tautan 'Klik di sini untuk mengundang anggota tim', seperti yang ditandai di tangkapan layar di bawah.
+Untuk menambahkan agen ke akun Katalis.app Anda, Anda bisa menggunakan tautan 'Klik di sini untuk mengundang anggota tim', seperti yang ditandai di tangkapan layar di bawah.
 
 Atau, Anda bisa navigasi dari Settings → Agents.
 
-Anda akan diarahkan ke halaman manajemen Agen seperti yang ditunjukkan di bawah. Nama Anda akan terdaftar secara default sebagai Administrator. Administrator bisa mengakses semua fitur Katalis yang diaktifkan untuk akun Anda, termasuk Pengaturan.
+Anda akan diarahkan ke halaman manajemen Agen seperti yang ditunjukkan di bawah. Nama Anda akan terdaftar secara default sebagai Administrator. Administrator bisa mengakses semua fitur Katalis.app yang diaktifkan untuk akun Anda, termasuk Pengaturan.
 
 Klik tombol Add Agent di sisi kanan atas.
 

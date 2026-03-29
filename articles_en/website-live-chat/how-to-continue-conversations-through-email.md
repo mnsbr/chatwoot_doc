@@ -6,15 +6,15 @@ the following circumstances.
 
   - The customer leaves the chat before the agent replies.
 
-For this to work, the contact should have an email address in the Katalis CRM.
+For this to work, the contact should have an email address in the Katalis.app CRM.
 
 Obtaining email addresses of contacts​
 
-You can prompt/update customer emails into Katalis through the following ways.
+You can prompt/update customer emails into Katalis.app through the following ways.
 
-1.  From Katalis SDK​
+1.  From Katalis.app SDK​
     
-    If customer email is known, you can supply it into katalis via the setUser method in our SDK.
+    If customer email is known, you can supply it into Katalis.app via the setUser method in our SDK.
 
 2.  From pre-chat form​
     
@@ -22,7 +22,7 @@ You can prompt/update customer emails into Katalis through the following ways.
 
 3. From Email collect Prompt​
 
-When the pre-chat form is disabled, and the customer's email is unknown, Katalis starts a conversation with an email
+When the pre-chat form is disabled, and the customer's email is unknown, Katalis.app starts a conversation with an email
 collect prompt.
 
 Note: When Captain is enabled on an inbox, the email collect prompt is automatically suppressed. Captain will handle
@@ -39,7 +39,7 @@ agent has replied, the following happens.
   - The customer receives an email thread with a conversation summary. They can reply to that email and continue the
     conversation.
 
-  - The agent receives the customer replies from email in their Katalis dashboard, continued over the existing
+  - The agent receives the customer replies from email in their Katalis.app dashboard, continued over the existing
     conversation thread.
 
 The email icon in the chat bubble indicates that the customer has replied through email.Last updated on Dec 15, 2025

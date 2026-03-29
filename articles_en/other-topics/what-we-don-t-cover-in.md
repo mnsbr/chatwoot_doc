@@ -1,24 +1,24 @@
-# What we don't cover in Katalis Free TrialKatalis 15-day free trial is designed to provide you with the product experience, and give you a chance to assess its
+# What we don't cover in Katalis.app Free TrialKatalis.app 15-day free trial is designed to provide you with the product experience, and give you a chance to assess its
 
 compatibility with your customer engagement needs. We have enabled almost all of the features for this trial period,
 with a handful of exceptions.
 
-This document covers what the Katalis 15-days free trial does not include.
+This document covers what the Katalis.app 15-days free trial does not include.
 
-Features excluded from Katalis Free Trial
+Features excluded from Katalis.app Free Trial
 
 A few inboxes
 
 Email channel
 
-The Email channel is designed to let you connect your support email accounts to Katalis, centralizing your email
+The Email channel is designed to let you connect your support email accounts to Katalis.app, centralizing your email
 support and ticketing system within the dashboard.
 
 It is not included in the free trial to minimize possible spamming for you contacts.
 
 Facebook channel
 
-The Facebook channel is designed to let you connect your Facebook Messenger account to Katalis, centralizing your
+The Facebook channel is designed to let you connect your Facebook Messenger account to Katalis.app, centralizing your
 social media management and support within the dashboard.
 
 It is not included in the free trial to minimize possible spamming for you contacts.
@@ -39,7 +39,7 @@ It is not included in the free trial.
 
 Team Management
 
-With the Teams feature, you can manage your support ops within Katalis by collaborating with your team members.
+With the Teams feature, you can manage your support ops within Katalis.app by collaborating with your team members.
 
 It is not included in the free trial.
 
@@ -52,7 +52,7 @@ It is not included in the free trial to minimize possible spamming for you conta
 Important Notes
 
   - The availability of features may change over time, so we recommend you to refer to the most up-to-date versions of
-    Katalis documentation. You can, alternatively, contact us at[email protected]for latest information on feature
+    Katalis.app documentation. You can, alternatively, contact us at[email protected]for latest information on feature
     availability.
 
   - If any of such features, as mentioned in this document, are crucial to your workflow, and you would like to test

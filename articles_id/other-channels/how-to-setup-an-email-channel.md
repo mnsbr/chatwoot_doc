@@ -1,6 +1,6 @@
 # Cara Menyiapkan Channel Email
 
-Untuk mengelola email dukungan pelanggan/tiket dari Katalis, Anda bisa membuat inbox Email di Katalis. Ini adalah panduan lengkap untuk menyiapkan channel Email Anda.
+Untuk mengelola email dukungan pelanggan/tiket dari Katalis.app, Anda bisa membuat inbox Email di Katalis.app. Ini adalah panduan lengkap untuk menyiapkan channel Email Anda.
 
 Dokumen ini dibagi menjadi tiga bagian:
 
@@ -10,9 +10,9 @@ Dokumen ini dibagi menjadi tiga bagian:
 
 Silakan langsung ke bagian mana saja. Mari mulai.
 
-## Cara Membuat Inbox Email di Katalis
+## Cara Membuat Inbox Email di Katalis.app
 
-**Langkah 1.** Buka dashboard Katalis Anda. Buka Settings → Inboxes → Add Inbox.
+**Langkah 1.** Buka dashboard Katalis.app Anda. Buka Settings → Inboxes → Add Inbox.
 
 **Langkah 2.** Klik ikon "Email".
 
@@ -34,7 +34,7 @@ Anda akan melihat tiga pengaturan utama di sini:
 
 Ketiga pengaturan dijelaskan di bagian berikut.
 
-## Cara Meneruskan Email ke Inbox Katalis
+## Cara Meneruskan Email ke Inbox Katalis.app
 
 **Langkah 1.** Salin "Forward to email address" dari tab Configuration di pengaturan inbox.
 
@@ -42,7 +42,7 @@ Ketiga pengaturan dijelaskan di bagian berikut.
 
 P.S. Periksa bagian Gmail di bawah untuk mempelajari cara menambahkan alamat penerusan di Gmail.
 
-**Langkah 3.** Kirim email ke alamat penerusan yang ditambahkan inbox dan periksa inbox email Katalis untuk email baru.
+**Langkah 3.** Kirim email ke alamat penerusan yang ditambahkan inbox dan periksa inbox email Katalis.app untuk email baru.
 
 ## Cara Mengonfigurasikan IMAP untuk Channel Email
 
@@ -59,7 +59,7 @@ Jika Anda menggunakan Gmail, gulir ke bagian IMAP untuk Gmail di bawah.
 
    P.S. Jika menggunakan Gmail dengan 2FA, gulir ke bagian "Cara membuat app password untuk Gmail". Jika menggunakan akun Gmail reguler, gulir ke bagian "Cara mengizinkan akses kurang aman ke Gmail".
 
-**Langkah 3.** Uji apakah semuanya berfungsi dengan baik. Kirim email ke email yang dikonfigurasi IMAP di Katalis. Periksa inbox Katalis untuk email baru. Buka percakapan email di Katalis dan verifikasi detail email.
+**Langkah 3.** Uji apakah semuanya berfungsi dengan baik. Kirim email ke email yang dikonfigurasi IMAP di Katalis.app. Periksa inbox Katalis.app untuk email baru. Buka percakapan email di Katalis.app dan verifikasi detail email.
 
 ## Cara Mengonfigurasikan SMTP untuk Channel Email
 
@@ -80,7 +80,7 @@ Isi kolom di bawah dan klik tombol "Update SMTP settings".
 
 5. Domain
 
-**Langkah 4.** Buka percakapan email yang sudah ada di Katalis.
+**Langkah 4.** Buka percakapan email yang sudah ada di Katalis.app.
 
 **Langkah 5.** Ketik pesan balasan untuk percakapan dan klik tombol "Send". Verifikasi bahwa email telah terkirim.
 
@@ -122,11 +122,11 @@ Anda juga bisa memeriksa inbox penerima untuk email yang terkirim.
 
 **Langkah 2.** Pilih tab "Forwarding and POP/IMAP" di halaman Settings.
 
-**Langkah 3.** Klik tombol "Add a forwarding address". Ini akan meminta alamat email penerusan. Masukkan yang dari Katalis dan klik tombol "Next".
+**Langkah 3.** Klik tombol "Add a forwarding address". Ini akan meminta alamat email penerusan. Masukkan yang dari Katalis.app dan klik tombol "Next".
 
 **Langkah 4.** Konfirmasi alamat penerusan di popup browser. Inbox email akan mengirim kode verifikasi ke alamat email penerusan.
 
-**Langkah 5.** Salin kode verifikasi dari inbox email Katalis.
+**Langkah 5.** Salin kode verifikasi dari inbox email Katalis.app.
 
 **Langkah 6.** Tempel kode verifikasi dan klik tombol "Verify".
 
@@ -134,7 +134,7 @@ Anda juga bisa memeriksa inbox penerima untuk email yang terkirim.
 
 ## Cara Membuat Channel Email Microsoft
 
-**Langkah 1.** Buka dashboard Katalis Anda. Buka Settings → Inboxes → Add Inbox.
+**Langkah 1.** Buka dashboard Katalis.app Anda. Buka Settings → Inboxes → Add Inbox.
 
 **Langkah 2.** Klik ikon "Email".
 
@@ -144,7 +144,7 @@ Anda juga bisa memeriksa inbox penerima untuk email yang terkirim.
 
 **Langkah 5.** Masukkan kredensial Microsoft/Outlook Anda.
 
-**Langkah 6.** Izinkan aplikasi "Katalis" untuk membaca dan membalas email Anda.
+**Langkah 6.** Izinkan aplikasi "Katalis.app" untuk membaca dan membalas email Anda.
 
 **Langkah 7.** "Add agents" ke inbox email Anda.
 

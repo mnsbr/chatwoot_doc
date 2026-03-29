@@ -1,7 +1,7 @@
 # How to setup a WhatsApp channel (Embedded signup)What is WhatsApp Embedded Signup?
 
 Embedded Signup is a browser-based interface supplied by Meta that authenticates a Facebook user, creates (or links) a
-WhatsApp Business Account (WABA), adds a phone number, and returns production credentials in one flow. Katalis Cloud
+WhatsApp Business Account (WABA), adds a phone number, and returns production credentials in one flow. Katalis.app Cloud
 embeds this interface when you choose WhatsApp Cloud while adding an Inbox, so no manual tokens or webhook URLs are
 required.
 
@@ -11,9 +11,9 @@ Prerequisites at a glance
 
   - Business information
 
-  - Katalis Cloud workspace with WhatsApp feature enabled
+  - Katalis.app Cloud workspace with WhatsApp feature enabled
 
-Onboarding workflow inside Katalis
+Onboarding workflow inside Katalis.app
 
 Step 1. Go to Settings → Inboxes → “Add Inbox”. Select WhatsApp.
 

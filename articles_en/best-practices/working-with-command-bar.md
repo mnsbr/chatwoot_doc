@@ -1,7 +1,7 @@
-# Working with command barThe command bar is a key feature in Katalis that enhance productivity. It allows you to perform a lot of actions with
+# Working with command barThe command bar is a key feature in Katalis.app that enhance productivity. It allows you to perform a lot of actions with
 
 just a few keystrokes. You can access the command bar using ⌘ + K on macOS or Ctrl + k on Windows and Linux from
-anywhere on the Katalis dashboard.
+anywhere on the Katalis.app dashboard.
 
 Once opened, choose a specific page to navigate directly or select an action to perform. The command bar also offers
 smart action suggestions based on your current location in your dashboard. For eg: If you are looking at the command bar
@@ -50,7 +50,7 @@ Quick navigations available
 
 Performing a conversation action with command bar
 
-The command bar is aware of where you are in the Katalis dashboard and recommends actions that will help you be more
+The command bar is aware of where you are in the Katalis.app dashboard and recommends actions that will help you be more
 productive and fast. You can execute actions on a conversation like Resolve/Reopen it, Snooze it, or even assign
 particular agents or labels to it by simply searching for them.
 

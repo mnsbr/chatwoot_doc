@@ -1,4 +1,4 @@
-# Reading Conversations, Agents, Labels, Inbox, and Team Reports.In Katalis, your Conversations, Agents, Labels, Inbox, and Team reports can all be interpreted using the same metrics.
+# Reading Conversations, Agents, Labels, Inbox, and Team Reports.In Katalis.app, your Conversations, Agents, Labels, Inbox, and Team reports can all be interpreted using the same metrics.
 
 A typical report looks like the following screenshot, with a graph for each of the metrics.
 

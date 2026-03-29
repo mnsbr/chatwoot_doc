@@ -1,6 +1,6 @@
 # How to setup a WebSocket connection?WebSockets establish a continuous connection between the client and server, enabling bi-directional communication.
 
-Katalis utilizes this connection to provide real-time updates about platform events. To connect to the Katalis
+Katalis.app utilizes this connection to provide real-time updates about platform events. To connect to the Katalis.app
 WebSocket, simply provide a token and follow the setup instructions outlined in this guide.
 
 Note: This feature is experimental, and the documentation may change with each release. Additionally, backward
@@ -9,39 +9,39 @@ compatibility cannot be guaranteed, so it is important to ensure you are using t
 Why should I use a WebSocket connection?
 
 A WebSocket connection allows for real-time data updates, making it ideal for clients such as an Android or iOS client
-SDK for Katalis. This helps update the dashboard without the need to reload the page. Hence, it can enhance the user
+SDK for Katalis.app. This helps update the dashboard without the need to reload the page. Hence, it can enhance the user
 experience and improve an agent's productivity.
 
-How to set up a WebSocket connection with Katalis?
+How to set up a WebSocket connection with Katalis.app?
 
-To set up a WebSocket connection with Katalis, you need to initiate a connection with the authentication PubSub token
-provided by Katalis. The URL for the connection is wss://<your-installation-url>/cable. If you are using Katalis
+To set up a WebSocket connection with Katalis.app, you need to initiate a connection with the authentication PubSub token
+provided by Katalis.app. The URL for the connection is wss://<your-installation-url>/cable. If you are using Katalis.app
 Cloud, you can use wss://app.katalis.app/cable as the URL.
 
 A PubSub token is a token that is used to authenticate a client when connecting to a PubSub (publish-subscribe) service.
 The client must present this token to the service in order to establish a connection and begin publishing or subscribing
 to messages.
 
-There are two types of PubSub tokens available in Katalis, as listed below.
+There are two types of PubSub tokens available in Katalis.app, as listed below.
 
 1.  User PubSub Token: This token has the privileges of an agent/admin and would receive all of the events listed later
     on the page. You can get the PubSub token by calling the Profile API.
 
-2.  Contact PubSub Token: Katalis generates a unique PubSub token for each session a contact has. This token can be
+2.  Contact PubSub Token: Katalis.app generates a unique PubSub token for each session a contact has. This token can be
     used to connect to the WebSocket and receive real-time updates for the same session. When a contact is created
     through the public APIs, the pubsub_token is included in the response payload. This token only grants access to
     events related to the current session, such as conversation.created,
      conversation.status_changed, message.created, message.updated, conversation_typing_on, conversation_typing_off and presence.update.
 
-Please refer Client APIs to build real time customer facing integrations using Katalis.
+Please refer Client APIs to build real time customer facing integrations using Katalis.app.
 
 Note: This token may be rotated regularly based on your installation type. Please ensure that you are using the latest
 token.
 
-How to connect to Katalis WebSocket?
+How to connect to Katalis.app WebSocket?
 
-To connect to the Katalis WebSocket, use the command subscribe and include your pubSubToken, accountId, and userId (if
-using a user token) in the connection request. Here is an example of how you can connect with Katalis.
+To connect to the Katalis.app WebSocket, use the command subscribe and include your pubSubToken, accountId, and userId (if
+using a user token) in the connection request. Here is an example of how you can connect with Katalis.app.
 
 // Add a helper method to convert JSON to a string
 const stringify = (payload = {}) => JSON.stringify(payload);
@@ -70,7 +70,7 @@ connection.send(
 
 Publishing presence to the WebSocket server
 
-To keep your users’ status online in Katalis, you can send a presence update event to Katalis every 30 seconds. This
+To keep your users’ status online in Katalis.app, you can send a presence update event to Katalis.app every 30 seconds. This
 action would keep the status of the agent/contact online.
 
 How to update the presence of an agent/admin?
@@ -113,7 +113,7 @@ WebSocket Payload
 
 Objects
 
-An event can contain any of the following objects as payload. Different types of objects supported in Katalis are as
+An event can contain any of the following objects as payload. Different types of objects supported in Katalis.app are as
 follows.
 
 Conversation

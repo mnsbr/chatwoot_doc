@@ -1,16 +1,16 @@
-# Mobile app for AndroidYou can access your Katalis account through the Katalis mobile app on Android mobile devices.
+# Mobile app for AndroidYou can access your Katalis.app account through the Katalis.app mobile app on Android mobile devices.
 
-How to get the Katalis mobile app for Android?
+How to get the Katalis.app mobile app for Android?
 
-You can download the app called "Katalis" from your Play Store. Follow these steps:
+You can download the app called "Katalis.app" from your Play Store. Follow these steps:
 
 1.  Open the Play Store on your Android device running version 7.0 or later.
 
-2.  Search for Katalis and press on "Install" to download the app.
+2.  Search for Katalis.app and press on "Install" to download the app.
 
-3.  Once downloaded, open the Katalis app.
+3.  Once downloaded, open the Katalis.app app.
 
-4.  Enter the Installation URL; in the format domain.com. If you are using a self-hosted Katalis installation, input
+4.  Enter the Installation URL; in the format domain.com. If you are using a self-hosted Katalis.app installation, input
     your server URL. Otherwise, use app.katalis.app.
 
 5.  Click the Connect button and enter your account credentials to log in.

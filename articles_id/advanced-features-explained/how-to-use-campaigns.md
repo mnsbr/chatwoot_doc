@@ -1,6 +1,6 @@
 # Cara Menggunakan Campaign
 
-Fitur Campaign adalah cara bagi Anda untuk mengirim pesan keluar ke pelanggan. Ada dua jenis campaign di Katalis:
+Fitur Campaign adalah cara bagi Anda untuk mengirim pesan keluar ke pelanggan. Ada dua jenis campaign di Katalis.app:
 
 ## I. Ongoing Campaign
 

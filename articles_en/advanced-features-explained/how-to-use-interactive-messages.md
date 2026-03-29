@@ -1,4 +1,4 @@
-# How to create interactive messages?Katalis lets you create interactive message types like cards and forms inside your Katalis Web Widget using the APIs.
+# How to create interactive messages?Katalis.app lets you create interactive message types like cards and forms inside your Katalis.app Web Widget using the APIs.
 
 You can create these messages using the New Message API.
 

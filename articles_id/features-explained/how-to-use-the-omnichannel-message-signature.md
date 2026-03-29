@@ -1,12 +1,12 @@
 # Cara Menggunakan Tanda Tangan Pesan Omnichannel
 
-Tanda tangan pesan pribadi berfungsi sebagai penutup komprehensif yang bisa Anda sertakan di akhir atau footer pesan Anda. Di Katalis, Anda bisa menggunakan tanda tangan pesan di semua inbox dan tidak terbatas hanya pada email.
+Tanda tangan pesan pribadi berfungsi sebagai penutup komprehensif yang bisa Anda sertakan di akhir atau footer pesan Anda. Di Katalis.app, Anda bisa menggunakan tanda tangan pesan di semua inbox dan tidak terbatas hanya pada email.
 
 Untuk membuat dan menggunakan tanda tangan Anda, ikuti langkah-langkah sederhana di bawah ini.
 
 ## Membuat Tanda Tangan Pesan yang Dipersonalisasi
 
-Setiap agen di Katalis bisa membuat tanda tangan pesan sendiri. Ikuti langkah-langkah berikut.
+Setiap agen di Katalis.app bisa membuat tanda tangan pesan sendiri. Ikuti langkah-langkah berikut.
 
 **Langkah 1.** Klik ikon profil Anda dari kiri bawah dashboard, dan buka 'Personal Settings'.
 
@@ -16,7 +16,7 @@ Setiap agen di Katalis bisa membuat tanda tangan pesan sendiri. Ikuti langkah-la
 
 ## Menggunakan Tanda Tangan Pesan Anda
 
-Anda bisa sepenuhnya mengontrol perilaku tanda tangan pesan dari dashboard Katalis. Tanda tangan Anda diaktifkan secara default. Saat berinteraksi dengan pelanggan, Anda memiliki tiga opsi berikut.
+Anda bisa sepenuhnya mengontrol perilaku tanda tangan pesan dari dashboard Katalis.app. Tanda tangan Anda diaktifkan secara default. Saat berinteraksi dengan pelanggan, Anda memiliki tiga opsi berikut.
 
 ### Kirim pesan
 Anda bisa mengetik pesan dan menjalankan alur kerja reguler Anda. Tanda tangan pesan akan secara otomatis terus ditambahkan ke semua pesan Anda.

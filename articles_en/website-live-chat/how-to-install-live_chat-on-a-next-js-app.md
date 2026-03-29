@@ -1,20 +1,20 @@
-# How to install live-chat on a Next.js app?If you have a Next.js app, you can add Katalis live chat widget and talk to your visitors in real time. To integrate
+# How to install live-chat on a Next.js app?If you have a Next.js app, you can add Katalis.app live chat widget and talk to your visitors in real time. To integrate
 
-Katalis with your Next.js application, you need a component that loads the Katalis script.
+Katalis.app with your Next.js application, you need a component that loads the Katalis.app script.
 
 You can do this in two quick steps. Let us illustrate this with the help of an example below. This example shows a React
-component that loads the Katalis script asynchronously.
+component that loads the Katalis.app script asynchronously.
 
 Step 1. Copy and Create!
 
-Copy the following code and create a file in your components folder with the name KatalisWidget.js.
+Copy the following code and create a file in your components folder with the name Katalis.appWidget.js.
 
 import React from 'react';
 
-class KatalisWidget extends React.Component {
+class Katalis.appWidget extends React.Component {
   componentDidMount () {
-    // Add Katalis Settings
-    window.katalisSettings = {
+    // Add Katalis.app Settings
+    window.Katalis.appSettings = {
       hideMessageBubble: false,
       position: 'right', // This can be left or right
       locale: 'en', // Language to be set
@@ -29,7 +29,7 @@ class KatalisWidget extends React.Component {
       s.parentNode.insertBefore(g,s);
       g.async=!0;
       g.onload=function(){
-        window.katalisSDK.run({
+        window.Katalis.appSDK.run({
           websiteToken: '<your-website-token>',
           baseUrl: BASE_URL
         })
@@ -42,7 +42,7 @@ class KatalisWidget extends React.Component {
   }
 }
 
-export default KatalisWidget
+export default Katalis.appWidget
 
 Step 2. Import​
 
@@ -51,15 +51,15 @@ Import the component in your pages or layout component, as shown below.
 import React, { Fragment } from 'react'
 // ...
 
-import KatalisWidget from '../components/KatalisWidget'
+import Katalis.appWidget from '../components/Katalis.appWidget'
 
 const Page = () => (
   <Fragment>
-    <KatalisWidget />
+    <Katalis.appWidget />
     <Component {...}>
   </Fragment>
 )
 
 export default Page
 
-You would be able to see the Katalis widget on the page now.Last updated on Apr 10, 2024
+You would be able to see the Katalis.app widget on the page now.Last updated on Apr 10, 2024

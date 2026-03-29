@@ -1,6 +1,6 @@
 # Cara Menetapkan Prioritas
 
-Memprioritaskan percakapan sangat penting untuk mengelola beban kerja Anda secara efektif, memastikan bahwa Anda menangani masalah mendesak dengan segera sambil tetap menangani hal-hal yang kurang kritis secara efisien. Fitur prioritas Katalis memungkinkan Anda menetapkan tingkat prioritas ke setiap percakapan, memudahkan untuk mengidentifikasi percakapan mana yang memerlukan perhatian segera dan mana yang bisa menunggu.
+Memprioritaskan percakapan sangat penting untuk mengelola beban kerja Anda secara efektif, memastikan bahwa Anda menangani masalah mendesak dengan segera sambil tetap menangani hal-hal yang kurang kritis secara efisien. Fitur prioritas Katalis.app memungkinkan Anda menetapkan tingkat prioritas ke setiap percakapan, memudahkan untuk mengidentifikasi percakapan mana yang memerlukan perhatian segera dan mana yang bisa menunggu.
 
 Ada empat opsi yang tersedia:
 
@@ -29,7 +29,7 @@ Anda juga bisa menetapkan prioritas dari command palette. Buka command palette m
 ## FAQ
 
 ### Apakah mendukung prioritas kustom?
-Katalis tidak mengizinkan prioritas yang dikustomisasi atau terlalu spesifik. Kami sengaja merancangnya seperti ini untuk menghindari jebakan kompleksitas berlebihan, yang bisa membuat penetapan prioritas lebih menantang dan pada akhirnya memberikan sedikit atau tidak ada nilai lebih dibanding sistem saat ini. Solusi terbaik adalah menggunakan label atau atribut kustom.
+Katalis.app tidak mengizinkan prioritas yang dikustomisasi atau terlalu spesifik. Kami sengaja merancangnya seperti ini untuk menghindari jebakan kompleksitas berlebihan, yang bisa membuat penetapan prioritas lebih menantang dan pada akhirnya memberikan sedikit atau tidak ada nilai lebih dibanding sistem saat ini. Solusi terbaik adalah menggunakan label atau atribut kustom.
 
 ### Apakah prioritas percakapan berfungsi dengan aturan automasi?
 Ya, dimungkinkan untuk menetapkan prioritas melalui aturan automasi, kondisi perubahan prioritas juga ada di aturan automasi.

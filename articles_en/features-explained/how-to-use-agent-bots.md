@@ -1,9 +1,9 @@
-# How to use Agent bots?AgentBot can seamlessly integrate with your Katalis inbox as a customer query handling bot. With Katalis, you can
+# How to use Agent bots?AgentBot can seamlessly integrate with your Katalis.app inbox as a customer query handling bot. With Katalis.app, you can
 
 easily connect your custom bot logic to conversation handling via AgentBot's API.
 
-By connecting AgentBot to your inbox, all new conversations will automatically be assigned a 'bot' status. Katalis will
-send conversation events to your bot URL as webhook events, allowing AgentBot to respond through the Katalis API in
+By connecting AgentBot to your inbox, all new conversations will automatically be assigned a 'bot' status. Katalis.app will
+send conversation events to your bot URL as webhook events, allowing AgentBot to respond through the Katalis.app API in
 real-time.
 
 How does the AgentBot work?
@@ -20,7 +20,7 @@ Explained below in a typical workflow of an AgentBot.
 
 4.  The AgentBot can utilize services such as Rasa, Dialogflow, or Lex for intent detection.
 
-5.  The AgentBot can post the generated response back into the widget by utilizing Katalis APIs such as message_create.
+5.  The AgentBot can post the generated response back into the widget by utilizing Katalis.app APIs such as message_create.
 
 6.  The AgentBot can toggle a conversation status to open to hand off the conversation to a human agent.
 
@@ -56,11 +56,11 @@ Examples
 
 2.  Example implementation using Rasa.
 
-Also, look into interesting ways to leverage bot-message types on Katalis.
+Also, look into interesting ways to leverage bot-message types on Katalis.app.
 
 Creating agent bots
 
-How to create agent bots in your Katalis account?
+How to create agent bots in your Katalis.app account?
 
 You can create agent bots from the account settings. Go to Settings -> Bots. You will see an option like the one below.
 

@@ -1,6 +1,6 @@
 # Mengelompokkan Kontak ke dalam Segmen Kustom
 
-Dengan Katalis, Anda bisa mengurutkan dan memfilter kontak menggunakan berbagai kategori dengan filter lanjutan. Anda bisa menyimpan kontak yang difilter sebagai segmen, yang muncul di sidebar sekunder di bawah bagian "Segments". Fitur ini membantu menyimpan berbagai kelompok kontak berdasarkan kebutuhan Anda dan mengaksesnya dengan mudah.
+Dengan Katalis.app, Anda bisa mengurutkan dan memfilter kontak menggunakan berbagai kategori dengan filter lanjutan. Anda bisa menyimpan kontak yang difilter sebagai segmen, yang muncul di sidebar sekunder di bawah bagian "Segments". Fitur ini membantu menyimpan berbagai kelompok kontak berdasarkan kebutuhan Anda dan mengaksesnya dengan mudah.
 
 ## Cara Membuat Segmen Kontak
 

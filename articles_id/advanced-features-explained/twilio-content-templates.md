@@ -1,7 +1,7 @@
 
 # Template Konten Twilio
 
-Twilio Content Templates memungkinkan Anda mengirim template pesan WhatsApp yang telah disetujui melalui channel WhatsApp Business Twilio Anda di Katalis. Template ini memungkinkan Anda memulai percakapan dan mengirim pesan terstruktur yang sesuai dengan kebijakan pengiriman pesan WhatsApp.
+Twilio Content Templates memungkinkan Anda mengirim template pesan WhatsApp yang telah disetujui melalui channel WhatsApp Business Twilio Anda di Katalis.app. Template ini memungkinkan Anda memulai percakapan dan mengirim pesan terstruktur yang sesuai dengan kebijakan pengiriman pesan WhatsApp.
 
 ## Jenis Template yang Didukung
 
@@ -32,7 +32,7 @@ Sebelum menggunakan Twilio Content Templates:
 
 1. **Akun Twilio**: Akun Twilio aktif dengan akses WhatsApp Business API
 2. **Template yang Disetujui**: Template dibuat dan disetujui di Twilio Console
-3. **Integrasi Katalis**: Channel WhatsApp Twilio dikonfigurasi di Katalis
+3. **Integrasi Katalis.app**: Channel WhatsApp Twilio dikonfigurasi di Katalis.app
 4. **Akun WhatsApp Business**: Profil WhatsApp Business yang terverifikasi
 
 ## Menyiapkan Template
@@ -45,9 +45,9 @@ Sebelum menggunakan Twilio Content Templates:
 6. Kirim template untuk persetujuan WhatsApp
 7. Tunggu persetujuan (5 menit hingga 24 jam)
 8. Template yang disetujui menerima ContentSid
-9. Template sekarang siap digunakan di Katalis
+9. Template sekarang siap digunakan di Katalis.app
 
-## Menyinkronkan Template ke Katalis
+## Menyinkronkan Template ke Katalis.app
 
 ### Sinkronisasi Otomatis via API
 Template secara otomatis disinkronkan saat Anda:
@@ -110,7 +110,7 @@ Untuk administrator inbox:
 
 ### Variabel Tidak Berfungsi
 - **Penyebab**: Format variabel salah atau nilai hilang
-- **Solusi**: Gunakan format {{1}}, {{2}} yang benar di Twilio, isi semua variabel wajib di Katalis
+- **Solusi**: Gunakan format {{1}}, {{2}} yang benar di Twilio, isi semua variabel wajib di Katalis.app
 
 ## Batasan
 

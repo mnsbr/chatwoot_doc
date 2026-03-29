@@ -9,7 +9,7 @@ Symptoms
 
   - Quality rating is Green
 
-  - No errors are shown in Katalis
+  - No errors are shown in Katalis.app
 
   - Outgoing messages may work, but incoming messages are not received
 
@@ -98,7 +98,7 @@ What Is Error 131049?
 
 Error 131049 means that the recipient has not accepted WhatsApp’s latest Terms of Service.
 
-This error is returned by WhatsApp, not Katalis, and is specific to the customer’s phone number, not your business
+This error is returned by WhatsApp, not Katalis.app, and is specific to the customer’s phone number, not your business
 setup.
 
 When Does This Error Occur?
@@ -125,7 +125,7 @@ Until the user accepts the terms, WhatsApp will reject messages with error 13104
 
 How to Fix Error 131049
 
-This issue cannot be fixed from Katalis or your WhatsApp Business account.
+This issue cannot be fixed from Katalis.app or your WhatsApp Business account.
 
 The end user must:
 

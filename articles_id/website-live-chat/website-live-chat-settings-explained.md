@@ -12,12 +12,12 @@ Dashboard web dan widget live chat berfungsi dengan sebagian besar browser web m
 - Apple Safari: v14.1 ke atas
 - Microsoft Edge: v16 ke atas
 
-Versi OS mobile yang didukung untuk aplikasi mobile Katalis:
+Versi OS mobile yang didukung untuk aplikasi mobile Katalis.app:
 
 - Android: v5.0 ke atas
 - iOS: v11.0 ke atas
 
-## Cara Membuat Channel Website di Katalis?
+## Cara Membuat Channel Website di Katalis.app?
 
 **Langkah 1.** Buka halaman Inboxes. Buka Settings → Inboxes → tombol "Add Inbox".
 

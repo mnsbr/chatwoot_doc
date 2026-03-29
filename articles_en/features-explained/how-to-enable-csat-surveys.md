@@ -4,8 +4,8 @@ specific experience. It enables your customers to rate their satisfaction with y
 scale. Once you collect a significant number of scores, you can calculate your average score over specific periods of
 time.
 
-As a Katalis member, this entire workflow shall be extremely easy for you. You can simply enable CSAT surveys for your
-inboxes. When an agent resolves the conversation, Katalis sends a survey to your customers for rating and feedback.
+As a Katalis.app member, this entire workflow shall be extremely easy for you. You can simply enable CSAT surveys for your
+inboxes. When an agent resolves the conversation, Katalis.app sends a survey to your customers for rating and feedback.
 It's calculated by asking a question, such as "Rate your conversation" There's a corresponding survey emoji scale. After
 submitting the rating, the customer can give more optional feedback.
 
@@ -17,7 +17,7 @@ This is how a CSAT survey looks in other inboxes:
 
 How to enable CSAT surveys?
 
-CSAT is disabled by default. You can enable CSAT surveys for any inbox to let Katalis collect feedback on your behalf.
+CSAT is disabled by default. You can enable CSAT surveys for any inbox to let Katalis.app collect feedback on your behalf.
 
 1.  Navigate to Settings → Inboxes.
 
@@ -31,7 +31,7 @@ CSAT is disabled by default. You can enable CSAT surveys for any inbox to let Ka
 
 Customization Options
 
-Katalis now offers enhanced customization for CSAT surveys:
+Katalis.app now offers enhanced customization for CSAT surveys:
 
 Display Type
 

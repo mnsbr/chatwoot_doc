@@ -2,7 +2,7 @@
 
 Sebagai penyedia layanan, Service Level Agreement (SLA) Anda adalah pengaturan kontraktual antara Anda dan pelanggan yang mendefinisikan tingkat layanan yang Anda berkomitmen untuk berikan. SLA Anda menentukan metrik kinerja yang diharapkan, seperti waktu respons, ketersediaan, dan waktu resolusi, yang telah Anda setujui untuk disediakan. SLA ini membuat Anda bertanggung jawab atas kualitas layanan yang diberikan, memastikan tingkat dukungan yang konsisten dan andal untuk pelanggan Anda.
 
-Katalis memungkinkan Anda melacak metrik berikut:
+Katalis.app memungkinkan Anda melacak metrik berikut:
 
 - **FRT (First Response Time)**: Metrik ini mengacu pada waktu yang dibutuhkan agen untuk merespons pertanyaan atau permintaan awal pelanggan. Ini adalah ukuran penting dari responsivitas, karena pelanggan mengharapkan perhatian cepat terhadap masalah atau pertanyaan mereka.
 

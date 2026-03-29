@@ -1,4 +1,4 @@
-# Manage team access control with flexible role-based permissionsCustom roles are reusable permission sets you can assign to teammates in your Katalis workspace. This makes it easy to
+# Manage team access control with flexible role-based permissionsCustom roles are reusable permission sets you can assign to teammates in your Katalis.app workspace. This makes it easy to
 
 update permissions for multiple team members at once.
 
@@ -8,7 +8,7 @@ To create a new role, go to Settings > Custom Roles, and click Add custom role.
 
 Enter a name, description and required permissions for your role:
 
-Write a clear description that tells teammates exactly what permissions and abilities this role grants them in Katalis.
+Write a clear description that tells teammates exactly what permissions and abilities this role grants them in Katalis.app.
 
 Then save your new role.
 

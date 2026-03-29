@@ -1,7 +1,7 @@
 
 # Twilio content templatesTwilio Content Templates allow you to send pre-approved WhatsApp message templates through your Twilio WhatsApp Business
 
-channels in Katalis. These templates enable you to initiate conversations and send structured messages that comply with
+channels in Katalis.app. These templates enable you to initiate conversations and send structured messages that comply with
 WhatsApp's messaging policies.
 
 Template Types Supported
@@ -48,7 +48,7 @@ Before using Twilio Content Templates:
 
 2.  Approved Templates: Templates created and approved in Twilio Console
 
-3.  Katalis Integration: Twilio WhatsApp channel configured in Katalis
+3.  Katalis.app Integration: Twilio WhatsApp channel configured in Katalis.app
 
 4.  WhatsApp Business Account: Verified WhatsApp Business profile
 
@@ -71,9 +71,9 @@ Setting Up Templates
 
 8.  Approved templates receive a ContentSid
 
-9.  Templates are now ready for use in Katalis
+9.  Templates are now ready for use in Katalis.app
 
-Syncing Templates to Katalis
+Syncing Templates to Katalis.app
 
 Automatic Sync via API
 
@@ -176,14 +176,14 @@ Variables Not Working
 
   - Cause: Incorrect variable format or missing values
 
-  - Solutions: Use correct {{1}}, {{2}} format in Twilio, Fill all required variables in Katalis, Check variable count
+  - Solutions: Use correct {{1}}, {{2}} format in Twilio, Fill all required variables in Katalis.app, Check variable count
     matches template
 
 Error Messages
 
 "Template not found"
 
-  - Template not synced to Katalis
+  - Template not synced to Katalis.app
 
   - Run manual sync or check template approval
 
@@ -271,4 +271,4 @@ For additional help:
 
   - Contact your system administrator for technical issues
 
-  - Refer to Katalis documentation for general platform guidancLast updated on Jan 05, 2026
+  - Refer to Katalis.app documentation for general platform guidancLast updated on Jan 05, 2026

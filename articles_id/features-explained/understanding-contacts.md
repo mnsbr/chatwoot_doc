@@ -1,6 +1,6 @@
 # Memahami Kontak
 
-Bagian "Contacts" di Katalis berfungsi sebagai database pengguna akhir atau pelanggan yang pernah berinteraksi dengan Anda melalui widget Katalis. Anda juga bisa mengunggah kontak secara manual.
+Bagian "Contacts" di Katalis.app berfungsi sebagai database pengguna akhir atau pelanggan yang pernah berinteraksi dengan Anda melalui widget Katalis.app. Anda juga bisa mengunggah kontak secara manual.
 
 Untuk melihat layar Kontak, klik tab "Contacts" dari sidebar kiri dashboard Anda.
 
@@ -10,7 +10,7 @@ Kontak bisa ditambahkan ke daftar dengan 3 cara, seperti yang dijelaskan di bagi
 
 ### Unggah Manual
 
-Anda bisa mengunggah kontak secara manual ke database pelanggan Katalis dengan dua cara.
+Anda bisa mengunggah kontak secara manual ke database pelanggan Katalis.app dengan dua cara.
 
 **1. Menambahkan satu kontak**
 - **Langkah 1.** Di layar Kontak, klik tombol "New Contact" dari pojok kanan atas.
@@ -18,11 +18,11 @@ Anda bisa mengunggah kontak secara manual ke database pelanggan Katalis dengan d
 
 **2. Mengimpor database kontak**
 - **Langkah 1.** Di layar Kontak, klik tombol "Import" dari pojok kanan atas.
-- **Langkah 2.** Pilih file CSV dari sistem Anda untuk mengunggahnya ke database Katalis.
+- **Langkah 2.** Pilih file CSV dari sistem Anda untuk mengunggahnya ke database Katalis.app.
 
 ### Formulir Pre-Chat
 
-Jika Anda mengaktifkan formulir pre-chat, setiap kali pelanggan memberikan email dan detail lainnya melaluinya, Katalis akan menyimpannya sebagai kontak baru.
+Jika Anda mengaktifkan formulir pre-chat, setiap kali pelanggan memberikan email dan detail lainnya melaluinya, Katalis.app akan menyimpannya sebagai kontak baru.
 
 ### Salam Channel
 
@@ -64,7 +64,7 @@ Anda bisa mengirim pesan keluar dari halaman kontak ke channel percakapan beriku
 Anda bisa menambahkan catatan dan informasi penting ke kontak tertentu. Anda bisa menggunakan ini untuk mencatat panggilan, email, atau pertemuan dengan pelanggan secara manual.
 
 Untuk menambahkan catatan:
-1. Klik item menu Contacts dari Dashboard Katalis.
+1. Klik item menu Contacts dari Dashboard Katalis.app.
 2. Pilih Kontak dari daftar. (Klik nama kontak)
 3. Tulis catatan Anda.
 4. Klik tombol "Add" atau tekan Cmd + Enter. Kunjungi halaman kontak individual.

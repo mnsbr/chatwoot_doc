@@ -1,6 +1,6 @@
 # Cara Menginstal Live Chat di Aplikasi Vue.js
 
-Untuk mengintegrasikan Katalis dengan aplikasi Vue.js Anda, Anda perlu menempelkan skrip widget Katalis di file index.html aplikasi Vue.js Anda.
+Untuk mengintegrasikan Katalis.app dengan aplikasi Vue.js Anda, Anda perlu menempelkan skrip widget Katalis.app di file index.html aplikasi Vue.js Anda.
 
 Berikut cara melakukannya:
 
@@ -22,7 +22,7 @@ Buka proyek Vue Anda dan tempel skrip ke file index.html, tepat sebelum tag penu
 <body>
   <div id="app"></div>
 
-  <!-- Skrip Katalis -->
+  <!-- Skrip Katalis.app -->
   <script>
     (function (d, t) {
       var BASE_URL = "https://example.com";
@@ -33,7 +33,7 @@ Buka proyek Vue Anda dan tempel skrip ke file index.html, tepat sebelum tag penu
       g.async = true;
       s.parentNode.insertBefore(g, s);
       g.onload = function () {
-        window.katalisSDK.run({
+        window.Katalis.appSDK.run({
           websiteToken: "TOKEN_WEBSITE_ANDA",
           baseUrl: BASE_URL,
         });
@@ -45,11 +45,11 @@ Buka proyek Vue Anda dan tempel skrip ke file index.html, tepat sebelum tag penu
 
 **Langkah 4.** Periksa
 
-Anda seharusnya bisa melihat widget Katalis di halaman sekarang.
+Anda seharusnya bisa melihat widget Katalis.app di halaman sekarang.
 
 ## Modul Vue.js, Nuxt.js
 
-Modul yang dipelihara komunitas (Dibuat oleh tim hebat @huntersofbook) untuk mengintegrasikan Katalis di proyek Vue 3 dan Nuxt 3 Anda tersedia.
+Modul yang dipelihara komunitas (Dibuat oleh tim hebat @huntersofbook) untuk mengintegrasikan Katalis.app di proyek Vue 3 dan Nuxt 3 Anda tersedia.
 
 - Lihat modul Vue 3.
 - Lihat modul Nuxt 3.

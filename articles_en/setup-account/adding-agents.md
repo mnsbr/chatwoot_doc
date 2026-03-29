@@ -1,14 +1,14 @@
-# Adding AgentsAn Agent is a member of your Customer Communications team on Katalis. Agents will be able to view and reply to messages
+# Adding AgentsAn Agent is a member of your Customer Communications team on Katalis.app. Agents will be able to view and reply to messages
 
 from your users.
 
-To add agents to your Katalis account, you can use the 'Click here to invite a team member' link, as highlighted in the
+To add agents to your Katalis.app account, you can use the 'Click here to invite a team member' link, as highlighted in the
 screenshot below.
 
 Alternatively, you can navigate from Settings → Agents.
 
 You will be redirected to the Agents management page as shown below. Your name will be listed by default as
-Administrator. Administrators can access all Katalis features enabled for your account, including Settings.
+Administrator. Administrators can access all Katalis.app features enabled for your account, including Settings.
 
 Click on the Add Agent button on the Top Right Hand Side.
 

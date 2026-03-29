@@ -16,13 +16,13 @@ The web dashboard and the live chat widget work with most modern web browsers. H
 
   - Microsoft Edge: v16 onwards
 
-Here are the supported mobile OS versions for the Katalis mobile app:
+Here are the supported mobile OS versions for the Katalis.app mobile app:
 
   - Android: v5.0 onwards
 
   - iOS: v11.0 onwards
 
-How to create a website channel on Katalis?
+How to create a website channel on Katalis.app?
 
 Step 1. Go to the Inboxes page. Go to Settings → Inboxes → "Add Inbox" button.
 

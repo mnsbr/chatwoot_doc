@@ -1,7 +1,7 @@
 
 # Bagaimana Cara Kerja Sorting?
 
-Saat mengelola percakapan di Katalis, sorting membantu memprioritaskan dan mengatur pesan secara efisien. Ada empat opsi sorting yang tersedia: Latest Activity, Creation Time, Priority, dan Pending Response. Setiap metode sorting memiliki tujuan tertentu dalam memperlancar komunikasi.
+Saat mengelola percakapan di Katalis.app, sorting membantu memprioritaskan dan mengatur pesan secara efisien. Ada empat opsi sorting yang tersedia: Latest Activity, Creation Time, Priority, dan Pending Response. Setiap metode sorting memiliki tujuan tertentu dalam memperlancar komunikasi.
 
 ## Sorting berdasarkan Latest Activity
 

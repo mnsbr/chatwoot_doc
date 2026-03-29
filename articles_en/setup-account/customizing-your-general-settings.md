@@ -13,7 +13,7 @@ The fields on this page are described below.
 2.  Site Language
     
     Choose a your preferred language from the dropdown. This will show you your dashboard and conversations in the
-    selected language. For e.g., Select English (en) from the dropdown to use Katalis in English.
+    selected language. For e.g., Select English (en) from the dropdown to use Katalis.app in English.
 
 3.  Number of days after a ticket should auto resolve if there is no activity
     

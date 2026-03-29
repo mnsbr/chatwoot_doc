@@ -84,7 +84,7 @@ Advanced features
 
 Legacy vs Enhanced templates
 
-Katalis supports two template formats to ensure compatibility with all your existing templates:
+Katalis.app supports two template formats to ensure compatibility with all your existing templates:
 
 Legacy templates
 
@@ -156,11 +156,11 @@ Currently, WhatsApp templates must be created through WhatsApp Business Manager:
 
 5.  Submit for approval - WhatsApp will review your template (this can take up to 24 hours)
 
-6.  Sync to Katalis - Once approved, templates will automatically appear or you can manually sync templates via inbox
-    in Katalis
+6.  Sync to Katalis.app - Once approved, templates will automatically appear or you can manually sync templates via inbox
+    in Katalis.app
 
-🚀 Coming Soon: We're planning to add template creation directly within the Katalis interface in a future release,
-making it easier to design and manage your templates without leaving Katalis.
+🚀 Coming Soon: We're planning to add template creation directly within the Katalis.app interface in a future release,
+making it easier to design and manage your templates without leaving Katalis.app.
 
 How to send WhatsApp templates
 
@@ -168,7 +168,7 @@ WhatsApp templates can be sent in two ways:
 
   - Individual conversations - Send templates to specific customers during conversations
 
-  - Campaigns - Send templates to multiple customers at once using Katalis campaign feature
+  - Campaigns - Send templates to multiple customers at once using Katalis.app campaign feature
 
 Sending templates in conversations
 
@@ -221,7 +221,7 @@ Sending templates via Campaigns
 
 For sending templates to multiple customers at once:
 
-Go to Whatsapp Campaigns in your Katalis dashboard and create a new campaign and select WhatsApp as the channel
+Go to Whatsapp Campaigns in your Katalis.app dashboard and create a new campaign and select WhatsApp as the channel
 
 Choose your WhatsApp template from the available options and configure your audience and template parameters
 
@@ -231,18 +231,18 @@ Frequently Asked Questions (FAQ)
 
 General Questions
 
-Why can't I see all my WhatsApp templates in Katalis?
+Why can't I see all my WhatsApp templates in Katalis.app?
 
-Only templates that are approved by WhatsApp and supported by Katalis will appear. Unsupported template types (like
+Only templates that are approved by WhatsApp and supported by Katalis.app will appear. Unsupported template types (like
 authentication templates with OTP codes) are automatically filtered out.
 
-How long does it take for new templates to appear in Katalis?
+How long does it take for new templates to appear in Katalis.app?
 
 Templates typically sync automatically after some time and also you can update it manually from inbox settings.
 
-Can I edit templates directly in Katalis?
+Can I edit templates directly in Katalis.app?
 
-No, templates must be created and edited in WhatsApp Business Manager. Katalis is used only for sending approved
+No, templates must be created and edited in WhatsApp Business Manager. Katalis.app is used only for sending approved
 templates.
 
 Why do I need to provide URLs for images and videos?
@@ -334,7 +334,7 @@ If you're experiencing issues not covered in this guide:
 
 3.  Test with sample data before sending to customers
 
-4.  Contact your Katalis administrator for account-specific issues
+4.  Contact your Katalis.app administrator for account-specific issues
 
 5.  Review WhatsApp's template policies for compliance questions
 

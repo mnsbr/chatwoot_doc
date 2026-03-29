@@ -1,6 +1,6 @@
 # Cara Menyiapkan Channel WhatsApp (Alur Manual)
 
-Anda bisa mengelola percakapan akun bisnis WhatsApp dari Katalis. Untuk menyiapkannya, Anda memiliki dua pilihan provider:
+Anda bisa mengelola percakapan akun bisnis WhatsApp dari Katalis.app. Untuk menyiapkannya, Anda memiliki dua pilihan provider:
 
 1. WhatsApp Cloud API
 2. Twilio
@@ -80,13 +80,13 @@ Tambahkan nomor telepon siap produksi Anda.
 
 Setelah menambahkan dan memverifikasi nomor telepon, langkah selanjutnya adalah mengonfigurasi webhook untuk menerima pesan masuk.
 
-## Menghubungkan Akun Katalis Anda
+## Menghubungkan Akun Katalis.app Anda
 
-Mari hubungkan akun Katalis Anda dengan WhatsApp Cloud API.
+Mari hubungkan akun Katalis.app Anda dengan WhatsApp Cloud API.
 
 Salin WhatsApp Phone Number ID dan Business Account ID dari bagian ini.
 
-Masuk ke akun Katalis Anda, buka Settings > Inbox, dan pilih channel WhatsApp.
+Masuk ke akun Katalis.app Anda, buka Settings > Inbox, dan pilih channel WhatsApp.
 
 Masukkan nomor telepon, phone number ID, dan business ID dari pengaturan WhatsApp API Anda.
 
@@ -102,18 +102,18 @@ Callback URL Anda harus dalam format `https://app.katalis.app/webhooks/whatsapp/
 
 Masuk ke akun developer Facebook Anda dan navigasi ke WhatsApp > Configuration.
 
-Tempel webhook URL dan verification token Katalis di sini, lalu klik "Verify and Save".
+Tempel webhook URL dan verification token Katalis.app di sini, lalu klik "Verify and Save".
 
 Atur izin webhook dengan berlangganan messages.
 
-Selesai — Anda sudah selesai! Sekarang Anda bisa mulai mengirim pesan WhatsApp melalui Katalis.
+Selesai — Anda sudah selesai! Sekarang Anda bisa mulai mengirim pesan WhatsApp melalui Katalis.app.
 
 ## FAQ
 
 ### Bagaimana cara mengonfigurasi beberapa nomor di bawah satu aplikasi Facebook?
 
-Aplikasi Facebook hanya mengizinkan konfigurasi satu endpoint Webhook. Jadi buat Inbox di Katalis untuk semua nomor yang diperlukan. Anda hanya perlu mengonfigurasi Webhook URL yang disediakan untuk salah satu inbox ini di aplikasi Facebook agar semua inbox lainnya berfungsi.
+Aplikasi Facebook hanya mengizinkan konfigurasi satu endpoint Webhook. Jadi buat Inbox di Katalis.app untuk semua nomor yang diperlukan. Anda hanya perlu mengonfigurasi Webhook URL yang disediakan untuk salah satu inbox ini di aplikasi Facebook agar semua inbox lainnya berfungsi.
 
-### Jenis template WhatsApp apa yang didukung oleh Katalis?
+### Jenis template WhatsApp apa yang didukung oleh Katalis.app?
 
 Silakan periksa dokumen untuk detail lebih lanjut tentang template.

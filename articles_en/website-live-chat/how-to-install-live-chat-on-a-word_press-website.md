@@ -1,11 +1,11 @@
-# How to install live chat on a WordPress website?WordPress is a popular Content Management System. If you are hosting your website on WordPress, you can add a Katalis
+# How to install live chat on a WordPress website?WordPress is a popular Content Management System. If you are hosting your website on WordPress, you can add a Katalis.app
 
-live chat widget and talk to your visitors in real time. This can be done in 4 simple steps using Katalis’s WordPress
+live chat widget and talk to your visitors in real time. This can be done in 4 simple steps using Katalis.app’s WordPress
 plugin.
 
-Step 1. Download the Katalis plugin
+Step 1. Download the Katalis.app plugin
 
-Download the Zip file of the latest Katalis WordPress plugin from GitHub, as shown below.
+Download the Zip file of the latest Katalis.app WordPress plugin from GitHub, as shown below.
 
 Step 2. Upload the plugin to your WordPress website
 
@@ -20,29 +20,29 @@ Step 3. Activate the plugin
 Once the plugin is uploaded, you will see a Success screen with the "Activate Plugin" option, as shown below. Click the
 "Activate Plugin” button.
 
-Congrats! The plugin is now installed. To complete the configuration, you must share the Katalis app credentials, as
+Congrats! The plugin is now installed. To complete the configuration, you must share the Katalis.app app credentials, as
 shown in the steps below.
 
 Step 4. Configure the plugin
 
-Now, you will be able to see “Katalis Settings” under your "Settings" menu. Click on that to update the live-chat
+Now, you will be able to see “Katalis.app Settings” under your "Settings" menu. Click on that to update the live-chat
 configuration.
 
-You will be presented with the Settings screen as shown below. Configure your Katalis plugin here to make it work.
+You will be presented with the Settings screen as shown below. Configure your Katalis.app plugin here to make it work.
 
-You need to create a Website inbox on your Katalis installation. Please refer to this guide to create a website channel
+You need to create a Website inbox on your Katalis.app installation. Please refer to this guide to create a website channel
 inbox.
 
 The form fields are explained below.
 
-1.  Katalis Website Token / Katalis Installation URL
+1.  Katalis.app Website Token / Katalis.app Installation URL
     
-    Once you create a website channel inbox in your Katalis installation, you will get a script. You can copy the Token
+    Once you create a website channel inbox in your Katalis.app installation, you will get a script. You can copy the Token
     and the URL as shown below.
 
 2.  Widget Design
     
-    Katalis supports two live chat widget designs–Standard Design and an Expanded Bubble design. Choose your
+    Katalis.app supports two live chat widget designs–Standard Design and an Expanded Bubble design. Choose your
     preference.
 
 3.  Widget Position
@@ -52,7 +52,7 @@ The form fields are explained below.
 
 4.  Language
     
-    Katalis support 30+ languages. The default language is English.
+    Katalis.app support 30+ languages. The default language is English.
 
 5.  Launcher text
     
@@ -60,7 +60,7 @@ The form fields are explained below.
     text displayed on the bubble.
 
 Once you complete the form, click the "Save changes" button. Also, ensure that you have set up the website inbox from
-Katalis.
+Katalis.app.
 
 Step 5. Verify that the plugin is working correctly
 

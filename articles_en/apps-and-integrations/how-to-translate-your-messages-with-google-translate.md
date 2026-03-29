@@ -1,9 +1,9 @@
 # How to translate messages with Google Translate?If you frequently receive queries in languages you/your team members don't understand, you can utilize the Google
 
-Translate integration in Katalis. When enabled, you can instantly translate incoming messages using the right-click
+Translate integration in Katalis.app. When enabled, you can instantly translate incoming messages using the right-click
 menu. This way, you can easily communicate with customers in their native language, even if you don't speak it yourself.
 
-How to enable Google Translate in Katalis?
+How to enable Google Translate in Katalis.app?
 
 Step 1. Go to Settings -> Applications -> Google Translate. Click the corresponding "Configure" button.
 
@@ -47,4 +47,4 @@ translate-api-user) and continue to assign the “Cloud Translation API User” 
 After creating the service account, navigate to the “Keys” section, click “Add Key,” and select “Create New Key” in JSON
 format. Download and securely store this JSON file.
 
-Use the contents of the file you received above in the Google Cloud Project Key file input field in Katalis.Last updated on Mar 18, 2025
+Use the contents of the file you received above in the Google Cloud Project Key file input field in Katalis.app.Last updated on Mar 18, 2025

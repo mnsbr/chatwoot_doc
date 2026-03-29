@@ -1,25 +1,25 @@
-# Katalis User Guide
+# Katalis.app User Guide
 
 _Knowledge Base — English (Rebranded)_
 
-> Adapted from Chatwoot User Guide for Katalis (based on Chatwoot v3.16.0)
+> Adapted from Katalis.app User Guide for Katalis.app (based on Katalis.app v3.16.0)
 
 ---
 
-## Katalis 101
+## Katalis.app 101
 
-- [Katalis GlossaryA](chatwoot-101/chatwoot-glossary.md)
-- [Start the Engine: Intro to Katalis and Customer Engagement.Hello there! 🎉](chatwoot-101/getting-started-chatwoot-101.md)
-- [Lesson 1 Your First Chatwoot Conversation](chatwoot-101/lesson-1-your-first-chatwoot-conversation.md)
-- [Lesson 2 Dashboard Basics](chatwoot-101/lesson-2-dashboard-basics.md)
-- [Lesson 3 A Mastering Core Features](chatwoot-101/lesson-3-a-mastering-core-features.md)
-- [Lesson 3 (b): Mastering core featuresThis lesson is an extension of Lesson 3(a).](chatwoot-101/lesson-3-b-mastering-core-features.md)
-- [Lesson 4 Complete Your Customer Engagement Suite](chatwoot-101/lesson-4-complete-your-customer-engagement-suite.md)
-- [How To Read The Sla Reports](chatwoot-101/how-to-read-the-sla-reports.md)
+- [Katalis.app GlossaryA](Katalis.app-101/Katalis.app-glossary.md)
+- [Start the Engine: Intro to Katalis.app and Customer Engagement.Hello there! 🎉](Katalis.app-101/getting-started-Katalis.app-101.md)
+- [Lesson 1 Your First Katalis.app Conversation](Katalis.app-101/lesson-1-your-first-Katalis.app-conversation.md)
+- [Lesson 2 Dashboard Basics](Katalis.app-101/lesson-2-dashboard-basics.md)
+- [Lesson 3 A Mastering Core Features](Katalis.app-101/lesson-3-a-mastering-core-features.md)
+- [Lesson 3 (b): Mastering core featuresThis lesson is an extension of Lesson 3(a).](Katalis.app-101/lesson-3-b-mastering-core-features.md)
+- [Lesson 4 Complete Your Customer Engagement Suite](Katalis.app-101/lesson-4-complete-your-customer-engagement-suite.md)
+- [How To Read The Sla Reports](Katalis.app-101/how-to-read-the-sla-reports.md)
 
 ## Pengaturan Akun
 
-- [Create Your Chatwoot Account](setup-account/create-your-chatwoot-account.md)
+- [Create Your Katalis.app Account](setup-account/create-your-Katalis.app-account.md)
 - [Customizing Your Personal Profile](setup-account/customizing-your-personal-profile.md)
 - [Setting Up Notifications](setup-account/setting-up-notifications.md)
 - [Customizing Your General Settings](setup-account/customizing-your-general-settings.md)
@@ -38,9 +38,9 @@ _Knowledge Base — English (Rebranded)_
 - [How To Install Live Chat On A React Native App](website-live-chat/how-to-install-live_chat-on-a-react-native-app.md)
 - [How To Install Live Chat On A Next Js App](website-live-chat/how-to-install-live_chat-on-a-next-js-app.md)
 - [How To Install Live Chat On A Vue Js App](website-live-chat/how-to-install-live_chat-on-a-vue-js-app.md)
-- [How To Send Additional User Information To Chatwoot Using Sdk](website-live-chat/how-to-send-additional-user-information-to-chatwoot-using-sdk.md)
+- [How To Send Additional User Information To Katalis.app Using Sdk](website-live-chat/how-to-send-additional-user-information-to-Katalis.app-using-sdk.md)
 - [How To Continue Conversations Through Email](website-live-chat/how-to-continue-conversations-through-email.md)
-- [How To Enable Identity Validation In Chatwoot](website-live-chat/how-to-enable-identity-validation-in-chatwoot.md)
+- [How To Enable Identity Validation In Katalis.app](website-live-chat/how-to-enable-identity-validation-in-Katalis.app.md)
 - [How To Enable Dark Mode On Live Chat Widget](website-live-chat/how-to-enable-dark-mode-on-live_chat-widget.md)
 
 ## Channel Lainnya
@@ -72,7 +72,7 @@ _Knowledge Base — English (Rebranded)_
 - [How To Use The Omnichannel Message Signature](features-explained/how-to-use-the-omnichannel-message-signature.md)
 - [Preventing Agent Collision](features-explained/preventing-agent-collision.md)
 - [Manage Team Access Control With Flexible Role Based Permissions](features-explained/manage-team-access-control-with-flexible-role_based-permissions.md)
-- [Whats App Csat Surveys In Chatwoot](features-explained/whats_app-csat-surveys-in-chatwoot.md)
+- [Whats App Csat Surveys In Katalis.app](features-explained/whats_app-csat-surveys-in-Katalis.app.md)
 - [Review Notes For Csat](features-explained/review-notes-for-csat.md)
 
 ## Penjelasan Fitur Lanjutan
@@ -99,7 +99,7 @@ _Knowledge Base — English (Rebranded)_
 
 ## Aplikasi dan Integrasi
 
-- [How To Integrate Your Dialogflow Chatbot With Chatwoot](apps-and-integrations/how-to-integrate-your-dialogflow-chatbot-with-chatwoot.md)
+- [How To Integrate Your Dialogflow Chatbot With Katalis.app](apps-and-integrations/how-to-integrate-your-dialogflow-chatbot-with-Katalis.app.md)
 - [How To Use Webhooks](apps-and-integrations/how-to-use-webhooks.md)
 - [How To Answer Conversations From Slack](apps-and-integrations/how-to-answer-conversations-from-slack.md)
 - [How To Use Dashboard Apps](apps-and-integrations/how-to-use-dashboard-apps.md)
@@ -141,34 +141,34 @@ _Knowledge Base — English (Rebranded)_
 - [How To Use Captain Copilot](captain/how-to-use-captain-copilot.md)
 - [How To Enable Captain On Self Hosted Installations](captain/how-to-enable-captain-on-self_hosted-installations.md)
 - [How Ai Credits Work In Captain](captain/how-ai-credits-work-in-captain.md)
-- [Updating Robots Txt To Allow Chatwoot Assistant To Crawl Your Website](captain/updating-robots-txt-to-allow-chatwoot-assistant-to-crawl-your-website.md)
+- [Updating Robots Txt To Allow Katalis.app Assistant To Crawl Your Website](captain/updating-robots-txt-to-allow-Katalis.app-assistant-to-crawl-your-website.md)
 
 ## Migrasi
 
-- [How To Migrate From Intercom To Chatwoot](migrations/how-to-migrate-from-intercom-to-chatwoot.md)
-- [How To Migrate From Front To Chatwoot](migrations/how-to-migrate-from-front-to-chatwoot.md)
-- [How To Migrate From Freshdesk To Chatwoot](migrations/how-to-migrate-from-freshdesk-to-chatwoot.md)
-- [How To Migrate From Zendesk To Chatwoot](migrations/how-to-migrate-from-zendesk-to-chatwoot.md)
+- [How To Migrate From Intercom To Katalis.app](migrations/how-to-migrate-from-intercom-to-Katalis.app.md)
+- [How To Migrate From Front To Katalis.app](migrations/how-to-migrate-from-front-to-Katalis.app.md)
+- [How To Migrate From Freshdesk To Katalis.app](migrations/how-to-migrate-from-freshdesk-to-Katalis.app.md)
+- [How To Migrate From Zendesk To Katalis.app](migrations/how-to-migrate-from-zendesk-to-Katalis.app.md)
 
 ## Topik Lainnya
 
-- [Which cookies are used by Katalis?Katalis uses the following cookies.](other-topics/which-cookies-are-used-by-chatwoot.md)
+- [Which cookies are used by Katalis.app?Katalis.app uses the following cookies.](other-topics/which-cookies-are-used-by-Katalis.app.md)
 - [Mobile App For Android](other-topics/mobile-app-for-android.md)
 - [Mobile App For I Os](other-topics/mobile-app-for-i_os.md)
 - [Enterprise Edition](other-topics/enterprise-edition.md)
-- [Languages Supported In Chatwoot](other-topics/languages-supported-in-chatwoot.md)
+- [Languages Supported In Katalis.app](other-topics/languages-supported-in-Katalis.app.md)
 - [What We Don T Cover In](other-topics/what-we-don-t-cover-in.md)
 - [How to enable push notifications in your browserGoogle Chrome:](other-topics/how-to-enable-push-notifications-in-your-browser.md)
 - [How To Hard Reload On Most Browsers](other-topics/how-to-hard_reload-on-most-browsers.md)
-- [How to Use Your Coupon Code on Katalis?Introduction](other-topics/how-to-apply-your-coupon-code-inside-chatwoot.md)
+- [How to Use Your Coupon Code on Katalis.app?Introduction](other-topics/how-to-apply-your-coupon-code-inside-Katalis.app.md)
 - [Inconsistencies For Whats App Numbers In Brazil Mexico And Argentina](other-topics/inconsistencies-for-whats_app-numbers-in-brazil-mexico-and-argentina.md)
 - [Troubleshooting Why Am I Not Receiving Notifications](other-topics/troubleshooting-why-am-i-not-receiving-notifications.md)
 
 ## Panduan Cara
 
-- [Purchasing a Paid Self-Hosted Katalis License: A Step-by-Step GuideKatalis Products Overview](how-to/purchasing-a-paid-self_hosted-chatwoot-license-a-step_by_step-guide.md)
-- [How To Find Your Personal Access Token In Chatwoot](how-to/how-to-find-your-personal-access-token-in-chatwoot.md)
+- [Purchasing a Paid Self-Hosted Katalis.app License: A Step-by-Step GuideKatalis.app Products Overview](how-to/purchasing-a-paid-self_hosted-Katalis.app-license-a-step_by_step-guide.md)
+- [How To Find Your Personal Access Token In Katalis.app](how-to/how-to-find-your-personal-access-token-in-Katalis.app.md)
 - [How To Embed Your Help Center Articles In The Live Chat Widget](how-to/how-to-embed-your-help-center-articles-in-the-live-chat-widget.md)
-- [How To Change Your Email Address In Chatwoot](how-to/how-to-change-your-email-address-in-chatwoot.md)
-- [How To Remove The Free Usage Limit Exceeded Message In Chatwoot](how-to/how-to-remove-the-free-usage-limit-exceeded-message-in-chatwoot.md)
+- [How To Change Your Email Address In Katalis.app](how-to/how-to-change-your-email-address-in-Katalis.app.md)
+- [How To Remove The Free Usage Limit Exceeded Message In Katalis.app](how-to/how-to-remove-the-free-usage-limit-exceeded-message-in-Katalis.app.md)
 

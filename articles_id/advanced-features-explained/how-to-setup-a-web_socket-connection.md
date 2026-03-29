@@ -1,32 +1,32 @@
 # Cara Menyiapkan Koneksi WebSocket
 
-WebSocket membangun koneksi berkelanjutan antara klien dan server, memungkinkan komunikasi dua arah. Katalis menggunakan koneksi ini untuk menyediakan pembaruan real-time tentang event platform. Untuk terhubung ke WebSocket Katalis, cukup berikan token dan ikuti instruksi pengaturan yang diuraikan dalam panduan ini.
+WebSocket membangun koneksi berkelanjutan antara klien dan server, memungkinkan komunikasi dua arah. Katalis.app menggunakan koneksi ini untuk menyediakan pembaruan real-time tentang event platform. Untuk terhubung ke WebSocket Katalis.app, cukup berikan token dan ikuti instruksi pengaturan yang diuraikan dalam panduan ini.
 
 **Catatan:** Fitur ini bersifat eksperimental, dan dokumentasi mungkin berubah dengan setiap rilis. Selain itu, kompatibilitas mundur tidak dapat dijamin, jadi penting untuk memastikan Anda menggunakan versi implementasi terbaru.
 
 ## Mengapa Saya Harus Menggunakan Koneksi WebSocket?
 
-Koneksi WebSocket memungkinkan pembaruan data real-time, menjadikannya ideal untuk klien seperti SDK Android atau iOS untuk Katalis. Ini membantu memperbarui dashboard tanpa perlu memuat ulang halaman. Oleh karena itu, ini bisa meningkatkan pengalaman pengguna dan meningkatkan produktivitas agen.
+Koneksi WebSocket memungkinkan pembaruan data real-time, menjadikannya ideal untuk klien seperti SDK Android atau iOS untuk Katalis.app. Ini membantu memperbarui dashboard tanpa perlu memuat ulang halaman. Oleh karena itu, ini bisa meningkatkan pengalaman pengguna dan meningkatkan produktivitas agen.
 
-## Cara Menyiapkan Koneksi WebSocket dengan Katalis
+## Cara Menyiapkan Koneksi WebSocket dengan Katalis.app
 
-Untuk menyiapkan koneksi WebSocket dengan Katalis, Anda perlu memulai koneksi dengan PubSub token autentikasi yang disediakan oleh Katalis. URL untuk koneksi adalah `wss://<url-instalasi-anda>/cable`. Jika menggunakan Katalis Cloud, Anda bisa menggunakan `wss://app.katalis.app/cable` sebagai URL.
+Untuk menyiapkan koneksi WebSocket dengan Katalis.app, Anda perlu memulai koneksi dengan PubSub token autentikasi yang disediakan oleh Katalis.app. URL untuk koneksi adalah `wss://<url-instalasi-anda>/cable`. Jika menggunakan Katalis.app Cloud, Anda bisa menggunakan `wss://app.katalis.app/cable` sebagai URL.
 
 PubSub token adalah token yang digunakan untuk mengautentikasi klien saat menghubungkan ke layanan PubSub (publish-subscribe). Klien harus menunjukkan token ini ke layanan untuk membangun koneksi dan mulai mempublikasikan atau berlangganan pesan.
 
-Ada dua jenis PubSub token yang tersedia di Katalis:
+Ada dua jenis PubSub token yang tersedia di Katalis.app:
 
 1. **User PubSub Token**: Token ini memiliki hak agen/admin dan akan menerima semua event yang tercantum di halaman ini. Anda bisa mendapatkan PubSub token dengan memanggil Profile API.
 
-2. **Contact PubSub Token**: Katalis menghasilkan PubSub token unik untuk setiap sesi yang dimiliki kontak. Token ini bisa digunakan untuk terhubung ke WebSocket dan menerima pembaruan real-time untuk sesi yang sama. Saat kontak dibuat melalui API publik, `pubsub_token` disertakan dalam payload respons. Token ini hanya memberikan akses ke event yang terkait dengan sesi saat ini, seperti `conversation.created`, `conversation.status_changed`, `message.created`, `message.updated`, `conversation_typing_on`, `conversation_typing_off`, dan `presence.update`.
+2. **Contact PubSub Token**: Katalis.app menghasilkan PubSub token unik untuk setiap sesi yang dimiliki kontak. Token ini bisa digunakan untuk terhubung ke WebSocket dan menerima pembaruan real-time untuk sesi yang sama. Saat kontak dibuat melalui API publik, `pubsub_token` disertakan dalam payload respons. Token ini hanya memberikan akses ke event yang terkait dengan sesi saat ini, seperti `conversation.created`, `conversation.status_changed`, `message.created`, `message.updated`, `conversation_typing_on`, `conversation_typing_off`, dan `presence.update`.
 
-Silakan merujuk ke Client API untuk membangun integrasi real-time yang menghadap pelanggan menggunakan Katalis.
+Silakan merujuk ke Client API untuk membangun integrasi real-time yang menghadap pelanggan menggunakan Katalis.app.
 
 **Catatan:** Token ini mungkin dirotasi secara berkala berdasarkan jenis instalasi Anda. Pastikan Anda menggunakan token terbaru.
 
-## Cara Menghubungkan ke WebSocket Katalis
+## Cara Menghubungkan ke WebSocket Katalis.app
 
-Untuk terhubung ke WebSocket Katalis, gunakan perintah `subscribe` dan sertakan `pubSubToken`, `accountId`, dan `userId` (jika menggunakan token user) dalam permintaan koneksi. Berikut contoh cara Anda bisa terhubung dengan Katalis:
+Untuk terhubung ke WebSocket Katalis.app, gunakan perintah `subscribe` dan sertakan `pubSubToken`, `accountId`, dan `userId` (jika menggunakan token user) dalam permintaan koneksi. Berikut contoh cara Anda bisa terhubung dengan Katalis.app:
 
 ```javascript
 const stringify = (payload = {}) => JSON.stringify(payload);
@@ -51,7 +51,7 @@ connection.send(
 
 ## Mempublikasikan Presence ke Server WebSocket
 
-Untuk menjaga status pengguna tetap online di Katalis, Anda bisa mengirim event pembaruan presence ke Katalis setiap 30 detik. Tindakan ini akan menjaga status agen/kontak tetap online.
+Untuk menjaga status pengguna tetap online di Katalis.app, Anda bisa mengirim event pembaruan presence ke Katalis.app setiap 30 detik. Tindakan ini akan menjaga status agen/kontak tetap online.
 
 ### Cara Memperbarui Presence Agen/Admin
 
@@ -89,7 +89,7 @@ connection.send(agentPayload);
 
 ### Objek
 
-Event bisa berisi salah satu objek berikut sebagai payload. Berbagai jenis objek yang didukung di Katalis adalah sebagai berikut.
+Event bisa berisi salah satu objek berikut sebagai payload. Berbagai jenis objek yang didukung di Katalis.app adalah sebagai berikut.
 
 ### Conversation
 

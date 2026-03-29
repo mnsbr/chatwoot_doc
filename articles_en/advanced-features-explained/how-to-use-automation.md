@@ -1,4 +1,4 @@
-# How to use Automation?Katalis automation feature streamlines team workflow by automating repetitive tasks and saving time. It allows for
+# How to use Automation?Katalis.app automation feature streamlines team workflow by automating repetitive tasks and saving time. It allows for
 
 various actions such as assigning labels, and teams and routing conversations to the most suitable agent, enabling the
 team to focus on their core responsibilities and spend less time on manual tasks.
@@ -11,7 +11,7 @@ are tasks that will be executed when the conditions are met.
 
 Automation Events
 
-Automation Events are triggers that initiate the execution of automation. Katalis currently offers three types of
+Automation Events are triggers that initiate the execution of automation. Katalis.app currently offers three types of
 events.
 
 1.  Conversation created: A trigger/event initiated when a new conversation is created. This includes conversations
@@ -33,7 +33,7 @@ Conditions depend on the type of event you select. Here is a comprehensive list:
 
 Automation Actions
 
-Actions are tasks/processes that are executed whenever respective conditions are met. Katalis currently supports the
+Actions are tasks/processes that are executed whenever respective conditions are met. Katalis.app currently supports the
 following actions:
 
   - Assign to agent

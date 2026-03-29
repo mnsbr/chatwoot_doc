@@ -6,7 +6,7 @@ Note: These settings apply to your profile only and do not change settings globa
 
 Audio Notifications
 
-Audio notifications are available when you have Katalis open in the browser. They are sent immediately, based on your
+Audio notifications are available when you have Katalis.app open in the browser. They are sent immediately, based on your
 chosen settings.
 
 Here's an overview of each of these settings
@@ -32,7 +32,7 @@ important messages while reducing the amount of distractions compared to enablin
 managers, you can select, Assigned + Unassigned, that way, you can stay on top of your chats as well as conversations
 waiting to be assigned. Selecting all three options will give you alerts for all incoming messages.
 
-Note that audio notifications work only when Katalis is open in the browser. In case you wish to get notified of any
+Note that audio notifications work only when Katalis.app is open in the browser. In case you wish to get notified of any
 activity even when the app is not open, you can enable "Push notifications". This is explained in detail further on this
 page.
 
@@ -55,7 +55,7 @@ option to send audio notifications if the browser window is not active.
 
 Push Notifications and Email Notifications
 
-Katalis will send you notifications about new events with Push Notifications on your browser and the mobile app, as
+Katalis.app will send you notifications about new events with Push Notifications on your browser and the mobile app, as
 well as email based on your preferences. We recommend enabling the notifications for assigned and mentioned as shown in
 the screenshot below
 

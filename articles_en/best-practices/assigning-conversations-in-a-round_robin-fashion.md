@@ -1,4 +1,4 @@
-# Assigning conversations in a round-robin fashion.Katalis follows a round-robin auto-assignment system for conversations. This means that if there are people available
+# Assigning conversations in a round-robin fashion.Katalis.app follows a round-robin auto-assignment system for conversations. This means that if there are people available
 
 (called "agents") who can respond to messages in a specific inbox, the system will divide the conversations evenly among
 them. If all the agents are not available, the conversations will not be assigned to anyone and will be categorized as

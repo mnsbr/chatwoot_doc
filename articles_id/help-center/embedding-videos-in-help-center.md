@@ -1,7 +1,7 @@
 
 # Menyematkan Video di Help Center
 
-Help Center Katalis mendukung penyematan video otomatis dari berbagai platform. Saat Anda menempelkan URL video yang didukung pada barisnya sendiri (dikelilingi oleh baris kosong), URL tersebut akan secara otomatis dikonversi menjadi pemutar video yang disematkan.
+Help Center Katalis.app mendukung penyematan video otomatis dari berbagai platform. Saat Anda menempelkan URL video yang didukung pada barisnya sendiri (dikelilingi oleh baris kosong), URL tersebut akan secara otomatis dikonversi menjadi pemutar video yang disematkan.
 
 ## Platform Video yang Didukung
 

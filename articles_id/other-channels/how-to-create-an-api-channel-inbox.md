@@ -1,6 +1,6 @@
 # Cara Membuat Inbox Channel API
 
-Untuk membuat dan mengonfigurasi inbox channel API di instalasi Katalis, ikuti langkah-langkah yang dijelaskan di bawah ini.
+Untuk membuat dan mengonfigurasi inbox channel API di instalasi Katalis.app, ikuti langkah-langkah yang dijelaskan di bawah ini.
 
 ## Menyiapkan Channel API
 
@@ -16,11 +16,11 @@ Pengaturan inbox selesai.
 
 ## Mengirim Pesan ke Channel API
 
-Untuk mengirim pesan ke channel API, pastikan Anda memahami model dan tata nama yang digunakan di Katalis.
+Untuk mengirim pesan ke channel API, pastikan Anda memahami model dan tata nama yang digunakan di Katalis.app.
 
 1. **Channel**: Channel mendefinisikan jenis sumber percakapan. Contoh: Facebook, Twitter, API, dll.
 
-2. **Inbox**: Anda bisa membuat beberapa sumber percakapan dengan jenis channel yang sama. Contoh: Anda bisa memiliki lebih dari satu halaman Facebook yang terhubung ke akun Katalis. Setiap halaman disebut inbox di Katalis.
+2. **Inbox**: Anda bisa membuat beberapa sumber percakapan dengan jenis channel yang sama. Contoh: Anda bisa memiliki lebih dari satu halaman Facebook yang terhubung ke akun Katalis.app. Setiap halaman disebut inbox di Katalis.app.
 
 3. **Conversation**: Conversation adalah kumpulan pesan.
 
@@ -167,13 +167,13 @@ Jenis event: `message_created`
 
 ## Membuat Antarmuka Menggunakan Client API
 
-Client API yang tersedia untuk channel API akan membantu Anda membangun antarmuka yang menghadap pelanggan untuk Katalis.
+Client API yang tersedia untuk channel API akan membantu Anda membangun antarmuka yang menghadap pelanggan untuk Katalis.app.
 
 API ini berguna untuk kasus-kasus seperti yang tercantum di bawah ini:
 
-1. Menggunakan antarmuka chat kustom alih-alih widget chat Katalis.
+1. Menggunakan antarmuka chat kustom alih-alih widget chat Katalis.app.
 2. Membangun antarmuka percakapan ke dalam aplikasi mobile Anda.
-3. Menambahkan Katalis ke platform lain yang belum memiliki SDK resmi Katalis.
+3. Menambahkan Katalis.app ke platform lain yang belum memiliki SDK resmi Katalis.app.
 
 ### Membuat Objek Pelanggan
 
@@ -204,9 +204,9 @@ Client API juga mendukung Autentikasi HMAC. Token HMAC untuk Channel bisa dipero
 Inbox.find(api_inbox_id).channel.hmac_token
 ```
 
-## Menghubungkan ke WebSocket Katalis
+## Menghubungkan ke WebSocket Katalis.app
 
-Untuk mendapatkan pembaruan real-time dari dashboard agen, hubungkan ke WebSocket Katalis menggunakan URL berikut.
+Untuk mendapatkan pembaruan real-time dari dashboard agen, hubungkan ke WebSocket Katalis.app menggunakan URL berikut.
 
 ```
 <url instalasi anda>/cable

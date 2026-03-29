@@ -1,4 +1,4 @@
-# How to create and use custom attributes?Katalis allows you to track additional information about your conversations and contacts beyond the standard data
+# How to create and use custom attributes?Katalis.app allows you to track additional information about your conversations and contacts beyond the standard data
 
 attributes like name, email, and location. These additional pieces of information are called custom attributes and can
 be anything you want to track. Listed below are a few examples of custom attributes.
@@ -78,7 +78,7 @@ Set attributes via SDK method
 
 To set a contact custom attribute, call setCustomAttributes method as follows.
 
-window.$katalis.setCustomAttributes({
+window.$Katalis.app.setCustomAttributes({
   key: value,
   // Key is a unique identifier which is already defined while creating a custom attribute
   // Value should be based on type (Currently support Number, Date, String and Number)
@@ -88,7 +88,7 @@ window.$katalis.setCustomAttributes({
 
 Example:
 
-window.$katalis.setCustomAttributes({
+window.$Katalis.app.setCustomAttributes({
   key: value,
   // Key is a unique identifier which is already defined while creating a custom attribute
   // Value should be based on type (Currently support Number, Date, String and Number)
@@ -100,11 +100,11 @@ You can view these attributes in the contact/conversation sidepanel.
 
 To delete a custom attribute, use deleteCustomAttribute as follows.
 
-window.$katalis.deleteCustomAttribute("attribute-key");
+window.$Katalis.app.deleteCustomAttribute("attribute-key");
 
 Example:
 
-window.$katalis.deleteCustomAttribute("signUpDate");
+window.$Katalis.app.deleteCustomAttribute("signUpDate");
 
 Note: Prior to version v1.22, all the attributes rendered as text. Please create new definition to display the value
 properly.

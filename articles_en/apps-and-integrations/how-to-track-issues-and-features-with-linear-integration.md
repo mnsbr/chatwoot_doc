@@ -1,10 +1,10 @@
 
-# How to track Issues and Features with Linear Integration?If your company, account, or project uses Linear as a project tool, you can integrate it with Katalis to manage all
+# How to track Issues and Features with Linear Integration?If your company, account, or project uses Linear as a project tool, you can integrate it with Katalis.app to manage all
 
 conversations in your Linear workspace.
 
 You can create new Linear issues directly from your conversation window or link to existing ones for streamlined
-tracking. To begin setup, follow the steps below. If you're using a self-hosted Katalis instance, please follow this
+tracking. To begin setup, follow the steps below. If you're using a self-hosted Katalis.app instance, please follow this
 guide.
 
 How to Connect Linear Integration?
@@ -13,7 +13,7 @@ Step 1. Go to Settings → Integrations → Linear. Click on the "Configure" but
 
 Step 2. Click the Connect button. When the consent prompt appears, click Authorize to grant permissions.
 
-Once complete, you'll be redirected to the Katalis app. Voilà! You can now use Linear in your Katalis account.
+Once complete, you'll be redirected to the Katalis.app app. Voilà! You can now use Linear in your Katalis.app account.
 
 Supported Features
 

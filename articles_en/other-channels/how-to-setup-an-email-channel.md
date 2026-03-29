@@ -1,4 +1,4 @@
-# How to setup an Email channel?To manage your customer support/ticketing email from Katalis, you can create an Email inbox in Katalis. This is a
+# How to setup an Email channel?To manage your customer support/ticketing email from Katalis.app, you can create an Email inbox in Katalis.app. This is a
 
 complete guide to getting your Email channel up and running.
 
@@ -12,9 +12,9 @@ This document is divided into three parts:
 
 Feel free to jump to any section. Let's roll.
 
-How to create an Email inbox in Katalis?
+How to create an Email inbox in Katalis.app?
 
-Step 1. Open your Katalis dashboard. Go to Settings → Inboxes → Add Inbox.
+Step 1. Open your Katalis.app dashboard. Go to Settings → Inboxes → Add Inbox.
 
 Step 2. Click on the "Email" icon.
 
@@ -40,7 +40,7 @@ You will see three main settings here:
 
 All three settings are explained in the following sections.
 
-How to forward emails to Katalis inbox?
+How to forward emails to Katalis.app inbox?
 
 Step 1. Copy the "Forward to email address" from the Configuration tab under inbox Settings.
 
@@ -48,7 +48,7 @@ Step 2. Configure the copied email address as the forwarding email address in th
 
 P.S. Check the Gmail section below to learn how to add a forwarding address in Gmail.
 
-Step 3. Send a mail to the forwarding address added inbox and check the Katalis email inbox for the new email.
+Step 3. Send a mail to the forwarding address added inbox and check the Katalis.app email inbox for the new email.
 
 How to configure IMAP for the Email channel?
 
@@ -70,8 +70,8 @@ follows.
     P.S. If using a 2FA-enabled Gmail, scroll down to the "How to generate app password for Gmail?" section. If using a
     regular Gmail account, scroll down to the "How to allow less secure access to Gmail?" section.
 
-Step 3. Test if everything is working fine. Send an email to the IMAP-configured email in Katalis. Check Katalis inbox
-for the new email. Open the email conversation in Katalis and verify the email details.
+Step 3. Test if everything is working fine. Send an email to the IMAP-configured email in Katalis.app. Check Katalis.app inbox
+for the new email. Open the email conversation in Katalis.app and verify the email details.
 
 How to configure SMTP for the Email channel?
 
@@ -96,7 +96,7 @@ Fill in the fields below and click the "Update SMTP settings" button.
 
 5.  Domain
 
-Step 4. Open an existing email Conversation in Katalis.
+Step 4. Open an existing email Conversation in Katalis.app.
 
 Step 5. Type a reply message for the conversation and click the "Send" button. Verify that mail has been delivered.
 
@@ -140,12 +140,12 @@ Step 1. Open your Gmail inbox and click the Settings icon in the top right corne
 Step 2. Select the "Forwarding and POP/IMAP" tab on the Settings page.
 
 Step 3. Click the "Add a forwarding address" button. It will ask for the forwarding email address. Enter the one from
-Katalis and click the "Next" button.
+Katalis.app and click the "Next" button.
 
 Step 4. Confirm the forwarding address in the browser popup. The email inbox will send a verification code to the
 forwarding email address.
 
-Step 5. Copy the verification code from the Katalis email inbox.
+Step 5. Copy the verification code from the Katalis.app email inbox.
 
 Step 6. Paste the verification code and click the "Verify" button.
 
@@ -154,7 +154,7 @@ click the "Save Changes" button.
 
 How to create a Microsoft Email channel?
 
-Step 1. Open your Katalis dashboard. Go to Settings → Inboxes → Add Inbox.
+Step 1. Open your Katalis.app dashboard. Go to Settings → Inboxes → Add Inbox.
 
 Step 2. Click on the "Email" icon.
 
@@ -164,7 +164,7 @@ Step 4. Add your Outlook/Microsoft email.
 
 Step 5. Enter your Microsoft/Outlook credentials.
 
-Step 6. Allow the "Katalis" app to read and reply to your email.
+Step 6. Allow the "Katalis.app" app to read and reply to your email.
 
 Step 7. "Add agents" to your email inbox.
 

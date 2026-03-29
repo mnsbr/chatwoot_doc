@@ -5,7 +5,7 @@ Ini adalah panduan untuk menyiapkan autentikasi SAML untuk akun Anda. Panduan in
 
 Sebelum memulai, ada beberapa hal yang perlu diperhatikan:
 
-- Setelah SAML diaktifkan, pengguna Anda tidak akan bisa mengakses Katalis dengan password mereka. Menonaktifkan SAML akan mengembalikan perilaku ini.
+- Setelah SAML diaktifkan, pengguna Anda tidak akan bisa mengakses Katalis.app dengan password mereka. Menonaktifkan SAML akan mengembalikan perilaku ini.
 - Jika pengguna merupakan bagian dari beberapa akun, dan salah satu akun memiliki pengaturan SAML, mereka harus login melalui SAML IdP saja. Sebaiknya batasi pengguna ke domain Anda saja.
 
 ## Menyiapkan SAML
@@ -18,7 +18,7 @@ Anda bisa menemukan pengaturan SAML di Settings > Security. Berikut pengaturan y
 
 - **Signing Certificate**: Sertifikat publik X.509 IdP yang digunakan untuk menandatangani respons/assertion SAML. Service Provider Anda menyimpan sertifikat ini dan memverifikasi tanda tangan dengannya, memastikan pesan tidak diubah dan benar-benar berasal dari IdP.
 
-Setelah diatur, Anda akan menemukan detail yang diperlukan untuk mendaftarkan Katalis sebagai Service Provider (SP) pada provider SAML Anda. Berikut detail yang akan Anda dapatkan:
+Setelah diatur, Anda akan menemukan detail yang diperlukan untuk mendaftarkan Katalis.app sebagai Service Provider (SP) pada provider SAML Anda. Berikut detail yang akan Anda dapatkan:
 
 - **ACS URL**: Endpoint Assertion Consumer Service pada Service Provider yang menerima SAML Response dari IdP. Setelah pengguna terautentikasi, IdP mengirimkan assertion yang ditandatangani ke URL HTTPS ini, di mana aplikasi Anda memvalidasinya dan membuat sesi.
 
@@ -26,8 +26,8 @@ Setelah diatur, Anda akan menemukan detail yang diperlukan untuk mendaftarkan Ka
 
 Jika Anda memerlukan informasi ini sebelumnya, berikut formatnya:
 
-- ACS URL: `<instalasi-katalis-anda>/omniauth/saml/callback?account_id=<id-akun-anda>`
-- SP Entity ID: `<instalasi-katalis-anda>/saml/sp/<id-akun-anda>`
+- ACS URL: `<instalasi-Katalis.app-anda>/omniauth/saml/callback?account_id=<id-akun-anda>`
+- SP Entity ID: `<instalasi-Katalis.app-anda>/saml/sp/<id-akun-anda>`
 
 ## Pemetaan Data
 

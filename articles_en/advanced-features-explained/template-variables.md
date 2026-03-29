@@ -3,7 +3,7 @@
 adding placeholders in your messages, you can easily customize your communications with information such as a customer's
 name, order number, or other details.
 
-For e.g., If you send a message Hey {{ contact.name }}, how may I help you?, Katalis will pick the contact name and
+For e.g., If you send a message Hey {{ contact.name }}, how may I help you?, Katalis.app will pick the contact name and
 send a message like Hey John, how may I help you?.
 
 You can also utilize variables in canned responses, macros, and automation.
@@ -43,7 +43,7 @@ The available template variables are:
 
 What if I send a non-existent variable?
 
-If you try to send an undefined variable, Katalis will show a warning.
+If you try to send an undefined variable, Katalis.app will show a warning.
 
 How to add a fallback text?
 

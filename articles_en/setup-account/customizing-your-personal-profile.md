@@ -6,7 +6,7 @@ You can find the Profile Settings page on the bottom left corner of your dashboa
 
 Update your Agent profile​
 
-This section helps you update your Agent profile on Katalis. This updated information will be used on the dashboard,
+This section helps you update your Agent profile on Katalis.app. This updated information will be used on the dashboard,
 live-chat widget, and all external communication emails.
 
 The fields in the section are described below.
@@ -25,7 +25,7 @@ The fields in the section are described below.
 
 4.  Your email address
     
-    This email address will be used to login to Katalis and send notifications.
+    This email address will be used to login to Katalis.app and send notifications.
     
     Note: If you update your email address, then the system will log you out. You need to log in again with the updated
     email address and password.

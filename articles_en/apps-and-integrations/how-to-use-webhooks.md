@@ -1,6 +1,6 @@
 # How to use webhooks?Webhooks are HTTP callbacks that are set up for each account. These are triggered when actions such as creating a
 
-message occur in Katalis. Multiple webhooks can be created for a single account.
+message occur in Katalis.app. Multiple webhooks can be created for a single account.
 
 How to add a webhook?
 
@@ -8,9 +8,9 @@ Step 1. Go to Settings → Integrations → Webhooks. Click on the "Configure" 
 
 Step 2. Click on the "Add new webhook" button. A modal will open up. Here, input the URL to which the POST request
 should be sent. Next, you need to select the events you want to subscribe. This option would allow you to only listen to
-the relevant events in Katalis.
+the relevant events in Katalis.app.
 
-Katalis will send a POST request with the following payload to the configured URLs for various updates in your account.
+Katalis.app will send a POST request with the following payload to the configured URLs for various updates in your account.
 
 A sample webhook payload
 
@@ -49,21 +49,21 @@ A sample webhook payload
   },
   "account": { // This would provide the details of the account
     "id": "1",
-    "name": "Katalis",
+    "name": "Katalis.app",
   }
 }
 
-Supported webhook events in Katalis
+Supported webhook events in Katalis.app
 
-Katalis publishes various events to the configured webhook endpoints. If you want to configure a webhook, refer to the
+Katalis.app publishes various events to the configured webhook endpoints. If you want to configure a webhook, refer to the
 guide here.
 
 Each event has its payload structure based on the type of model they are acting on. The following section describes the
-main objects we use in Katalis and their attributes.
+main objects we use in Katalis.app and their attributes.
 
 Objects
 
-An event payload may include any of the following objects. The various types of objects supported by Katalis are listed
+An event payload may include any of the following objects. The various types of objects supported by Katalis.app are listed
 below.
 
 Account
@@ -182,7 +182,7 @@ A sample webhook payload
 
 Webhook Events
 
-Katalis supports the following webhook events. You can subscribe to them while configuring a webhook in the dashboard
+Katalis.app supports the following webhook events. You can subscribe to them while configuring a webhook in the dashboard
 or using the API.
 
 conversation_created
@@ -302,17 +302,17 @@ This event is triggered when an agent stops typing or when they leave the conver
 
 Verifying webhooks
 
-Katalis signs every outgoing webhook request so your server can verify that the payload was sent by Katalis and has
+Katalis.app signs every outgoing webhook request so your server can verify that the payload was sent by Katalis.app and has
 not been tampered with. The secret is shown to you once the webhook is created, and you can view it again on the webhook
 edit form.
 
 Every webhook request sends the following headers, which can be used to compute the HMAC signature of the payload
 
-  - X-Katalis-Signature: HMAC-SHA256 signature prefixed with sha256=
+  - X-Katalis.app-Signature: HMAC-SHA256 signature prefixed with sha256=
 
-  - X-Katalis-Timestamp: Unix timestamp (seconds) when the request was signed
+  - X-Katalis.app-Timestamp: Unix timestamp (seconds) when the request was signed
 
-  - X-Katalis-Delivery: Unique delivery ID for the webhook event (when available)
+  - X-Katalis.app-Delivery: Unique delivery ID for the webhook event (when available)
 
 The signature is computed as:
 
@@ -322,13 +322,13 @@ Where:
 
   - webhook_secret is the secret associated with the webhook
 
-  - timestamp is the value of the X-Katalis-Timestamp header
+  - timestamp is the value of the X-Katalis.app-Timestamp header
 
   - raw_body is the raw JSON request body (not parsed/re-serialized)
 
 Verification Steps
 
-1.  Extract X-Katalis-Signature and X-Katalis-Timestamp from the request headers
+1.  Extract X-Katalis.app-Signature and X-Katalis.app-Timestamp from the request headers
 
 2.  Read the raw request body as bytes (do not parse and re-serialize)
 

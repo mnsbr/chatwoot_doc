@@ -1,6 +1,6 @@
 # Menetapkan Percakapan Secara Round-Robin
 
-Katalis mengikuti sistem penugasan otomatis round-robin untuk percakapan. Artinya, jika ada orang yang tersedia (disebut "agen") yang bisa merespons pesan di inbox tertentu, sistem akan membagi percakapan secara merata di antara mereka. Jika semua agen tidak tersedia, percakapan tidak akan ditetapkan ke siapa pun dan akan dikategorikan sebagai "Unassigned". Fitur ini diaktifkan secara default.
+Katalis.app mengikuti sistem penugasan otomatis round-robin untuk percakapan. Artinya, jika ada orang yang tersedia (disebut "agen") yang bisa merespons pesan di inbox tertentu, sistem akan membagi percakapan secara merata di antara mereka. Jika semua agen tidak tersedia, percakapan tidak akan ditetapkan ke siapa pun dan akan dikategorikan sebagai "Unassigned". Fitur ini diaktifkan secara default.
 
 ## Cara Mengaktifkan/Menonaktifkan Penugasan Round-Robin
 

@@ -6,7 +6,7 @@ Jika Anda tidak menerima notifikasi, ikuti langkah-langkah ini satu per satu.
 
 Buka Profile settings → Notifications dan aktifkan jenis yang Anda inginkan untuk Email dan/atau Push.
 
-Jika suatu jenis dinonaktifkan, Katalis tidak akan mengirimnya.
+Jika suatu jenis dinonaktifkan, Katalis.app tidak akan mengirimnya.
 
 ## 2. Periksa Apakah Anda Termasuk dalam Percakapan Tersebut
 
@@ -23,7 +23,7 @@ Anda hanya mendapatkan notifikasi tertentu saat Anda terhubung ke percakapan den
 
 ## 3. Periksa Status Percakapan
 
-- Untuk percakapan pending, Katalis tidak mengirim notifikasi "Conversation created" atau "Conversation assigned".
+- Untuk percakapan pending, Katalis.app tidak mengirim notifikasi "Conversation created" atau "Conversation assigned".
 - Notifikasi tidak terbatas hanya pada percakapan "open".
 
 ## 4. Periksa Jenis Pesan
@@ -34,7 +34,7 @@ Anda hanya mendapatkan notifikasi tertentu saat Anda terhubung ke percakapan den
 
 ## 5. Jika Push Notification Hilang
 
-- Aktifkan push di pengaturan profil Katalis.
+- Aktifkan push di pengaturan profil Katalis.app.
 - Izinkan notifikasi di pengaturan browser atau OS mobile Anda.
 - Jika izin browser/OS diblokir, push tidak akan sampai.
 

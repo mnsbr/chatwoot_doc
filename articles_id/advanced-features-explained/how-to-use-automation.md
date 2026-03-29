@@ -1,6 +1,6 @@
 # Cara Menggunakan Automasi
 
-Fitur automasi Katalis memperlancar alur kerja tim dengan mengotomatiskan tugas berulang dan menghemat waktu. Fitur ini memungkinkan berbagai tindakan seperti menetapkan label, tim, dan mengarahkan percakapan ke agen yang paling sesuai, memungkinkan tim fokus pada tanggung jawab inti mereka dan menghabiskan lebih sedikit waktu untuk tugas manual.
+Fitur automasi Katalis.app memperlancar alur kerja tim dengan mengotomatiskan tugas berulang dan menghemat waktu. Fitur ini memungkinkan berbagai tindakan seperti menetapkan label, tim, dan mengarahkan percakapan ke agen yang paling sesuai, memungkinkan tim fokus pada tanggung jawab inti mereka dan menghabiskan lebih sedikit waktu untuk tugas manual.
 
 ## Bagaimana Cara Kerja Automasi?
 
@@ -8,7 +8,7 @@ Aturan automasi terdiri dari tiga hal — Event, Conditions, dan Actions. Event 
 
 ### Event Automasi
 
-Event Automasi adalah pemicu yang memulai eksekusi automasi. Katalis saat ini menawarkan empat jenis event:
+Event Automasi adalah pemicu yang memulai eksekusi automasi. Katalis.app saat ini menawarkan empat jenis event:
 
 1. **Conversation created**: Pemicu yang dimulai saat percakapan baru dibuat. Ini termasuk percakapan yang dibuat di semua channel.
 2. **Conversation updated**: Pemicu yang dimulai saat percakapan diperbarui.
@@ -23,7 +23,7 @@ Conditions bergantung pada jenis event yang Anda pilih. Berikut daftar lengkapny
 
 ### Actions Automasi
 
-Actions adalah tugas/proses yang dieksekusi setiap kali conditions terkait terpenuhi. Katalis saat ini mendukung actions berikut:
+Actions adalah tugas/proses yang dieksekusi setiap kali conditions terkait terpenuhi. Katalis.app saat ini mendukung actions berikut:
 
 - Assign to agent
 - Assign a team

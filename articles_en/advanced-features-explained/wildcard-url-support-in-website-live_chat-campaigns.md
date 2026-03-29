@@ -2,7 +2,7 @@
 
 behavior in mind.
 
-In Katalis, every URL pattern should start with http:// or https://.
+In Katalis.app, every URL pattern should start with http:// or https://.
 
 Running the campaign on the exact URL​
 

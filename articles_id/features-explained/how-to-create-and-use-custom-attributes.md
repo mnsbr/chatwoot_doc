@@ -1,6 +1,6 @@
 # Cara Membuat dan Menggunakan Atribut Kustom
 
-Katalis memungkinkan Anda melacak informasi tambahan tentang percakapan dan kontak di luar atribut data standar seperti nama, email, dan lokasi. Informasi tambahan ini disebut atribut kustom dan bisa berupa apa saja yang ingin Anda lacak. Berikut beberapa contoh atribut kustom:
+Katalis.app memungkinkan Anda melacak informasi tambahan tentang percakapan dan kontak di luar atribut data standar seperti nama, email, dan lokasi. Informasi tambahan ini disebut atribut kustom dan bisa berupa apa saja yang ingin Anda lacak. Berikut beberapa contoh atribut kustom:
 
 - Paket langganan
 - Tanggal berlangganan
@@ -52,7 +52,7 @@ Ada dua cara untuk mengatur atribut kustom untuk kontak.
 Untuk mengatur atribut kustom kontak, panggil metode `setCustomAttributes` sebagai berikut:
 
 ```javascript
-window.$katalis.setCustomAttributes({
+window.$Katalis.app.setCustomAttributes({
   key: value,
   // Key adalah pengenal unik yang sudah ditentukan saat membuat atribut kustom
   // Value harus berdasarkan jenis (Saat ini mendukung Number, Date, String dan Number)
@@ -66,7 +66,7 @@ Anda bisa melihat atribut ini di sidepanel kontak/percakapan.
 Untuk menghapus atribut kustom, gunakan `deleteCustomAttribute` sebagai berikut:
 
 ```javascript
-window.$katalis.deleteCustomAttribute("attribute-key");
+window.$Katalis.app.deleteCustomAttribute("attribute-key");
 ```
 
 **Catatan:** Sebelum versi v1.22, semua atribut ditampilkan sebagai teks. Mohon buat definisi baru untuk menampilkan nilai dengan benar.

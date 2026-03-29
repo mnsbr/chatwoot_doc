@@ -1,14 +1,14 @@
 # Cara Menggunakan Webhook
 
-Webhook adalah callback HTTP yang diatur untuk setiap akun. Ini dipicu saat tindakan seperti membuat pesan terjadi di Katalis. Beberapa webhook bisa dibuat untuk satu akun.
+Webhook adalah callback HTTP yang diatur untuk setiap akun. Ini dipicu saat tindakan seperti membuat pesan terjadi di Katalis.app. Beberapa webhook bisa dibuat untuk satu akun.
 
 ## Cara Menambahkan Webhook
 
 **Langkah 1.** Buka Settings → Integrations → Webhooks. Klik tombol "Configure".
 
-**Langkah 2.** Klik tombol "Add new webhook". Modal akan terbuka. Di sini, masukkan URL tempat permintaan POST harus dikirim. Selanjutnya, Anda perlu memilih event yang ingin Anda langgani. Opsi ini memungkinkan Anda hanya mendengarkan event yang relevan di Katalis.
+**Langkah 2.** Klik tombol "Add new webhook". Modal akan terbuka. Di sini, masukkan URL tempat permintaan POST harus dikirim. Selanjutnya, Anda perlu memilih event yang ingin Anda langgani. Opsi ini memungkinkan Anda hanya mendengarkan event yang relevan di Katalis.app.
 
-Katalis akan mengirim permintaan POST dengan payload berikut ke URL yang dikonfigurasi untuk berbagai pembaruan di akun Anda.
+Katalis.app akan mengirim permintaan POST dengan payload berikut ke URL yang dikonfigurasi untuk berbagai pembaruan di akun Anda.
 
 ### Contoh Payload Webhook
 
@@ -37,14 +37,14 @@ Katalis akan mengirim permintaan POST dengan payload berikut ke URL yang dikonfi
   },
   "account": {
     "id": "1",
-    "name": "Katalis"
+    "name": "Katalis.app"
   }
 }
 ```
 
-## Event Webhook yang Didukung di Katalis
+## Event Webhook yang Didukung di Katalis.app
 
-Katalis menerbitkan berbagai event ke endpoint webhook yang dikonfigurasi. Setiap event memiliki struktur payload berdasarkan jenis model yang mereka gunakan.
+Katalis.app menerbitkan berbagai event ke endpoint webhook yang dikonfigurasi. Setiap event memiliki struktur payload berdasarkan jenis model yang mereka gunakan.
 
 ### Objek
 
@@ -63,13 +63,13 @@ Payload event mungkin menyertakan objek berikut: Account, Inbox, Contact, User, 
 
 ## Memverifikasi Webhook
 
-Katalis menandatangani setiap permintaan webhook keluar sehingga server Anda bisa memverifikasi bahwa payload dikirim oleh Katalis dan belum diubah. Rahasia ditampilkan kepada Anda saat webhook dibuat, dan Anda bisa melihatnya kembali di formulir edit webhook.
+Katalis.app menandatangani setiap permintaan webhook keluar sehingga server Anda bisa memverifikasi bahwa payload dikirim oleh Katalis.app dan belum diubah. Rahasia ditampilkan kepada Anda saat webhook dibuat, dan Anda bisa melihatnya kembali di formulir edit webhook.
 
 Setiap permintaan webhook mengirim header berikut, yang bisa digunakan untuk menghitung tanda tangan HMAC dari payload:
 
-- `X-Katalis-Signature`: Tanda tangan HMAC-SHA256 dengan prefix `sha256=`
-- `X-Katalis-Timestamp`: Unix timestamp (detik) saat permintaan ditandatangani
-- `X-Katalis-Delivery`: ID pengiriman unik untuk event webhook (jika tersedia)
+- `X-Katalis.app-Signature`: Tanda tangan HMAC-SHA256 dengan prefix `sha256=`
+- `X-Katalis.app-Timestamp`: Unix timestamp (detik) saat permintaan ditandatangani
+- `X-Katalis.app-Delivery`: ID pengiriman unik untuk event webhook (jika tersedia)
 
 Tanda tangan dihitung sebagai:
 
@@ -79,7 +79,7 @@ sha256=HMAC-SHA256(webhook_secret, "{timestamp}.{raw_body}")
 
 ### Langkah Verifikasi
 
-1. Ekstrak `X-Katalis-Signature` dan `X-Katalis-Timestamp` dari header permintaan
+1. Ekstrak `X-Katalis.app-Signature` dan `X-Katalis.app-Timestamp` dari header permintaan
 2. Baca body permintaan mentah sebagai bytes (jangan parse dan re-serialize)
 3. Hitung tanda tangan yang diharapkan: `sha256=HMAC-SHA256(secret, "{timestamp}.{raw_body}")`
 4. Bandingkan tanda tangan yang dihitung dengan tanda tangan yang diterima menggunakan perbandingan constant-time

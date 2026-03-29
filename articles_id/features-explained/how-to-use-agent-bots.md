@@ -1,8 +1,8 @@
 # Cara Menggunakan Agent Bot
 
-AgentBot dapat terintegrasi dengan mulus ke inbox Katalis Anda sebagai bot penanganan pertanyaan pelanggan. Dengan Katalis, Anda bisa dengan mudah menghubungkan logika bot kustom ke penanganan percakapan melalui API AgentBot.
+AgentBot dapat terintegrasi dengan mulus ke inbox Katalis.app Anda sebagai bot penanganan pertanyaan pelanggan. Dengan Katalis.app, Anda bisa dengan mudah menghubungkan logika bot kustom ke penanganan percakapan melalui API AgentBot.
 
-Dengan menghubungkan AgentBot ke inbox Anda, semua percakapan baru akan secara otomatis diberi status 'bot'. Katalis akan mengirim event percakapan ke URL bot Anda sebagai event webhook, memungkinkan AgentBot merespons melalui API Katalis secara real-time.
+Dengan menghubungkan AgentBot ke inbox Anda, semua percakapan baru akan secara otomatis diberi status 'bot'. Katalis.app akan mengirim event percakapan ke URL bot Anda sebagai event webhook, memungkinkan AgentBot merespons melalui API Katalis.app secara real-time.
 
 ## Bagaimana AgentBot Bekerja?
 
@@ -12,7 +12,7 @@ Dijelaskan di bawah dalam alur kerja tipikal AgentBot.
 2. AgentBot memproses informasi yang diterima untuk menghasilkan respons yang sesuai.
 3. AgentBot juga bisa memanfaatkan API sistem eksternal untuk mengumpulkan informasi pelanggan tambahan, seperti status pesanan atau pemicu pemesanan.
 4. AgentBot bisa memanfaatkan layanan seperti Rasa, Dialogflow, atau Lex untuk deteksi intent.
-5. AgentBot bisa memposting respons yang dihasilkan kembali ke widget dengan memanfaatkan API Katalis seperti `message_create`.
+5. AgentBot bisa memposting respons yang dihasilkan kembali ke widget dengan memanfaatkan API Katalis.app seperti `message_create`.
 6. AgentBot bisa mengubah status percakapan ke open untuk menyerahkan percakapan ke agen manusia.
 7. Bot terus memantau percakapan terbuka untuk menyediakan informasi kontekstual kepada agen dukungan.
 
@@ -33,7 +33,7 @@ Berikut beberapa contoh penggunaan:
 
 ## Membuat Agent Bot
 
-### Cara membuat agent bot di akun Katalis Anda?
+### Cara membuat agent bot di akun Katalis.app Anda?
 
 Anda bisa membuat agent bot dari pengaturan akun. Buka Settings → Bots. Anda akan melihat opsi seperti di bawah ini.
 

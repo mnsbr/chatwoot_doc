@@ -1,12 +1,12 @@
 # How to use omnichannel message signature?A personal message signature serves as a comprehensive sign-off that you can include at the end or in the footer of your
 
-messages. In Katalis, you can use your message signature across all inboxes and not be limited to emails only.
+messages. In Katalis.app, you can use your message signature across all inboxes and not be limited to emails only.
 
 To create and use yours, follow the simple steps described below.
 
 Crafting your personalized message signature
 
-Every agent in Katalis can make their own message signature. Follow the following steps.
+Every agent in Katalis.app can make their own message signature. Follow the following steps.
 
 Step 1. Click your profile icon from the bottom left of your dashboard, and go to 'Personal Settings'.
 
@@ -18,7 +18,7 @@ Step 3. Click the 'Save message signature' button to lock your settings.
 
 Using your message signature
 
-You can fully control the behavior of your message signature from Katalis dashboard. Your signature is enabled by
+You can fully control the behavior of your message signature from Katalis.app dashboard. Your signature is enabled by
 default. When chatting with a customer, you have the following three options.
 
 Send the message
