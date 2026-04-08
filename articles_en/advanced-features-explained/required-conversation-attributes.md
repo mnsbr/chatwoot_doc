@@ -1,8 +1,6 @@
+# Required Conversation Attributes
 
-# Required Conversation AttributesRequired Conversation Attributes lets admins enforce that agents fill in specific custom attributes before resolving a
-
-conversation. This ensures your team captures structured data consistently whether it's a resolution category, severity
-level, or any other field important for reporting and quality tracking.
+Required Conversation Attributes lets admins enforce that agents fill in specific custom attributes before resolving a conversation. This ensures your team captures structured data consistently whether it's a resolution category, severity level, or any other field important for reporting and quality tracking.
 
 How it works
 
@@ -12,7 +10,7 @@ conversation that is missing those values. The conversation cannot be resolved u
 If the attributes already have values (set earlier during the conversation), the resolution proceeds normally without
 any prompt.
 
-Setting up required attributes:
+## Setting up required attributes:
 
 1.  Navigate to Settings → Conversation Workflows.
 
@@ -24,7 +22,7 @@ Setting up required attributes:
 
 5.  To remove an attribute from the required list, click the delete icon next to it.
 
-Agent experience
+## Agent experience
 
 When an agent clicks Resolve on a conversation that is missing required attributes:
 
@@ -36,7 +34,7 @@ When an agent clicks Resolve on a conversation that is missing required attribut
 
 If the agent is not ready to resolve, they can click Cancel to return to the conversation without making changes.
 
-Supported attribute types
+## Supported attribute types
 
 You can mark any conversation-level custom attribute as required. The supported types are:
 
@@ -60,7 +58,7 @@ skipped, and a notification will inform the agent that those
 conversations could not be resolved. The remaining conversations that satisfy the requirements will be resolved
 normally.
 
-Things to note
+## Things to note
 
   - Only admins can configure which attributes are required.
 
@@ -75,4 +73,6 @@ Review Notes are available on:
 
   - Cloud: Business and Enterprise plans
 
-  - Self-hosted: Available in all self-hosted paid plansLast updated on Feb 11, 2026
+  - Self-hosted: Available in all self-hosted paid plans
+
+_Last updated on Feb 11, 2026_

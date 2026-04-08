@@ -8,7 +8,7 @@ time and productivity. All canned responses are available for all agents in the 
 
 P.S. We have curated a bunch of editable, templated replies for you to create your Canned Responses with. Check it out.
 
-How to create a canned response?
+## How to create a canned response?
 
 Any agent/admin in the account can create/modify a canned response. To add a new canned response, follow the steps
 described below.
@@ -32,7 +32,7 @@ The fields shown in the modal are described below.
 Once you enter the details, click the Submit button. If the request is successful, a message "Canned Response added
 successfully" will be displayed.
 
-How to modify or delete a canned response?
+## How to modify or delete a canned response?
 
 Step 1. Open the list of your canned responses from Settings → Canned Responses. Locate the canned response you want to
 edit. Click the Edit button (pencil icon) if you want to edit it. Click the delete button (red cross icon) if you want
@@ -41,8 +41,10 @@ to delete it.
 Step 2. If you are editing the canned response, you will see a modal with prefilled information. You can edit both the
 shortcode and the message. Click on Submit to save the changes. Click on Cancel if you want to discard the changes.
 
-How to use a canned response in a conversation?
+## How to use a canned response in a conversation?
 
 To access canned responses while you chat with a customer, enter / in the text editor. This will display a list of all
 the canned responses. You can choose from the list or simply type in the shortcode if you remember it. Then, press
-the Enter key, and your text editor will be populated with the reply.Last updated on Aug 07, 2024
+the Enter key, and your text editor will be populated with the reply.
+
+_Last updated on Aug 07, 2024_

@@ -1,6 +1,6 @@
-# How to use Conversation Filters?You can filter your conversations using different criteria. You can also use "AND" and "OR" operators to further refine
+# How to use Conversation Filters?
 
-your search.
+You can filter your conversations using different criteria. You can also use "AND" and "OR" operators to further refine your search.
 
 The available filters are listed below.
 
@@ -30,7 +30,7 @@ The available filters are listed below.
 
 13. Custom attributes added to your account.
 
-How to filter conversations?
+## How to filter conversations?
 
 To filter your conversations, follow the following steps.
 
@@ -51,6 +51,8 @@ To get all conversations "Resolved" by agent "Fayaz", set filters as described b
     
     You can apply as many filters as you want by combining them with AND and OR operators to create complex queries.
     
-    Clear filters
+    ## Clear filters
     
-    To clear the filters and go back to the original list, click on the "Clear Filters" button.Last updated on Feb 25, 2024
+    To clear the filters and go back to the original list, click on the "Clear Filters" button.
+
+_Last updated on Feb 25, 2024_

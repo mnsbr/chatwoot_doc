@@ -1,4 +1,6 @@
-# How to continue conversations through email?Your customers can continue their chat conversations with your agents through email threads. This may be required under
+# How to continue conversations through email?
+
+Your customers can continue their chat conversations with your agents through email threads. This may be required under
 
 the following circumstances.
 
@@ -8,7 +10,7 @@ the following circumstances.
 
 For this to work, the contact should have an email address in the Katalis.app CRM.
 
-Obtaining email addresses of contacts​
+## Obtaining email addresses of contacts​
 
 You can prompt/update customer emails into Katalis.app through the following ways.
 
@@ -29,7 +31,7 @@ Note: When Captain is enabled on an inbox, the email collect prompt is automatic
 conversations directly, even outside business hours. The email collect prompt will only be sent if Captain hands off the
 conversation to a human agent or if Captain is not configured for the inbox.
 
-Conversation Continuity​
+## Conversation Continuity​
 
 Note: Enable conversation continuity in self-hosted installations with the help of this guide.
 
@@ -42,4 +44,6 @@ agent has replied, the following happens.
   - The agent receives the customer replies from email in their Katalis.app dashboard, continued over the existing
     conversation thread.
 
-The email icon in the chat bubble indicates that the customer has replied through email.Last updated on Dec 15, 2025
+The email icon in the chat bubble indicates that the customer has replied through email.
+
+_Last updated on Dec 15, 2025_

@@ -1,6 +1,8 @@
-# Mobile app for iOSYou can access your Katalis.app account on iOS mobile devices through the Katalis.app mobile app.
+# Mobile app for iOS
 
-How to get the Katalis.app mobile app for iOS?
+You can access your Katalis.app account on iOS mobile devices through the Katalis.app mobile app.
+
+## How to get the Katalis.app mobile app for iOS?
 
 You can download the app called "Katalis.app" from your Appstore. Follow these steps:
 
@@ -15,9 +17,11 @@ You can download the app called "Katalis.app" from your Appstore. Follow these s
 
 5.  Click the Connect button and enter your account credentials to log in.
 
-Contribute to testing app updates​
+## Contribute to testing app updates​
 
 You can sign up for our beta program to help with testing app updates before release. Open this link from your iOS
 device.
 
-You can leave the Beta testing program anytime by opening the TestFlight app and clicking "Stop Testing".Last updated on May 15, 2023
+You can leave the Beta testing program anytime by opening the TestFlight app and clicking "Stop Testing".
+
+_Last updated on May 15, 2023_

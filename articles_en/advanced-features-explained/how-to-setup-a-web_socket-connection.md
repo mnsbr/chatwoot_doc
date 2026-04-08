@@ -1,18 +1,19 @@
-# How to setup a WebSocket connection?WebSockets establish a continuous connection between the client and server, enabling bi-directional communication.
+# How to setup a WebSocket connection?
 
-Katalis.app utilizes this connection to provide real-time updates about platform events. To connect to the Katalis.app
-WebSocket, simply provide a token and follow the setup instructions outlined in this guide.
+WebSockets establish a continuous connection between the client and server, enabling bi-directional communication.
+
+Katalis.app utilizes this connection to provide real-time updates about platform events. To connect to the Katalis.app WebSocket, simply provide a token and follow the setup instructions outlined in this guide.
 
 Note: This feature is experimental, and the documentation may change with each release. Additionally, backward
 compatibility cannot be guaranteed, so it is important to ensure you are using the latest version of the implementation.
 
-Why should I use a WebSocket connection?
+## Why should I use a WebSocket connection?
 
 A WebSocket connection allows for real-time data updates, making it ideal for clients such as an Android or iOS client
 SDK for Katalis.app. This helps update the dashboard without the need to reload the page. Hence, it can enhance the user
 experience and improve an agent's productivity.
 
-How to set up a WebSocket connection with Katalis.app?
+## How to set up a WebSocket connection with Katalis.app?
 
 To set up a WebSocket connection with Katalis.app, you need to initiate a connection with the authentication PubSub token
 provided by Katalis.app. The URL for the connection is wss://<your-installation-url>/cable. If you are using Katalis.app
@@ -38,7 +39,7 @@ Please refer Client APIs to build real time customer facing integrations using
 Note: This token may be rotated regularly based on your installation type. Please ensure that you are using the latest
 token.
 
-How to connect to Katalis.app WebSocket?
+## How to connect to Katalis.app WebSocket?
 
 To connect to the Katalis.app WebSocket, use the command subscribe and include your pubSubToken, accountId, and userId (if
 using a user token) in the connection request. Here is an example of how you can connect with Katalis.app.
@@ -68,12 +69,12 @@ connection.send(
 // The expected string in connection.send is of the format:
 // {"command":"subscribe","identifier":"{\\"channel\\":\\"RoomChannel\\",\\"pubsub_token\\":\\"your-pubsub-token\\",\\"account_id\\": account_id_integer,\\"user_id\\":user_id_integer }"}
 
-Publishing presence to the WebSocket server
+## Publishing presence to the WebSocket server
 
 To keep your users’ status online in Katalis.app, you can send a presence update event to Katalis.app every 30 seconds. This
 action would keep the status of the agent/contact online.
 
-How to update the presence of an agent/admin?
+## How to update the presence of an agent/admin?
 
 To update the presence of an agent or admin, send the following payload to the server:
 
@@ -92,7 +93,7 @@ connection.send(userPayload);
 // The expected string in connection.send is of the format:
 // {"command":"message","identifier":"{\\"channel\\":\\"RoomChannel\\",\\"pubsub_token\\":\\"your-pubsub-token\\",\\"account_id\\": account_id_integer,\\"user_id\\":user_id_integer ","data":"{\\"action\\":\\"update_presence\\"}"}
 
-How to update the presence of a contact?
+## How to update the presence of a contact?
 
 To update the presence of a contact, send the following payload to the server:
 
@@ -109,7 +110,7 @@ connection.send(agentPayload);
 // The expected string in connection.send is of the format:
 // {"command":"message","identifier":"{\\"channel\\":\\"RoomChannel\\",\\"pubsub_token\\":\\"your-pubsub-token\\","data":"{\\"action\\":\\"update_presence\\"}"}
 
-WebSocket Payload
+## WebSocket Payload
 
 Objects
 
@@ -268,14 +269,14 @@ Message
 Each event will include a message attribute which we return the event name as well as the data associated with it. To
 see the list of events, refer the documentation below.
 
-Types of Events
+## Types of Events
 
 conversation.created
 
 This event is triggered when a new conversation is initiated. If subscribing to the contact's PubSub token, this event
 will only include data related to the specific session associated with the PubSub token.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -290,7 +291,7 @@ conversation.read
 
 This event is triggered and sent to the agents/admins who have access to the inbox, when a contact has read a message.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -306,7 +307,7 @@ message.created
 This event is triggered and sent to the agents, admins, contacts when a new message is created in a conversation they
 have access to.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -322,7 +323,7 @@ message.updated
 This event is triggered and sent to the agents, admins, contacts when a message is updated in a conversation they have
 access to.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -337,7 +338,7 @@ conversation.status_changed
 
 This event is sent to the agents, admins, contacts when a conversation status is updated.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -352,7 +353,7 @@ conversation.typing_on
 
 This event is sent to the agents, admins, contacts when a contact or an agent starts typing a response.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -374,7 +375,7 @@ conversation.typing_off
 
 This event is sent to the agents, admins, contacts when a contact or an agent ends typing a response.
 
-Available to: agent/admin, contact
+## Available to: agent/admin, contact
 
 {
   "message": {
@@ -395,7 +396,7 @@ assignee.changed
 
 This event is sent to the agents/admins with access to an inbox when the assigned agent is changed.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -410,7 +411,7 @@ team.changed
 
 This event is sent to the agents/admins with access to an inbox when the assigned team is changed.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -426,7 +427,7 @@ conversation.contact_changed
 This event is sent to the agents/admins when two contacts are merged all their conversations are consolidated under one
 contact.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -441,7 +442,7 @@ contact.created
 
 This event is sent to the agents/admins when a contact is created.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -456,7 +457,7 @@ contact.updated
 
 This event is sent to the agents/admins when a contact is updated.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -472,7 +473,7 @@ presence.update
 Available for both agent and the contact, this event provides real-time updates on the availability status of the users
 in the system. The event delivered to contacts will not include information about other contacts' availability status.
 
-Available to: agent/admin
+## Available to: agent/admin
 
 {
   "message": {
@@ -493,4 +494,6 @@ notification_created
 
 This event is sent to the agents/admins when a notification is created.
 
-Available to: agent/adminLast updated on Apr 17, 2023
+## Available to: agent/admin
+
+_Last updated on Apr 17, 2023_

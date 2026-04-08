@@ -1,12 +1,13 @@
+# How to Embed Your Help Center Articles in the Live Chat Widget
 
-# How to Embed Your Help Center Articles in the Live Chat WidgetWant to integrate your help center articles directly into your live chat widget? This powerful feature lets customers
+Want to integrate your help center articles directly into your live chat widget? This powerful feature lets customers
 
 access support content without leaving the chat interface, creating a seamless support experience.
 
 Katalis.app offers a built-in feature that makes this integration simple. Follow this step-by-step guide to embed your help
 center in your Katalis.app live chat widget.
 
-Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have:
 
@@ -14,7 +15,7 @@ Before you begin, ensure you have:
 
   - A configured live chat inbox
 
-Step 1: Set Up Your Help Center
+## Step 1: Set Up Your Help Center
 
 First, you'll need to create and configure your help center in Katalis.app.
 
@@ -24,7 +25,7 @@ First, you'll need to create and configure your help center in Katalis.app.
 
 3.  Once your help center is ready with at least one article, proceed to Step 2
 
-Step 2: Access Inbox Settings
+## Step 2: Access Inbox Settings
 
 Navigate to your inbox configuration:
 
@@ -32,7 +33,7 @@ Navigate to your inbox configuration:
 
 2.  Click on Inbox Settings from the vertical navigation bar
 
-Step 3: Open Live Chat Settings
+## Step 3: Open Live Chat Settings
 
 Locate and access your live chat inbox settings:
 
@@ -40,7 +41,7 @@ Locate and access your live chat inbox settings:
 
 2.  Click the settings icon (⚙️) next to your Live Chat inbox name
 
-Step 4: Configure Help Center Integration
+## Step 4: Configure Help Center Integration
 
 Connect your help center to the widget:
 
@@ -52,7 +53,7 @@ Connect your help center to the widget:
 
 4.  Ensure the correct help center is selected
 
-Step 5: Save Your Changes
+## Step 5: Save Your Changes
 
 Finalize the configuration:
 
@@ -60,7 +61,7 @@ Finalize the configuration:
 
 2.  Wait for the confirmation message
 
-Verify Your Setup
+## Verify Your Setup
 
 After completing all steps:
 
@@ -71,4 +72,6 @@ After completing all steps:
 3.  Test by accessing and reading articles directly from the chat widget
 
 Congratulations! Your customers can now access help center articles without leaving the chat experience, improving
-support efficiency and user satisfaction.Last updated on Sep 17, 2025
+support efficiency and user satisfaction.
+
+_Last updated on Sep 17, 2025_

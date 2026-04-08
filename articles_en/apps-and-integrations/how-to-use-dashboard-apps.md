@@ -1,4 +1,6 @@
-# How to use Dashboard Apps?With Dashboard apps, you can integrate an app within the Katalis.app dashboard for agents' use. This feature enables you to
+# How to use Dashboard Apps?
+
+With Dashboard apps, you can integrate an app within the Katalis.app dashboard for agents' use. This feature enables you to
 
 create an application independently, which can then be embedded to provide customers' information, orders, past payment
 history, etc.
@@ -8,7 +10,7 @@ event. Implement a listener for the message event on your page to receive the co
 
 P.S. Check out our YouTube live on building a Dashboard App.
 
-How to create a dashboard app?
+## How to create a dashboard app?
 
 Step 1. Go to Settings → Integrations → Dashboard apps. Click on the “Configure” button corresponding to the Dashboard
 Apps.
@@ -20,7 +22,7 @@ is “Customer Orders”.
 
 When you click on the new tab, you will be able to see your application fetching data on the Katalis.app dashboard.
 
-Receiving data from Katalis.app into your app
+## Receiving data from Katalis.app into your app
 
 Katalis.app will deliver the conversation and contact context as a window event. This can be accessed within your app by
 implementing a listener for the event, as shown here:
@@ -33,7 +35,7 @@ window.addEventListener("message", function (event) {
   const eventData = JSON.parse(event.data);
 });
 
-On-demand request for data from Katalis.app
+## On-demand request for data from Katalis.app
 
 If you need to request the conversation data on demand from Katalis.app, you can send a message to the parent window using
 the javascript postMessage API.
@@ -49,7 +51,7 @@ window.parent.postMessage('Katalis.app-dashboard-app:fetch-info', '*')
 
 // You would get a message in the on message listener with the appContext payload.
 
-Event Payload
+## Event Payload
 
 conversation object​
 
@@ -188,7 +190,7 @@ currentAgent object​
   "name": "string"
 }
 
-Final Payload​
+## Final Payload​
 
 {
   "event": "appContext",
@@ -203,4 +205,6 @@ Final Payload​
       // <...Current agent Attributes>
     }
   }
-}Last updated on Apr 10, 2024
+}
+
+_Last updated on Apr 10, 2024_

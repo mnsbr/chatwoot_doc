@@ -1,4 +1,6 @@
-# Group chats with filters, save as foldersYou can organize and sort your conversations using advanced filters and save them as folders. These folders show up in
+# Group chats with filters, save as folders
+
+You can organize and sort your conversations using advanced filters and save them as folders. These folders show up in
 
 the sidebar for quick access to specific conversations within the user's view.
 
@@ -18,7 +20,9 @@ Your saved filter will now appear as a folder on sidebar. Here is an example:
 
 You can access this readily whenever you want to.
 
-How to delete a folder?
+## How to delete a folder?
 
 To delete a folder, click the red bin icon, as indicated in the following screenshot. To confirm, click on the “Yes,
-Delete” button.Last updated on Apr 10, 2024
+Delete” button.
+
+_Last updated on Apr 10, 2024_

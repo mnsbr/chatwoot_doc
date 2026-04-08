@@ -1,12 +1,13 @@
+# Twilio content templates
 
-# Twilio content templatesTwilio Content Templates allow you to send pre-approved WhatsApp message templates through your Twilio WhatsApp Business
+Twilio Content Templates allow you to send pre-approved WhatsApp message templates through your Twilio WhatsApp Business
 
 channels in Katalis.app. These templates enable you to initiate conversations and send structured messages that comply with
 WhatsApp's messaging policies.
 
-Template Types Supported
+## Template Types Supported
 
-Text Templates
+## Text Templates
 
   - Simple text messages with optional variables
 
@@ -14,7 +15,7 @@ Text Templates
 
   - Multi-language support
 
-Media Templates
+## Media Templates
 
   - Image Templates: Text with image headers (JPEG/PNG, max 5MB)
 
@@ -24,7 +25,7 @@ Media Templates
 
   - Support for dynamic media URLs with variables
 
-Quick Reply Templates
+## Quick Reply Templates
 
   - Interactive button responses handled by WhatsApp
 
@@ -32,7 +33,7 @@ Quick Reply Templates
 
   - Support for multiple language variants
 
-Call-to-Action Templates
+## Call-to-Action Templates
 
   - URL Button Templates: Send messages with clickable action buttons
 
@@ -40,7 +41,7 @@ Call-to-Action Templates
 
   - Action Types: URL buttons for payments, bookings, websites, etc.
 
-Prerequisites
+## Prerequisites
 
 Before using Twilio Content Templates:
 
@@ -52,7 +53,7 @@ Before using Twilio Content Templates:
 
 4.  WhatsApp Business Account: Verified WhatsApp Business profile
 
-Setting Up Templates
+## Setting Up Templates
 
 1.  Log into your Twilio Console
 
@@ -73,9 +74,9 @@ Setting Up Templates
 
 9.  Templates are now ready for use in Katalis.app
 
-Syncing Templates to Katalis.app
+## Syncing Templates to Katalis.app
 
-Automatic Sync via API
+## Automatic Sync via API
 
 Templates are automatically synced when you:
 
@@ -95,24 +96,24 @@ For inbox administrators:
 
 4.  Wait for sync completion notification
 
-Using Templates in Conversations
+## Using Templates in Conversations
 
-Step 1: Access template options
+## Step 1: Access template options
 
 Open any conversation with a WhatsApp contact, Click on the template icon in the message composer, Select "WhatsApp
 Templates" from the dropdown menu
 
-Step 2: Choose your template
+## Step 2: Choose your template
 
 Browse through your approved templates, Use the search bar to find specific templates quickly
 
-Step 3: Customize your message
+## Step 3: Customize your message
 
 Depending on your template type, you may need to fill in:
 
-Best Practices
+## Best Practices
 
-Template Design
+## Template Design
 
   - Keep messages concise and clear
 
@@ -122,7 +123,7 @@ Template Design
 
   - Test templates before approval submission
 
-Variable Usage
+## Variable Usage
 
   - Use descriptive variable names in Twilio Console
 
@@ -130,7 +131,7 @@ Variable Usage
 
   - Keep variable count reasonable (under 10 for best UX)
 
-Media Guidelines
+## Media Guidelines
 
   - Host media files on reliable, fast servers
 
@@ -150,36 +151,36 @@ Compliance
 
   - Monitor template performance and approval status
 
-Troubleshooting
+## Troubleshooting
 
-Common Issues
+## Common Issues
 
-Template Not Appearing
+## Template Not Appearing
 
   - Cause: Template not approved by WhatsApp
 
   - Solution: Check approval status in Twilio Console
 
-Template Sync Failed
+## Template Sync Failed
 
   - Cause: API connection issues or invalid credentials
 
   - Solution: Verify Twilio credentials and retry sync
 
-Media Not Loading
+## Media Not Loading
 
   - Cause: Media URL not accessible or wrong format
 
   - Solutions: Verify URL is publicly accessible, Check file format and size limits, Ensure HTTPS protocol
 
-Variables Not Working
+## Variables Not Working
 
   - Cause: Incorrect variable format or missing values
 
   - Solutions: Use correct {{1}}, {{2}} format in Twilio, Fill all required variables in Katalis.app, Check variable count
     matches template
 
-Error Messages
+## Error Messages
 
 "Template not found"
 
@@ -199,49 +200,49 @@ Error Messages
 
   - Review and complete all required fields
 
-Template Examples
+## Template Examples
 
-Basic Text Template
+## Basic Text Template
 
 
-Name: welcome_message
+## Name: welcome_message
 
 Content: "Welcome to {{1}}! We're excited to help you with {{2}}."
 
-Variables: Company name, Service type
+## Variables: Company name, Service type
 
-Product Showcase (Media Template)
+## Product Showcase (Media Template)
 
 
-Name: product_launch
+## Name: product_launch
 
-Media: Product image
+## Media: Product image
 
 Content: "🎉 New arrival! {{1}} is now available for {{2}}. Limited time offer!"
 
-Variables: Product name, Price
+## Variables: Product name, Price
 
-Order Confirmation (Text Template)
+## Order Confirmation (Text Template)
 
 
-Name: order_confirmed
+## Name: order_confirmed
 
 Content: "Hi {{1}}! Your order {{2}} has been confirmed. Delivery expected: {{3}}."
 
-Variables: Customer name, Order ID, Delivery date
+## Variables: Customer name, Order ID, Delivery date
 
-Quick Reply Template
+## Quick Reply Template
 
 
-Name: support_options
+## Name: support_options
 
-Content: "How can we help you today?"
+## Content: "How can we help you today?"
 
-Buttons: "Technical Support", "Billing", "General Info"
+## Buttons: "Technical Support", "Billing", "General Info"
 
 Limitations
 
-Current Limitations
+## Current Limitations
 
   - Templates not supported in campaigns (coming in future updates)
 
@@ -251,7 +252,7 @@ Current Limitations
 
   - Carousel templates
 
-Template Limits
+## Template Limits
 
   - Maximum 100 variables per template
 
@@ -271,4 +272,6 @@ For additional help:
 
   - Contact your system administrator for technical issues
 
-  - Refer to Katalis.app documentation for general platform guidancLast updated on Jan 05, 2026
+  - Refer to Katalis.app documentation for general platform guidanc
+
+_Last updated on Jan 05, 2026_

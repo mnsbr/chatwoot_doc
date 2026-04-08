@@ -1,4 +1,6 @@
-# Website live chat settings explainedThis document will help you fully set up your website live chat. It explains how to create and use the additional
+# Website live chat settings explained
+
+This document will help you fully set up your website live chat. It explains how to create and use the additional
 
 settings for a desired website inbox.
 
@@ -22,7 +24,7 @@ Here are the supported mobile OS versions for the Katalis.app mobile app:
 
   - iOS: v11.0 onwards
 
-How to create a website channel on Katalis.app?
+## How to create a website channel on Katalis.app?
 
 Step 1. Go to the Inboxes page. Go to Settings → Inboxes → "Add Inbox" button.
 
@@ -38,7 +40,7 @@ The available fields are explained below.
 
 2.  Website domain
     
-    Enter your website's URL. For e.g., www.example.com
+    ## Enter your website's URL. For e.g., www.example.com
 
 3.  Widget color
     
@@ -54,7 +56,7 @@ The available fields are explained below.
 
 6.  Enable/disable channel greeting
     
-    Enable to Send Greeting message when customer starts conversation
+    ## Enable to Send Greeting message when customer starts conversation
 
 7.  Channel greeting message
     
@@ -82,7 +84,7 @@ Step 6. If you want to update the agents with access to the inbox, go to Setting
 your website inbox listed there. Click on Settings. You will be able to see the code as well as the list of agents who
 have access to the inbox.
 
-Complete the website inbox setup
+## Complete the website inbox setup
 
 You already have a functional website inbox. Let's take a look at the additional Inbox settings.​
 
@@ -103,7 +105,7 @@ The CSAT results can be viewed later in the Reports section.
 
 Click the "Update" button to save the changes you have made.
 
-Collaborators tab​
+## Collaborators tab​
 
 Click on the "Collaborators" tab.
 
@@ -112,7 +114,7 @@ automatic assignment of new conversations to the agents added to this inbox.
 
 Click on Update to save the changes.
 
-Business Hours tab​
+## Business Hours tab​
 
 Click on the "Business Hours" tab. In this section, you can set the working hours of your team.
 
@@ -128,7 +130,7 @@ You can also select the available business hours for each day of the week, along
 
 Click on the Update Business Hour Setting Button.
 
-Pre Chat Form tab​
+## Pre Chat Form tab​
 
 Click on the "Pre Chat Form" tab.
 
@@ -154,12 +156,14 @@ The fields as seen are explained below:
 
 Click the "Update" button. Pre Chat Form is enabled now.
 
-Configuration tab​
+## Configuration tab​
 
 Click on the “Configuration” tab. You can find the code snippet to be copied to the website here.
 
 You can click on the Copy button to copy the code and paste it into the root file of your website.
 
-Widget Builder tab​
+## Widget Builder tab​
 
-You can customize your web widget with simple settings given on this page. You will be able to see your changes live.Last updated on Dec 15, 2025
+You can customize your web widget with simple settings given on this page. You will be able to see your changes live.
+
+_Last updated on Dec 15, 2025_

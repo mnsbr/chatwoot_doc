@@ -1,11 +1,13 @@
-# How to answer conversations from Slack?If your company/account/project uses Slack as a communication medium, you can integrate Slack with Katalis.app to manage
+# How to answer conversations from Slack?
+
+If your company/account/project uses Slack as a communication medium, you can integrate Slack with Katalis.app to manage
 
 all the inbox conversations in your slack workspace.
 
 To start the quick setup, follow the steps explained below. If you are using a self-hosted Katalis.app instance, please
 follow this guide.
 
-How to integrate Slack with Katalis.app?
+## How to integrate Slack with Katalis.app?
 
 Step 1. Go to Settings -> Integrations -> Slack -> Connect.
 
@@ -19,7 +21,7 @@ dropdown menu where you want to receive your Katalis.app conversations.
 
 Click the Update button. Now, the integration is complete.
 
-Important note
+## Important note
 
 If you have connected Slack before September 2023, you would not have had the option of selecting a specific Slack
 channel to manage your conversations from. If you would like to change that and select a specific channel of your
@@ -33,18 +35,18 @@ A: When you reply to the message, reply under the same thread. Each thread repre
 show your reply to the same message, you should reply under the thread. We use thread ID to verify the separate
 conversation.
 
-Supported features
+## Supported features
 
-Answer from your agent profile
+## Answer from your agent profile
 
 When you reply to a conversation from Slack, the customer receives the reply from your Agent profile in Katalis.app.
 
-Create private notes from Slack
+## Create private notes from Slack
 
 You can create a private note in Katalis.app from Slack. If you prefix a message with "note:", it converts into a private
 note and notifies any tagged agents. Here is an example:
 
-How to add Katalis.app to private channels?
+## How to add Katalis.app to private channels?
 
 Katalis.app won’t be added to your private Slack channels by default. You’ll need to add it manually. Here’s how to do it:
 
@@ -64,4 +66,6 @@ Step 5: Go back to the Katalis.app app and refresh the page. The channel should 
 and complete the integration.
 
 Note: If it still doesn't work, connect the Slack integration with a public channel, then remove the integration from
-the Katalis.app side and reconnect it again.Last updated on Jun 18, 2025
+the Katalis.app side and reconnect it again.
+
+_Last updated on Jun 18, 2025_

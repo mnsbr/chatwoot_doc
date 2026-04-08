@@ -1,8 +1,10 @@
-# How to use pre-chat forms?Pre chat form is used to collect information about a contact/conversation before initiating a conversation. The Pre chat
+# How to use pre-chat forms?
+
+Pre chat form is used to collect information about a contact/conversation before initiating a conversation. The Pre chat
 
 form is available only in website live chat.
 
-How to add a pre-chat form?
+## How to add a pre-chat form?
 
 Step 1. Go to Settings → Inboxes. Click on the specific settings of a website inbox.
 
@@ -20,7 +22,7 @@ The columns in the settings of pre-chat forms are described below.
 
   - Key
     
-    Field unique identifier
+    ## Field unique identifier
 
   - Type
     
@@ -36,7 +38,7 @@ The columns in the settings of pre-chat forms are described below.
 
   - Placeholder
     
-    The placeholder value
+    ## The placeholder value
 
 All the fields would be displayed under the pre-chat form settings by default. The admin will be able to do the
 following.
@@ -51,9 +53,11 @@ following.
 
 Customize your pre-chat form according to your needs. In order to add more fields, add more custom attributes.
 
-What does a pre-chat form look like?
+## What does a pre-chat form look like?
 
 Once the pre-chat form is enabled, it would ask your customers to fill out a form like the one shown below when they
 start a conversation through live chat.
 
-Also, read: Pre chat form + Automations = 🚀Last updated on Apr 10, 2024
+Also, read: Pre chat form + Automations = 🚀
+
+_Last updated on Apr 10, 2024_

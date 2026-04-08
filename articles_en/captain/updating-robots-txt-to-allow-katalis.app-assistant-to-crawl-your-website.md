@@ -1,5 +1,6 @@
+# Updating robots.txt to Allow Katalis.app Assistant to Crawl Your Website
 
-# Updating robots.txt to Allow Katalis.app Assistant to Crawl Your WebsiteKatalis.app uses Firecrawl internally to fetch and index your website content. This allows the Katalis.app Assistant to answer
+Katalis.app uses Firecrawl internally to fetch and index your website content. This allows the Katalis.app Assistant to answer
 
 questions using your site’s information.
 
@@ -15,7 +16,7 @@ When that happens:
 
 To ensure the Assistant works properly, you need to allow Firecrawl to crawl your website.
 
-Step 1: Check Your robots.txt
+## Step 1: Check Your robots.txt
 
 Visit:
 
@@ -23,7 +24,7 @@ https://yourdomain.com/robots.txt
 
 Look for any Disallow: entries that might block user agents.
 
-Step 2: Add an Allow Rule for Firecrawl
+## Step 2: Add an Allow Rule for Firecrawl
 
 Ask your website admin or developer to add the following lines to the robots.txt file:
 
@@ -40,4 +41,6 @@ You can verify by visiting:
 
 https://yourdomain.com/robots.txt
 
-and checking that the new rules appear.Last updated on Dec 08, 2025
+and checking that the new rules appear.
+
+_Last updated on Dec 08, 2025_

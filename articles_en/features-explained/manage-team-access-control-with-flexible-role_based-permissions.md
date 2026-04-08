@@ -1,8 +1,10 @@
-# Manage team access control with flexible role-based permissionsCustom roles are reusable permission sets you can assign to teammates in your Katalis.app workspace. This makes it easy to
+# Manage team access control with flexible role-based permissions
+
+Custom roles are reusable permission sets you can assign to teammates in your Katalis.app workspace. This makes it easy to
 
 update permissions for multiple team members at once.
 
-Create a new custom role
+## Create a new custom role
 
 To create a new role, go to Settings > Custom Roles, and click Add custom role.
 
@@ -12,7 +14,7 @@ Write a clear description that tells teammates exactly what permissions and abil
 
 Then save your new role.
 
-Assign roles to your teammates
+## Assign roles to your teammates
 
 To assign a role to a teammate, go to Settings > Agents and click Edit button next to the teammate whose role you want
 to change.
@@ -33,7 +35,7 @@ To delete a role, go to Settings > Custom Roles, and click Delete button next to
 
 Confirm to delete the role.
 
-Permission Levels Overview
+## Permission Levels Overview
 
 Here are the available permission levels and their corresponding access scopes:
 
@@ -51,4 +53,6 @@ Permission Level Breakdown:
 
   - Manage Knowledge Base: Full access to create, edit, and manage knowledge base content
 
-These permission levels can be combined to create custom roles that match your team's specific needs.Last updated on Mar 14, 2025
+These permission levels can be combined to create custom roles that match your team's specific needs.
+
+_Last updated on Mar 14, 2025_

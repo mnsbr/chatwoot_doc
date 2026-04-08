@@ -1,4 +1,6 @@
-# How to add labels?Labels in Katalis.app can help you easily categorize and prioritize conversations, making it easier to manage your
+# How to add labels?
+
+Labels in Katalis.app can help you easily categorize and prioritize conversations, making it easier to manage your
 
 workflow. By assigning a label to a conversation from the chat's side panel, you can quickly identify the topic or
 status of the conversation.
@@ -42,10 +44,12 @@ Step 3. Click on Create. The Label added successfully message will be displaye
 
 Continue to create as many labels as you need. Labels can be used across teams.
 
-How to modify or delete a label?
+## How to modify or delete a label?
 
 Step 1. Open the list of your label from Settings → Labels. Locate the label you want to edit. Click the Edit button
 (pencil icon) if you want to edit it. Click the delete button (red cross icon) if you want to delete it.
 
 Step 2. If you are editing the label, you will see a modal with prefilled information. You can edit the label name and
-its description. Click on Edit to save the changes. Click on Cancel if you want to discard the changes.Last updated on Aug 12, 2024
+its description. Click on Edit to save the changes. Click on Cancel if you want to discard the changes.
+
+_Last updated on Aug 12, 2024_

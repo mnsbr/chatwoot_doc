@@ -1,12 +1,14 @@
-# How to install live-chat on a React Native app?If you have a React Native app, you can add Katalis.app live chat widget and talk to your visitors in real-time. This can
+# How to install live-chat on a React Native app?
+
+If you have a React Native app, you can add Katalis.app live chat widget and talk to your visitors in real-time. This can
 
 be done in 3 simple steps using the Katalis.app plugin.
 
-Step 1. Create a website inbox in Katalis.app​
+## Step 1. Create a website inbox in Katalis.app​
 
 Please refer to this guide for detailed instructions on setting a website inbox in Katalis.app.
 
-Step 2. Add the plugin to your project​
+## Step 2. Add the plugin to your project​
 
 Add one of the following plugins to your project.
 
@@ -24,7 +26,7 @@ If you're using React Native versions > 60.0, it's relatively straightforward.
 
 cd ios && pod install
 
-Step 3. Use it like this​
+## Step 3. Use it like this​
 
 Replace websiteToken and baseUrl with appropriate values.
 
@@ -100,4 +102,6 @@ const styles = StyleSheet.create({
 
 export default App;
 
-And...you're done. Check out the complete example here.Last updated on Apr 10, 2024
+And...you're done. Check out the complete example here.
+
+_Last updated on Apr 10, 2024_

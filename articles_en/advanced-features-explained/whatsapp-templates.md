@@ -1,12 +1,13 @@
+# Whatsapp templates
 
-# Whatsapp templatesWhatsApp templates are pre-approved message formats that allow you to initiate conversations with your customers.
+WhatsApp templates are pre-approved message formats that allow you to initiate conversations with your customers.
 
 They're essential for sending promotional messages, order updates, and support notifications through WhatsApp Business
 Platform.
 
 Note: WhatsApp templates are currently supported only for WhatsApp Cloud inboxes.
 
-What are WhatsApp Templates?
+## What are WhatsApp Templates?
 
 WhatsApp templates are structured messages that must be approved by WhatsApp before you can send them to customers. They
 help ensure compliance with WhatsApp's messaging policies while enabling you to send professional, consistent
@@ -22,7 +23,7 @@ Templates can include:
 
   - Call-to-action buttons that link to websites or phone numbers
 
-Template Categories
+## Template Categories
 
 WhatsApp organizes templates into different categories based on their purpose:
 
@@ -36,9 +37,9 @@ WhatsApp organizes templates into different categories based on their purpose:
 
   - Issue Resolution - Customer service follow-ups
 
-What is not supported
+## What is not supported
 
-Authentication templates
+## Authentication templates
 
   - AUTHENTICATION templates with OTP codes and verification messages
 
@@ -46,7 +47,7 @@ Authentication templates
 
   - OTP validation and expiry time handling
 
-Interactive components
+## Interactive components
 
   - LIST templates with selectable options
 
@@ -56,13 +57,13 @@ Interactive components
 
   - Multi-select components
 
-Call permission components
+## Call permission components
 
   - CALL_PERMISSION_REQUEST templates requiring WhatsApp calling API enabled
 
   - Call permission buttons and interactive call components
 
-Location components
+## Location components
 
   - LOCATION headers with map coordinates
 
@@ -70,7 +71,7 @@ Location components
 
   - Location-based templates
 
-Advanced features
+## Advanced features
 
   - Rich text formatting in template creation (preserved in sending)
 
@@ -82,11 +83,11 @@ Advanced features
 
   - Flow templates with conditional logic
 
-Legacy vs Enhanced templates
+## Legacy vs Enhanced templates
 
 Katalis.app supports two template formats to ensure compatibility with all your existing templates:
 
-Legacy templates
+## Legacy templates
 
 These are traditional templates that use simple text variables. They work with:
 
@@ -105,7 +106,7 @@ Legacy format example:
 ⚠️ Important: Legacy template support will be discontinued in the v4.7. We recommend migrating to enhanced templates to
 ensure continued functionality.
 
-Enhanced templates
+## Enhanced templates
 
 The new enhanced format provides more sophisticated features:
 
@@ -142,7 +143,7 @@ templates. Enhanced features are automatically available when you use supported 
 
 Please check this API to know about the request formats.
 
-How to create WhatsApp templates
+## How to create WhatsApp templates
 
 Currently, WhatsApp templates must be created through WhatsApp Business Manager:
 
@@ -162,7 +163,7 @@ Currently, WhatsApp templates must be created through WhatsApp Business Manager:
 🚀 Coming Soon: We're planning to add template creation directly within the Katalis.app interface in a future release,
 making it easier to design and manage your templates without leaving Katalis.app.
 
-How to send WhatsApp templates
+## How to send WhatsApp templates
 
 WhatsApp templates can be sent in two ways:
 
@@ -170,18 +171,18 @@ WhatsApp templates can be sent in two ways:
 
   - Campaigns - Send templates to multiple customers at once using Katalis.app campaign feature
 
-Sending templates in conversations
+## Sending templates in conversations
 
-Step 1: Access template options
+## Step 1: Access template options
 
 Open any conversation with a WhatsApp contact, Click on the template icon in the message composer, Select "WhatsApp
 Templates" from the dropdown menu
 
-Step 2: Choose your template
+## Step 2: Choose your template
 
 Browse through your approved templates, Use the search bar to find specific templates quickly
 
-Step 3: Customize your message
+## Step 3: Customize your message
 
 Depending on your template type, you may need to fill in:
 
@@ -217,7 +218,7 @@ Step 4: Preview and send
 
 4.  Click "Send Template" to deliver your message
 
-Sending templates via Campaigns
+## Sending templates via Campaigns
 
 For sending templates to multiple customers at once:
 
@@ -227,36 +228,36 @@ Choose your WhatsApp template from the available options and configure your audi
 
 Note: Campaign functionality allows you to reach multiple customers efficiently with the same template message.
 
-Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
-General Questions
+## General Questions
 
-Why can't I see all my WhatsApp templates in Katalis.app?
+## Why can't I see all my WhatsApp templates in Katalis.app?
 
 Only templates that are approved by WhatsApp and supported by Katalis.app will appear. Unsupported template types (like
 authentication templates with OTP codes) are automatically filtered out.
 
-How long does it take for new templates to appear in Katalis.app?
+## How long does it take for new templates to appear in Katalis.app?
 
 Templates typically sync automatically after some time and also you can update it manually from inbox settings.
 
-Can I edit templates directly in Katalis.app?
+## Can I edit templates directly in Katalis.app?
 
 No, templates must be created and edited in WhatsApp Business Manager. Katalis.app is used only for sending approved
 templates.
 
-Why do I need to provide URLs for images and videos?
+## Why do I need to provide URLs for images and videos?
 
 WhatsApp requires media files to be hosted online and publicly accessible. You cannot upload files directly - you must
 provide working URLs to your media content.
 
-Can I use the same template for different customers?
+## Can I use the same template for different customers?
 
 Yes! Templates are designed to be reused. Just fill in different customer information each time you send the template.
 
-Troubleshooting
+## Troubleshooting
 
-My template fails to send. What should I check?
+## My template fails to send. What should I check?
 
 Common issues include:
 
@@ -268,7 +269,7 @@ Common issues include:
 
   - Template not approved - Confirm template status in WhatsApp Business Manager
 
-Why can't customers see my images/videos?
+## Why can't customers see my images/videos?
 
 This usually means:
 
@@ -280,12 +281,12 @@ This usually means:
 
   - The hosting server is down or requires authentication
 
-My URL buttons don't work correctly. How do I fix this?
+## My URL buttons don't work correctly. How do I fix this?
 
 For templates with dynamic URL buttons, there are known issues with certain template configurations. Try using static
 URLs instead of dynamic parameters for more reliable functionality.
 
-Can I send templates to customers who haven't messaged me first?
+## Can I send templates to customers who haven't messaged me first?
 
 Yes, but only for certain template categories:
 
@@ -297,7 +298,7 @@ Yes, but only for certain template categories:
 
 Media and Files
 
-What file types can I use in templates?
+## What file types can I use in templates?
 
 Supported formats include:
 
@@ -309,22 +310,22 @@ Supported formats include:
 
 Compliance and limits
 
-How many templates can I send per day?
+## How many templates can I send per day?
 
 This depends on your WhatsApp Business account limits and message quotas. Contact WhatsApp support for specific limits
 on your account.
 
-Are there restrictions on when I can send marketing templates?
+## Are there restrictions on when I can send marketing templates?
 
 Yes, marketing templates have specific sending windows and require customer opt-in. Check WhatsApp's current policies
 for your region and business type.
 
-What happens if I send too many messages?
+## What happens if I send too many messages?
 
 WhatsApp monitors message quality and delivery rates. Sending too many unsuccessful or unwanted messages can impact your
 account's message limits and template approval rates.
 
-Need more help?
+## Need more help?
 
 If you're experiencing issues not covered in this guide:
 
@@ -339,4 +340,6 @@ If you're experiencing issues not covered in this guide:
 5.  Review WhatsApp's template policies for compliance questions
 
 Remember that WhatsApp templates are a powerful tool for customer communication when used correctly. Focus on providing
-value to your customers with relevant, timely messages that respect their preferences.PILast updated on Aug 12, 2025
+value to your customers with relevant, timely messages that respect their preferences.
+
+_Last updated on Aug 12, 2025_

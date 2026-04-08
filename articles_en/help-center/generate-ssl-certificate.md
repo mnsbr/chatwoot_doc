@@ -1,4 +1,6 @@
-# How to setup an SSL certificate for your Help Center's custom domain?Using your own domain, like docs.your-company.com, makes your help center feel more trustworthy and on-brand. Katalis.app
+# How to setup an SSL certificate for your Help Center's custom domain?
+
+Using your own domain, like docs.your-company.com, makes your help center feel more trustworthy and on-brand. Katalis.app
 
 allows you to use your own custom domain and would help you to secure your site with SSL certificates so that it's safe
 for your visitors.
@@ -24,7 +26,7 @@ Help Center. You’ll need to copy this information and update your DNS provider
 
 If you’re not sure how to do it, you can use the option on the screen to email these details to your developer.
 
-Step 2: Update your DNS with the CNAME record
+## Step 2: Update your DNS with the CNAME record
 
 You must point your custom domain to Katalis.app by creating a CNAME record.
 
@@ -51,7 +53,7 @@ a phrase like How to add a CNAME record on [Your DNS Provider].
 This step links your domain to Katalis.app’s servers. Once it’s done, we’ll have everything we need, your portal details
 and the domain configuration to issue the SSL certificate and make your Help Center live.
 
-Step 3: Getting an SSL certificate​
+## Step 3: Getting an SSL certificate​
 
 Katalis.app provides SSL certificates for all cloud customers on paid plans who set up a custom domain for their Help
 Center portal.
@@ -70,4 +72,6 @@ process.
 
 Once the verification is successful and the SSL certificate is issued, the status will change to 'Live' on your
 dashboard. This means your Help Center is now securely available at your custom domain. Your customers can visit the URL
-and browse the content.Last updated on Aug 07, 2025
+and browse the content.
+
+_Last updated on Aug 07, 2025_

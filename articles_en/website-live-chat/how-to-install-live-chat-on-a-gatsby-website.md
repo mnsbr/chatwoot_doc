@@ -1,8 +1,10 @@
-# How to install live chat on a Gatsby website?If you have a website created on Gatsby, you can add a Katalis.app live chat widget and talk to your visitors in real time.
+# How to install live chat on a Gatsby website?
+
+If you have a website created on Gatsby, you can add a Katalis.app live chat widget and talk to your visitors in real time.
 
 This can be done in 3 simple steps using Katalis.app’s Gatsby plugin.
 
-Step 1. Add the Gatsby plugin to your project​
+## Step 1. Add the Gatsby plugin to your project​
 
 Add gatsby-plugin-Katalis.app to your Gatsby project.
 
@@ -31,6 +33,8 @@ You can get your Website token and base URL from your Inbox settings in your Kat
 
 If you need to create a new website channel, follow the procedure illustrated here.
 
-Step 3. Start your server​
+## Step 3. Start your server​
 
-You would be able to see the Katalis.app widget on the page now.Last updated on Apr 10, 2024
+You would be able to see the Katalis.app widget on the page now.
+
+_Last updated on Apr 10, 2024_

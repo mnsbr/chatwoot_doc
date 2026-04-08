@@ -1,9 +1,11 @@
-# Group your contacts into custom segments.With Katalis.app, you can sort and filter your contacts using different categories by using advanced filters. You can save
+# Group your contacts into custom segments.
+
+With Katalis.app, you can sort and filter your contacts using different categories by using advanced filters. You can save
 
 these filtered contacts as segments, appearing in the secondary sidebar under the "Segments" section. This feature helps
 save different groups of contacts based on your requirements and access them readily.
 
-How to create Contact Segments?
+## How to create Contact Segments?
 
 Step 1. Start by filtering your contacts. Select "Contacts" from your sidebar and click the "Filter" button.
 
@@ -17,13 +19,15 @@ pop up, asking Do you want to save this filter?. Give a name for your filter an
 
 Your segment has been created.
 
-How to view a saved Contact Segment?
+## How to view a saved Contact Segment?
 
 You will be able to find your saved segment in the secondary sidebar. You can click on it anytime to quickly view the
 contact group.
 
-How to delete a saved segment?
+## How to delete a saved segment?
 
 To delete a Contact Segment, open it and select the "Delete Filter" option from the header.
 
-Confirm deletion.Last updated on Apr 10, 2024
+Confirm deletion.
+
+_Last updated on Apr 10, 2024_

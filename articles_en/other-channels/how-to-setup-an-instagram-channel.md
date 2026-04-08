@@ -1,4 +1,6 @@
-# How to setup an Instagram channel (via Facebook login)?We recommend Instagram Business Login as the preferred authentication method, as it provides simpler configuration and a
+# How to setup an Instagram channel (via Facebook login)?
+
+We recommend Instagram Business Login as the preferred authentication method, as it provides simpler configuration and a
 
 better developer experience. Please refer to this guide for more details. We will be stopping the support for Instagram
 via Facebook Login in the future from v4.1 onwards.
@@ -7,7 +9,7 @@ If you are using a self-hosted Katalis.app installation, please set up your Inst
 
 For the cloud version of Katalis.app, please follow this guide.
 
-Prerequisites
+## Prerequisites
 
 Before bringing your Instagram inbox to Katalis.app, you need to make sure that you have a Business Instagram account.
 
@@ -26,7 +28,7 @@ these steps:
 
 Now switch back to Katalis.app App.
 
-How to create an Instagram inbox in Katalis.app?
+## How to create an Instagram inbox in Katalis.app?
 
 Step 1. Go to Settings → Inboxes → “Add Inbox”.
 
@@ -40,4 +42,6 @@ permissions shown in the list. This will help Katalis.app to perform all the des
 Step 5. "Add agents" to your Instagram inbox.
 
 You have successfully created an Instagram inbox. Whenever a customer sends a message to your Instagram account, you
-will be able to see and reply to it in Katalis.app.>Last updated on Apr 17, 2025
+will be able to see and reply to it in Katalis.app.
+
+_Last updated on Apr 17, 2025_

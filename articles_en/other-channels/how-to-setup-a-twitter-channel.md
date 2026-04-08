@@ -1,4 +1,6 @@
-# How to setup a Twitter channel?NOTE: Twitter integration has been temporarily discontinued as a result of modifications made by Twitter to its APIs.
+# How to setup a Twitter channel?
+
+NOTE: Twitter integration has been temporarily discontinued as a result of modifications made by Twitter to its APIs.
 
 This includes limitations on the number of requests raised per minute, plus substantial pricing changes.
 
@@ -21,7 +23,7 @@ Step 5. "Add agents" to your Twitter inbox.
 You have successfully created a Twitter inbox. You will now be able to manage Twitter DMs as well as tweets mentioning
 you from Katalis.app.
 
-Additional Inbox settings​
+## Additional Inbox settings​
 
 Your freshly configured Twitter inbox should now appear in your list of inboxes. To see this and to make additional
 settings in your Twitter inbox, go to Settings → Inboxes → click the gear icon on the associated Twitter inbox. You will
@@ -29,7 +31,7 @@ see the following screen:
 
 You can make some fundamental changes here.
 
-Settings tab​
+## Settings tab​
 
 Enable channel greeting. Once you enable this, Katalis.app will send a greeting message to new conversations created
 through your Twitter inbox.
@@ -37,7 +39,7 @@ through your Twitter inbox.
 Enable CSAT. Once you enable this, your Customer Satisfaction survey will be launched every time a ticket is resolved.
 The CSAT results can be viewed later in the Reports section.
 
-Collaborators tab​
+## Collaborators tab​
 
 Click on the Collaborators tab. Here, you can add Agents to the Inbox or delete Agents already added to the Inbox.
 
@@ -45,7 +47,7 @@ You can also enable or disable the automatic assignment of new conversations to 
 
 Click on Update to save the changes.
 
-Business Hours tab​
+## Business Hours tab​
 
 Click on the Business Hours tab. In this section, you can set the working hours of your team associated with the Twitter
 inbox.
@@ -57,4 +59,6 @@ during OFF business hours.
 
 You can also select the available business hours for each day of the week and the proper time zone.
 
-Click on the Update Business Hour Setting Button.Last updated on Apr 10, 2024
+Click on the Update Business Hour Setting Button.
+
+_Last updated on Apr 10, 2024_

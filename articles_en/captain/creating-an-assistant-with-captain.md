@@ -1,10 +1,11 @@
+# Creating an assistant with Captain
 
-# Creating an assistant with CaptainThe Assistant in Captain is built to help answer customer questions, provide solutions, and assist with product-related
+The Assistant in Captain is built to help answer customer questions, provide solutions, and assist with product-related
 
 issues. It learns from your help center articles and past conversations to give accurate responses. When linked to an
 inbox, it can handle conversations directly with your customers.
 
-How to create an assistant in Captain?
+## How to create an assistant in Captain?
 
 If you’re using a paid plan on Katalis.app Cloud, you’ll find the Captain menu on the left-hand sidebar. Under this menu,
 you’ll see options for Assistants, Documents, and FAQs.
@@ -31,7 +32,7 @@ details from conversations and would save it in the notes | false | No |
 Once you’ve entered the details, click Create, and your assistant will be added to your account! You can create multiple
 assistants to handle different use cases if needed.
 
-How do you connect an assistant to inboxes?
+## How do you connect an assistant to inboxes?
 
 Adding an assistant to your account doesn’t automatically connect it to all the inboxes. You’ll need to manually link
 each assistant to the relevant inboxes where it’s required. This gives you the flexibility to assign assistants based on
@@ -52,4 +53,6 @@ email, or more.
 Great! The assistant has been set up successfully. However, at this stage, it doesn’t have any knowledge about your
 business and the product. After the initial greeting, the assistant will attempt to transfer the conversation to an
 agent. To give the assistant context about your product, you can add documents. Learn more about documents in this
-article.Last updated on Jan 29, 2025
+article.
+
+_Last updated on Jan 29, 2025_

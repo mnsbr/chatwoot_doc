@@ -1,15 +1,12 @@
-# How to use Automation?Katalis.app automation feature streamlines team workflow by automating repetitive tasks and saving time. It allows for
+# How to use Automation?
 
-various actions such as assigning labels, and teams and routing conversations to the most suitable agent, enabling the
-team to focus on their core responsibilities and spend less time on manual tasks.
+Katalis.app automation feature streamlines team workflow by automating repetitive tasks and saving time. It allows for various actions such as assigning labels, and teams and routing conversations to the most suitable agent, enabling the team to focus on their core responsibilities and spend less time on manual tasks.
 
-How does Automation work?
+## How does Automation work?
 
-An automation rule is made up of three things––An Event, Conditions, and Actions. The Event is the trigger for
-automation to perform itself. The conditions are criteria that must be met before the actions are executed. The Actions
-are tasks that will be executed when the conditions are met.
+An automation rule is made up of three things––An Event, Conditions, and Actions. The Event is the trigger for automation to perform itself. The conditions are criteria that must be met before the actions are executed. The Actions are tasks that will be executed when the conditions are met.
 
-Automation Events
+## Automation Events
 
 Automation Events are triggers that initiate the execution of automation. Katalis.app currently offers three types of
 events.
@@ -24,17 +21,15 @@ events.
 4.  Conversation opened: A trigger/event initiated when a previously snoozed, resolved, or pending conversation is
     opened again.
 
-Automation Conditions
+## Automation Conditions
 
-Conditions are the criteria that must be met before the actions are performed. They are evaluated in the order they are
-defined.
+Conditions are the criteria that must be met before the actions are performed. They are evaluated in the order they are defined.
 
 Conditions depend on the type of event you select. Here is a comprehensive list:
 
-Automation Actions
+## Automation Actions
 
-Actions are tasks/processes that are executed whenever respective conditions are met. Katalis.app currently supports the
-following actions:
+Actions are tasks/processes that are executed whenever respective conditions are met. Katalis.app currently supports the following actions:
 
   - Assign to agent
 
@@ -62,7 +57,7 @@ following actions:
 
 These actions are available irrespective of the Events or Conditions you choose.
 
-How to create an Automation rule?
+## How to create an Automation rule?
 
 Step 1. Go to Settings → Automation. Click on the “Add Automation Rule” button.
 
@@ -95,7 +90,7 @@ you can create an automation rule for this –
 4.  Add an action - Assign a team and select the team France sales from the dropdown. (You need to create your team
     first).
     
-    How to pause, edit, clone, and delete automation rules?
+    ## How to pause, edit, clone, and delete automation rules?
     
     Your list of Automation rules appears under “Automations”. You can view this page by going to Settings → Automation.
     You will find a set of quick actions here:
@@ -114,4 +109,6 @@ you can create an automation rule for this –
     
     To delete a rule:
     
-    Click on the red cross icon.Last updated on Apr 10, 2024
+    Click on the red cross icon.
+
+_Last updated on Apr 10, 2024_

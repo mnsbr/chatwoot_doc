@@ -1,6 +1,8 @@
-# How to create an API channel inbox?To create and configure an API channel inbox in Katalis.app installations, follow the step described below.
+# How to create an API channel inbox?
 
-Setup the API channel
+To create and configure an API channel inbox in Katalis.app installations, follow the step described below.
+
+## Setup the API channel
 
 Step 1. Go to Settings → Inboxes → “Add Inbox”.
 
@@ -12,7 +14,7 @@ Step 4. "Add agents" to your API inbox.
 
 The inbox setup is complete.
 
-Send messages to the API channel
+## Send messages to the API channel
 
 To send messages to the API channel, ensure you understand the following models and nomenclature used in Katalis.app.
 
@@ -28,7 +30,7 @@ To send messages to the API channel, ensure you understand the following models 
 5.  Contact Inboxes: This is the session for each contact in an inbox. A contact can have multiple sessions and multiple
     conversations in the same inbox.
 
-How to send a message in an API Channel?
+## How to send a message in an API Channel?
 
 To send a message in an API channel, create a contact, initiate a conversation, and finally send the message.
 
@@ -121,14 +123,14 @@ If everything is successful, you will see the conversation on the dashboard as f
 You will be notified when a new message is created on the URL specified while creating the API channel. You can read
 about the message payload here.
 
-Receive messages using callback URL
+## Receive messages using callback URL
 
 When a new message is created in the API channel, you will get a POST request to the Callback URL specified while
-creating the API channel. The payload would look like this.
+## creating the API channel. The payload would look like this.
 
 Find the full list of events supported by the webhook here.
 
-Event type: message_created
+## Event type: message_created
 
 {
   "id": 0,
@@ -165,7 +167,7 @@ Event type: message_created
   "event": "message_created"
 }
 
-Create Interfaces using client APIs
+## Create Interfaces using client APIs
 
 Client APIs available for the API channel will help you build customer-facing interfaces for Katalis.app.
 
@@ -177,21 +179,21 @@ These APIs are useful for cases like the ones listed below.
 
 3.  Add Katalis.app to other platforms for which Katalis.app doesn't have an official SDK.
 
-Creating customer objects
+## Creating customer objects
 
 You can create and retrieve customer data objects using the inbox_identifier and customer_identifier.
 
-Inbox Identifier
+## Inbox Identifier
 
 You can obtain the inbox_identifier from your API channel -> Settings -> Configuration.
 
-Customer Identifier
+## Customer Identifier
 
 The customer_identifier or the source_id can be obtained when creating the customer using the create API. You will need
 to store this identifier on your client-side to make further requests on behalf of the customer. This can be done in
 cookies, local storage etc.
 
-Available APIs
+## Available APIs
 
 The Available Client APIs are documented here. Some of the things you can do with the APIs are:
 
@@ -201,7 +203,7 @@ The Available Client APIs are documented here. Some of the things you can do wi
 
   - Create, List and Update Messages
 
-HMAC Authentication
+## HMAC Authentication
 
 The Client APIs also support HMAC Authentication. The HMAC token for the Channel can be obtained via running the
 following on your rails console.
@@ -209,13 +211,13 @@ following on your rails console.
 # replace api_inbox_id with your inbox id
 Inbox.find(api_inbox_id).channel.hmac_token
 
-Connecting to the Katalis.app WebSockets
+## Connecting to the Katalis.app WebSockets
 
 To get real-time updates from the agent dashboard, connect to Katalis.app WebSockets using the following URL.
 
 <your installation url>/cable
 
-Authenticating your WebSocket connection
+## Authenticating your WebSocket connection
 
 After subscribing using the customer's pubsub_token, you will receive events directed toward your customer object. The
 pubsub_token is provided during the customer creation API call.
@@ -227,6 +229,8 @@ connection.send(JSON.stringify({ command:"subscribe", identifier: "{\\"channel\\
 
 Find the full list of events supported by WebSockets here.
 
-Implementation
+## Implementation
 
-Here is an example chat interface build over the Client APIs.Last updated on Apr 10, 2024
+Here is an example chat interface build over the Client APIs.
+
+_Last updated on Apr 10, 2024_

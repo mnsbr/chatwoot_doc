@@ -1,4 +1,6 @@
-# How to enable CSAT surveys?The CSAT(customer satisfaction) score generally represents how happy customers are with your product/service or a
+# How to enable CSAT surveys?
+
+The CSAT(customer satisfaction) score generally represents how happy customers are with your product/service or a
 
 specific experience. It enables your customers to rate their satisfaction with your customer service on a numerical
 scale. Once you collect a significant number of scores, you can calculate your average score over specific periods of
@@ -15,7 +17,7 @@ This is how a CSAT survey looks in a website inbox:
 
 This is how a CSAT survey looks in other inboxes:
 
-How to enable CSAT surveys?
+## How to enable CSAT surveys?
 
 CSAT is disabled by default. You can enable CSAT surveys for any inbox to let Katalis.app collect feedback on your behalf.
 
@@ -29,7 +31,7 @@ CSAT is disabled by default. You can enable CSAT surveys for any inbox to let Ka
 
 5.  Click the Update button to save your settings.
 
-Customization Options
+## Customization Options
 
 Katalis.app now offers enhanced customization for CSAT surveys:
 
@@ -39,7 +41,7 @@ Display Type
 
 2.  Star Rating: A 5-star scale.
 
-Survey Message
+## Survey Message
 
 Customize the message that accompanies the survey. For example: "Please rate your support experience." The message can
 be up to 200 characters.
@@ -56,4 +58,6 @@ Also, see:
 
   - How to interpret CSAT surveys?
 
-  - The 10 crucial customer service KPIs, and how to track them?Last updated on May 21, 2025
+  - The 10 crucial customer service KPIs, and how to track them?
+
+_Last updated on May 21, 2025_

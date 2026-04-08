@@ -1,8 +1,10 @@
-# Lesson 3 (b): Mastering core featuresThis lesson is an extension of Lesson 3(a).
+# Lesson 3 (b): Mastering core features
+
+This lesson is an extension of Lesson 3(a).
 
 Because nobody likes lengthy lessons. 🤷
 
-Canned Responses
+## Canned Responses
 
 A few days into serving your customers, you will identify that you use the same greeting or goodbye every time or that
 there are specific common questions. Typing the same replies repeatedly without getting a tone of frustration in your
@@ -11,28 +13,28 @@ message sounds like a superhuman job to us.
 So, we introduced Canned Responses instead––to cut down the repetitive work. This lets you save frequently sent messages
 as templates and use them quickly in a chat with the help of short-codes.
 
-What is a Canned Response on Katalis.app?
+## What is a Canned Response on Katalis.app?
 
 Canned Responses are like your ammo. These are your saved reply templates which can be used anytime to send out a reply
 to a conversation quickly.
 
-How to create Canned Responses?
+## How to create Canned Responses?
 
 We have a detailed document for this.
 
-Canned Responses library by Katalis.app
+## Canned Responses library by Katalis.app
 
 We have curated a bunch of editable, templated replies for you to create your Canned Responses with. Check it out.
 
-Can Agents create Canned Responses?
+## Can Agents create Canned Responses?
 
 Yes.
 
-Can Agents access and use the Canned Responses created by other agents?
+## Can Agents access and use the Canned Responses created by other agents?
 
 Yes.
 
-How to use the Canned Responses feature?
+## How to use the Canned Responses feature?
 
 You use Canned Responses during conversations. Follow the following steps.
 
@@ -44,35 +46,35 @@ click on it. You reply box will be populated with the saved reply. It would look
 
 That was a complete sentence written in a click!
 
-Step 3. Press Send. 🤷‍♀️
+## Step 3. Press Send. 🤷‍♀️
 
-Custom Attributes
+## Custom Attributes
 
 Each contact or conversation is unique, and there are some facts/attributes you might want to track about them. Custom
 Attributes are facts about your conversation or contacts. Facts like – subscription plan, subscription date, signup
 date, most ordered item, last ordered item, etc. Why custom? It is because you can create your own (custom) facts rather
 than sticking to the standard facts such as email, OS, location, etc.
 
-What is a Custom Attribute on Katalis.app?
+## What is a Custom Attribute on Katalis.app?
 
 It is a particular type of fact you create for your conversations or contacts. These help you track essential info about
 them.
 
 You can create account-wide attributes and apply them during a conversation.
 
-How to add a Custom Attribute to Katalis.app?
+## How to add a Custom Attribute to Katalis.app?
 
 We have a detailed document for this.
 
-Can Agents create Custom Attributes?
+## Can Agents create Custom Attributes?
 
 Yes.
 
-Can Agents access and use the Custom Attributes created by other agents?
+## Can Agents access and use the Custom Attributes created by other agents?
 
 Yes.
 
-How to use the Custom Attributes feature?
+## How to use the Custom Attributes feature?
 
 You can use custom attributes in two parts, as explained below.
 
@@ -93,13 +95,13 @@ of your chat sidebar instead.
 
 2. For filtering conversations and contacts
 
-Filtering conversations
+## Filtering conversations
 
 Step 1. Go to “conversations” and press the filter icon to view a list of available conversation filters.
 
 Step 2. Scroll down to the “Custom Attributes” part. Select the one you want to. Refer to the screenshot:
 
-Filtering contacts
+## Filtering contacts
 
 Step 1. Go to “Contacts” and press the filter icon to view a list of available contact filters.
 
@@ -114,25 +116,25 @@ becomes even more difficult to manage. So, it is best to leave some grunt work t
 With Katalis.app Automation, you can define simple (or complex) rules in your account and get your workflows
 rolling––without spending a minute on them.
 
-What is Automation in Katalis.app?
+## What is Automation in Katalis.app?
 
 It is a set of rules an Admin defines for the account to automate certain tasks. A few examples of such tasks include
 assigning agents or teams, adding labels, snoozing conversations, etc. These actions are triggered based on events and
 conditions defined by you.
 
-Can Agents create Automation rules?
+## Can Agents create Automation rules?
 
 No. Only admins can.
 
-Can Agents access and use the Automation rules?
+## Can Agents access and use the Automation rules?
 
 Yes.
 
-How to create Automation rules?
+## How to create Automation rules?
 
 We have a detailed document for this.
 
-How to use the Automation feature?
+## How to use the Automation feature?
 
 Once you’ve set up the automation rules following the documentation provided in the section above, all you have to do is
 sit back and relax. You have just automated, after all!
@@ -144,7 +146,7 @@ specific metrics. Which agent responds the fastest? What is your CSAT score in t
 currently online? Which kind of conversations do you receive the most? –– these are only some questions you will look
 for answers to. Hence, we created Reports.
 
-What are Reports on Katalis.app?
+## What are Reports on Katalis.app?
 
 You will find seven types of reports on Katalis.app.
 
@@ -162,7 +164,7 @@ You will find seven types of reports on Katalis.app.
 
 7.  Team overview: To view important metrics and KPIs about your teams.
 
-How to use the Reports feature?
+## How to use the Reports feature?
 
 Step 1. From your left sidebar, select the bar graph icon to see the list of the seven reports listed above.
 
@@ -175,4 +177,6 @@ Step 4. Set the duration.
 
 Step 5. Click on a particular metric to view the associated graph. Here is an example:
 
-Go to Lesson 4 (last and super short) ->Last updated on Apr 10, 2024
+Go to Lesson 4 (last and super short) ->
+
+_Last updated on Apr 10, 2024_

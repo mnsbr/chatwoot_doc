@@ -1,22 +1,24 @@
-# Setting up notificationsTo access notification settings, open your profile settings from the profile menu on the sidebar. Here, you’ll find all
+# Setting up notifications
+
+To access notification settings, open your profile settings from the profile menu on the sidebar. Here, you’ll find all
 
 settings associated with your profile, including configurations for audio, email, and push notifications.
 
 Note: These settings apply to your profile only and do not change settings globally.
 
-Audio Notifications
+## Audio Notifications
 
 Audio notifications are available when you have Katalis.app open in the browser. They are sent immediately, based on your
 chosen settings.
 
-Here's an overview of each of these settings
+## Here's an overview of each of these settings
 
 Alert tone
 
 At the moment you have five options, you can hear them by pressing the preview button. You can select either of these
 depending on your preference.
 
-Alert events for conversations
+## Alert events for conversations
 
 You can select any of the three options available.
 
@@ -36,7 +38,7 @@ Note that audio notifications work only when Katalis.app is open in the browser.
 activity even when the app is not open, you can enable "Push notifications". This is explained in detail further on this
 page.
 
-Alert conditions
+## Alert conditions
 
 This determines when the alert is actually triggered, this allows more granular control helping you cut distractions or
 stay on top of your conversations.
@@ -59,7 +61,7 @@ Katalis.app will send you notifications about new events with Push Notifications
 well as email based on your preferences. We recommend enabling the notifications for assigned and mentioned as shown in
 the screenshot below
 
-Enabling push notifications in the browser
+## Enabling push notifications in the browser
 
 For the app to be able to send you push notifications, it needs to seek permission from your browser. To enable push
 notifications you can click on the toggle "Enable push notifications for your browser so you’re able to receive them" it
@@ -67,4 +69,6 @@ should prompt you for permission.
 
 You need to allow this, in case the prompt does not show up, this could mean that the permission is blocked already, or
 disabled by default. You can follow this guide to ensure notifications are enabled for your browser. Once enabled, the
-push notifications can be toggled on correctly.Last updated on Dec 09, 2024
+push notifications can be toggled on correctly.
+
+_Last updated on Dec 09, 2024_

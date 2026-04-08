@@ -1,4 +1,6 @@
-# Updating your General settingsThe General settings lets you update your organization’s information. You can update the name or language used in the
+# Updating your General settings
+
+The General settings lets you update your organization’s information. You can update the name or language used in the
 
 account by changing the settings as shown below.
 
@@ -22,4 +24,6 @@ The fields on this page are described below.
 Click on Update Settings Button on the right hand top side of the screen. Wait for the success message to ensure that
 the settings have been updated.
 
-Next: Adding agentsLast updated on Nov 13, 2024
+## Next: Adding agents
+
+_Last updated on Nov 13, 2024_

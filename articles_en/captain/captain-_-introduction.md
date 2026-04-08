@@ -1,4 +1,6 @@
-# Introduction to CaptainCaptain is the AI agent for Katalis.app that helps make customer support faster, smarter, and more personal. It comes with
+# Introduction to Captain
+
+Captain is the AI agent for Katalis.app that helps make customer support faster, smarter, and more personal. It comes with
 
 powerful tools to assist both your customers and support agents, ensuring smooth conversations and quick resolutions.
 
@@ -22,4 +24,6 @@ Read more about FAQs here.
 🧠 Captain Memories – Keeps track of important details from conversations. If a customer mentions an issue more than
 once, Captain remembers it, so your team can provide better, more personalized support.
 
-Read more about memories here.Last updated on Jan 29, 2025
+Read more about memories here.
+
+_Last updated on Jan 29, 2025_

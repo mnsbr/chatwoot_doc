@@ -1,11 +1,13 @@
-# How to bring your Dialogflow chatbot to Katalis.app?Chatbots are valuable for many customer engagement teams. They efficiently handle trivial questions and free human
+# How to bring your Dialogflow chatbot to Katalis.app?
+
+Chatbots are valuable for many customer engagement teams. They efficiently handle trivial questions and free human
 
 agents to focus on more pressing issues.
 
 Dialogflow and Rasa.ai are leading NLP (Natural Language Processing) platforms for building customized chatbots. In this
 guide, we explain how you can create a bot in Dialogflow and easily integrate it with Katalis.app in seconds.
 
-How to create a Dialogflow bot?
+## How to create a Dialogflow bot?
 
 Step 1. Go to your Dialogflow Console. We will be using Dialogflow Essentials for this article. Click on "Create Agent".
 You will see options like these:
@@ -37,7 +39,7 @@ click on "Add Key". You will be able to see a screen like the one below.
 Click on "JSON" and click on "Create". It will generate a key for your service account. Download the key and save it for
 use later.
 
-Setting up Dialogflow Integration in Katalis.app​
+## Setting up Dialogflow Integration in Katalis.app​
 
 Katalis.app has a native Dialogflow integration. You can connect your bot with Katalis.app in two quick steps.
 
@@ -49,9 +51,9 @@ area.
 
 That's it! The integration is complete. Test out the website inbox to see if the bot handles the initial query.
 
-Advanced Intents​
+## Advanced Intents​
 
-Creating a handoff intent​
+## Creating a handoff intent​
 
 Once the user requests to talk to the agent, Dialogflow must inform Katalis.app that an agent can take over the
 conversation.
@@ -66,7 +68,7 @@ handle the handoff intent, we will create a "Custom Payload" response, as shown 
 Upon triggering an intent with the above payload, Katalis.app will toggle the status of the conversation to open and hand
 it off to an agent.
 
-Interactive Messages​
+## Interactive Messages​
 
 Note: Interactive messages are supported only in the website inbox currently.
 
@@ -79,7 +81,7 @@ supported.
 
 3.  Articles
 
-Creating an interactive message Intent​
+## Creating an interactive message Intent​
 
 You can create other interactive messages by changing the payload as mentioned in the interactive messages guide.
 
@@ -120,4 +122,6 @@ conversation status is changed to open and the bot stops responding to it.
 
 Sometimes the agents would want to push back a conversation that was handed off, back again into the bot queue. They can
 do this by changing the conversation status back to pending. This will make the bot start responding to that
-conversation again.Last updated on May 15, 2023
+conversation again.
+
+_Last updated on May 15, 2023_

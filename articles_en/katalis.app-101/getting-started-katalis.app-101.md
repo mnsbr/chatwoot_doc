@@ -1,9 +1,11 @@
-# Start the Engine: Intro to Katalis.app and Customer Engagement.Hello there! 🎉
+# Start the Engine: Intro to Katalis.app and Customer Engagement.
+
+Hello there! 🎉
 
 If you’re new to Katalis.app or just starting to explore how to interact with your customers and web visitors, you’re in
 the right place. We’ve crafted this friendly guide to get you up and running in no time!
 
-What to expect in this tutorial?
+## What to expect in this tutorial?
 
 This tutorial will guide you through using Katalis.app and help you practice effective customer communication.
 
@@ -17,7 +19,7 @@ Here’s what you’ll learn:
 
   - Key concepts for engaging and delighting your customers.
 
-Who’s this tutorial for?
+## Who’s this tutorial for?
 
   - Anyone new to Katalis.app.
 
@@ -30,4 +32,6 @@ Who’s this tutorial for?
 Next step: Sign up for your free Katalis.app trial if you haven’t already.
 Or, dive right into the first lesson!
 
-Let’s get started—happy chatting 🚀Last updated on Mar 05, 2026
+Let’s get started—happy chatting 🚀
+
+_Last updated on Mar 05, 2026_

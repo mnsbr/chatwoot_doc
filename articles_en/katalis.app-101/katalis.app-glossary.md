@@ -1,11 +1,11 @@
-# Katalis.app GlossaryA
+# Katalis.app Glossary
 
 Access Token
 
 Application APIs are designed to interact with a Katalis.app account from a user's perspective. So, to integrate apps and
 authenticate to these APIs, you will require a user access_token, which can be obtained from your Profile Settings.
 
-Administrator (Admin)
+## Administrator (Admin)
 
 Administrators are such account users who have complete access to all the enabled features. They can also control all
 the account settings, unlike agents.
@@ -29,11 +29,11 @@ Applications
 These are external apps that are natively integrated with Katalis.app. Setting these up lets you enhance your customer
 engagement toolset. E.g. You can build a chatbot using our native integration with the Dialogflow app.
 
-Archived articles (Help Center)
+## Archived articles (Help Center)
 
 Archived articles are the ones you don’t want to be published. They will stay as drafts within your dashboard.
 
-Article (Help Center)
+## Article (Help Center)
 
 An article is a document created in the Help Center portal under the topic category that holds essential information
 about an aspect of a product. These articles can be shared in customer conversations.
@@ -42,12 +42,12 @@ Assignee
 
 A person on your team who is assigned a conversation––usually assumes its responsibility and sends answers to it.
 
-Audio notifications
+## Audio notifications
 
 On dashboard, Katalis.app alerts you of new events (like new messages and conversations) by playing an alert tone. You can
 customize your preferences in the Profile Settings.
 
-Author (Article)
+## Author (Article)
 
 An author of a Help Center article can be chosen from the Agents list. Their name and thumbnail appear on the published
 article page.
@@ -66,7 +66,7 @@ Bots
 You can create bots to automate some standard parts of a conversation, such as greeting a customer when she first
 messages.
 
-Business Hours
+## Business Hours
 
 You can set the working hours for any channel/inbox within Katalis.app. So, whenever your agents associated with the
 particular inbox are outside their working hours, Katalis.app will show a custom message to the customer.
@@ -82,16 +82,16 @@ Campaigns let you create outbound messages for your customers and web visitors. 
 
 2.  One-off: For sending an SMS campaign to a group of contacts.
 
-Canned Responses
+## Canned Responses
 
 These are your saved reply templates to send out a reply to a conversation quickly by using a shortcode.
 
-Categories (Help Center)
+## Categories (Help Center)
 
 You can divide a Help Center portal into categories and write specific articles under each of such categories. These
 categories appear as sections (in a grid layout) when your Help Center is live.
 
-Channel/Inbox
+## Channel/Inbox
 
 A channel is a mode of communication your customer selects to talk to you. An inbox is an instance of a channel. For eg.
 Email, web live chat, social interactions, etc., qualify as inboxes.
@@ -100,11 +100,11 @@ Contacts
 
 The contacts on your account store information on the people who have ever messaged you + any list you upload manually.
 
-Contact Segments
+## Contact Segments
 
 A saved filter group for your contacts. Learn more.
 
-Conversations
+## Conversations
 
 Your chats with various customers are referred to as conversations in Katalis.app.
 
@@ -117,7 +117,7 @@ These ratings can be averaged out for certain periods to find the “CSAT score�
 scores under the CSAT Reports section on your dashboard.
 Also, learn about crucial customer service KPIs.
 
-Custom Attributes
+## Custom Attributes
 
 These help you track custom info/facts about conversations and/or contacts. These are different from standard facts. For
 e.g., Standard facts are name, email, location, etc. Custom Attributes are subscription plan, signup date, most ordered
@@ -129,14 +129,14 @@ Dashboard
 
 The primary area of work displaying all the vital information and features to work with and interact on conversations.
 
-Dashboard Apps
+## Dashboard Apps
 
 A dashboard app in an external application brought onto your dashboard for quick access to customer data. For, e.g., If
 you have a customers’ orders tracking app and want to embed the same on your dashboard, set it up with the help of this
 feature.
-Also read: How to use Dashboard Apps?
+## Also read: How to use Dashboard Apps?
 
-Draft Article (Help Center)
+## Draft Article (Help Center)
 
 An Article that is a work-in-progress but not published is known as a Draft Article.
 
@@ -148,7 +148,7 @@ known as draft replies.
 
 E
 
-Email Notifications
+## Email Notifications
 
 Katalis.app sends you an email whenever a particular activity occurs in your account, like a new conversation being
 created, a new conversation being assigned to you, etc. You can personalize your email notifications preferences from
@@ -156,17 +156,17 @@ your Profile Settings.
 
 F
 
-First Response Time
+## First Response Time
 
 A metric (also used in reports) that calculates the total time taken to send the first reply to a customer’s message by
 a particular agent, team or particular inbox.
 
-Folder (conversation)
+## Folder (conversation)
 
 When you group your conversations with the help of filters, you can also save them as custom folders. Once saved, such
 folders appear on the left sidebar of your dashboard for quick access.
 
-Forward to Email
+## Forward to Email
 
 When you set up an Email channel, it needs your incoming support emails to your primary inbox (such as Gmail) to be
 forwarded to Katalis.app. This is achieved with the help of the Forward to Email setting, which is found under the Email
@@ -188,12 +188,12 @@ IMAP
 IMAP (Internet Messaging Access Protocol) allows you to read your email messages from your email inbox. Enable this
 option from the Email channel settings.
 
-Import (contacts)
+## Import (contacts)
 
 You can manually add contacts to your contacts list on Katalis.app by uploading a CSV file. You can include standard as
 well as custom contact details in your CSV file.
 
-Incoming messages
+## Incoming messages
 
 Any new message sent by a customer in an incoming message.
 
@@ -204,7 +204,7 @@ For, e.g. You can integrate with Slack to manage your conversations from there!
 
 K
 
-Knowledge Base
+## Knowledge Base
 
 This is a set of product articles and documentation created to help out your customers. You can manage your knowledge
 base with the Help Center from your dashboard.
@@ -240,7 +240,7 @@ Katalis.app uses markdown language in its messages and Help Center articles.
 You can tag a fellow teammate on private notes to notify them about a matter you want to discuss.
 You can also view (only) the conversations that mention you by using the “Mentions” view on the dashboard.
 
-Metadata (Help Center articles)
+## Metadata (Help Center articles)
 
 You can write a Meta title, description and tags for your Help Center articles to be displayed in the search results of
 a search engine. All metadata can be managed from the article’s sidebar.
@@ -264,7 +264,7 @@ You can mute a conversation to stop receiving alerts for the same.
 
 N
 
-Notifications
+## Notifications
 
 There are four types of notifications in Katalis.app – audio, email, push, and Slack. You can customize your preferences
 from the Profile Settings and set up the Slack integration.
@@ -275,7 +275,7 @@ Open
 
 A type of conversation’s status implying that a conversation is ready to be picked up by an agent.
 
-Outgoing messages
+## Outgoing messages
 
 Any messages sent from the Katalis.app dashboard in an outgoing message.
 
@@ -285,12 +285,12 @@ Pending
 
 A type of conversation’s status.
 
-Personal message signature
+## Personal message signature
 
 A personal message signature, if configured, is added to all the messages you send from your email inbox by default. You
 can set up your signature from the Profile Settings.
 
-Private Notes
+## Private Notes
 
 Private Notes are available within your conversation window. Here, you can privately discuss customer queries with your
 teammates before replying to conversations.
@@ -301,7 +301,7 @@ A single Help center instance is called a portal. You can create multiple portal
 can have two portals for your organization––one for maintaining product documentation and the other for maintaining
 internal processes.
 
-Push notifications
+## Push notifications
 
 If enabled, Katalis.app will send you push notifications whenever a specific event occurs. Examples of such events include
 a new message being created, a conversation being created, etc. Customize your preferences in the Profile Settings.
@@ -312,12 +312,12 @@ Reports
 
 There are seven reports on Katalis.app, each providing an overview of certain analytics associated with your account.
 
-Resolution count
+## Resolution count
 
 A metric (also used in reports) that calculates the total conversations resolved in a period by a particular agent, team
 or inbox.
 
-Resolution time
+## Resolution time
 
 A metric (also used in reports) that calculates the total time taken to resolve a conversation by a particular agent,
 team or in a specific inbox.
@@ -358,4 +358,6 @@ Unattended
 On your dashboard, you'll find a view called "Unattended". This lists down all the conversations that are assigned and
 have yet to be responded to.
 
-Recommended next: Intro to Katalis.app and customer engagement.Last updated on Mar 05, 2026
+Recommended next: Intro to Katalis.app and customer engagement.
+
+_Last updated on Mar 05, 2026_

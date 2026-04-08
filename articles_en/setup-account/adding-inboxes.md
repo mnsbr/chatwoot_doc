@@ -1,24 +1,26 @@
-# Adding inboxesAn Inbox is an instance of a channel which connects your website or social media accounts like Facebook, Twitter or chat
+# Adding inboxes
+
+An Inbox is an instance of a channel which connects your website or social media accounts like Facebook, Twitter or chat
 
 platforms like WhatsApp, Line, and more to Katalis.app.
 
 You can have unlimited* inboxes in your Katalis.app account. You can add an inbox to your account in any of the three ways
 described below.
 
-I. Through your Welcome/onboarding screen​
+## I. Through your Welcome/onboarding screen​
 
 You’ll see the option to connect your inboxes on the onboarding screen. Click on Click here to create an inbox, as shown
 in the screenshot below.
 
-II. Through your Settings screen​
+## II. Through your Settings screen​
 
 On your Katalis.app dashboard, click on Settings → Inboxes.
 
-III. Through your home screen​
+## III. Through your home screen​
 
 You can find the + New inbox link on your home screen below the list of your inboxes.
 
-Start adding inboxes​
+## Start adding inboxes​
 
 Once you reach the inbox screen, click on the button: “Add Inbox”, which you will find at the top right hand corner of
 the page.
@@ -48,6 +50,8 @@ Find the detailed steps to configure each channel below.
 
   - Line channel
 
-Next: Adding teams
+## Next: Adding teams
 
-*Number of inboxes are subject to a fair use policy based on number of agents and subscribed plan.Last updated on Jan 08, 2025
+*Number of inboxes are subject to a fair use policy based on number of agents and subscribed plan.
+
+_Last updated on Jan 08, 2025_

@@ -1,8 +1,10 @@
-# How to setup a TikTok channel?If you are using a self-hosted Katalis.app installation, please set up your TikTok app as described in is this guide.
+# How to setup a TikTok channel?
+
+If you are using a self-hosted Katalis.app installation, please set up your TikTok app as described in is this guide.
 
 For the cloud version of Katalis.app, please follow this guide.
 
-Prerequisites
+## Prerequisites
 
 Before setting up the TikTok channel, ensure the following:
 
@@ -11,31 +13,31 @@ Before setting up the TikTok channel, ensure the following:
 2.  Your TikTok Business Account is set to accept direct messages from everyone. Otherwise, you will need to manually
     accept messages in the TikTok app. Learn how to update your message settings
 
-Setting Up the TikTok Channel
+## Setting Up the TikTok Channel
 
-Step 1: Navigate to Inboxes
+## Step 1: Navigate to Inboxes
 
 Go to Settings > Inboxes and click Add Inbox.
 
 Select TikTok from the list of available channels.
 
-Step 2: Connect Your TikTok Account
+## Step 2: Connect Your TikTok Account
 
 Click Continue with TikTok to begin the authentication process.
 
-Step 4: Authorize Katalis.app
+## Step 4: Authorize Katalis.app
 
 You will be redirected to TikTok. Review the requested permissions and click Continue to authorize Katalis.app to access
 your TikTok Business Account.
 
-Step 5: Add Agents
+## Step 5: Add Agents
 
 After authorization, you will be redirected back to Katalis.app. Add agents to the TikTok inbox so they can view and
 respond to messages.
 
 Your TikTok channel is now connected. Incoming TikTok direct messages will appear in your Katalis.app dashboard.
 
-Messaging Limitations
+## Messaging Limitations
 
   - Customers must initiate the conversation, businesses cannot message first.
 
@@ -53,11 +55,13 @@ Messaging Limitations
 
 FAQ’s
 
-Why can't I send media messages to some TikTok users?
+## Why can't I send media messages to some TikTok users?
 
 This happens due to TikTok's restrictions. Some regions do not allow sending or receiving images, and in other cases,
 the user's account may be flagged by TikTok.
 
 Availability
 
-TikTok is available on both Cloud and Self-hosted plans.Last updated on Feb 25, 2026
+TikTok is available on both Cloud and Self-hosted plans.
+
+_Last updated on Feb 25, 2026_

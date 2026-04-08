@@ -1,4 +1,6 @@
-# How to enable identity validation in Katalis.app?Identity validation helps ensure that the conversations between your customers and support agents are private. It also
+# How to enable identity validation in Katalis.app?
+
+Identity validation helps ensure that the conversations between your customers and support agents are private. It also
 
 helps with disallowing impersonation.
 
@@ -9,7 +11,7 @@ Identity Validation -> Copy the token shown there.
 
 You can generate HMAC in different languages, as shown below.
 
-Generate HMAC​
+## Generate HMAC​
 
 PHP​
 
@@ -21,7 +23,7 @@ $message = '<identifier>';
 $identifier_hash = hash_hmac('sha256', $message, $key);
 ?>
 
-Javascript (Node.js)​
+## Javascript (Node.js)​
 
 const crypto = require('crypto');
 
@@ -38,7 +40,7 @@ require 'base64'
 key = '<webwidget-hmac-token>'
 message = '<identifier>'
 
-OpenSSL::HMAC.hexdigest('sha256', key, message)
+## OpenSSL::HMAC.hexdigest('sha256', key, message)
 
 Elixir​
 
@@ -47,7 +49,7 @@ message = '<identifier>'
 
 signature = :crypto.hmac(:sha256, key, message)
 
-Base.encode16(signature, case: :lower)
+## Base.encode16(signature, case: :lower)
 
 Golang​
 
@@ -79,4 +81,6 @@ secret = bytes('<webwidget-hmac-token>', 'utf-8')
 message = bytes('<identifier>', 'utf-8')
 
 hash = hmac.new(secret, message, hashlib.sha256)
-hash.hexdigest()Last updated on Apr 10, 2024
+hash.hexdigest()
+
+_Last updated on Apr 10, 2024_

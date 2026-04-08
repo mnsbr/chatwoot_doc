@@ -1,5 +1,6 @@
+# Setting up SAML Authentication
 
-# Setting up SAML AuthenticationThis is a guide on setting up SAML auth for your account, the guide assumes you have a work IdP in place.
+This is a guide on setting up SAML auth for your account, the guide assumes you have a work IdP in place.
 
 Before you get started, there are some points to take note of
 
@@ -9,7 +10,7 @@ Before you get started, there are some points to take note of
   - If a user is part of multiple accounts, and any one account has SAML setup, they will have to login via SAML IdP
     only. It's best to restrict users to your domain alone.
 
-Setting up SAML
+## Setting up SAML
 
 You can find the SAML settings under Settings > Security. Here are the settings you need to be aware about.
 
@@ -54,7 +55,9 @@ The following attribute mappings must be configured in your identity provider
 Once the user logs in for the first time, this information is used to create a user for them. It does not update the
 information
 
-Authenticating
+## Authenticating
 
 You can navigate to this link https://app.katalis.app/app/login/sso to view the SAML login form. Just enter the email
-address and the app will redirect you to the configured SAML provider.Last updated on Nov 04, 2025
+address and the app will redirect you to the configured SAML provider.
+
+_Last updated on Nov 04, 2025_

@@ -1,4 +1,6 @@
-# How to setup a Line channel?Step 1. Go to Settings → Inboxes → “Add Inbox”.
+# How to setup a Line channel?
+
+Step 1. Go to Settings → Inboxes → “Add Inbox”.
 
 Step 2. Click on the "Line" icon.
 
@@ -27,4 +29,6 @@ Step 7. Go to the "Messaging API" channel in the developer console and configure
 
 2.  Enable "Use webhook"
 
-Step 8. Test your new Line inbox. Send a message to the Line bot. Check Katalis.app Line inbox for the new message.Last updated on Apr 10, 2024
+Step 8. Test your new Line inbox. Send a message to the Line bot. Check Katalis.app Line inbox for the new message.
+
+_Last updated on Apr 10, 2024_

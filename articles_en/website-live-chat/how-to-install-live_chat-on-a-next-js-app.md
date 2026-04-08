@@ -1,4 +1,6 @@
-# How to install live-chat on a Next.js app?If you have a Next.js app, you can add Katalis.app live chat widget and talk to your visitors in real time. To integrate
+# How to install live-chat on a Next.js app?
+
+If you have a Next.js app, you can add Katalis.app live chat widget and talk to your visitors in real time. To integrate
 
 Katalis.app with your Next.js application, you need a component that loads the Katalis.app script.
 
@@ -44,7 +46,7 @@ class Katalis.appWidget extends React.Component {
 
 export default Katalis.appWidget
 
-Step 2. Import​
+## Step 2. Import​
 
 Import the component in your pages or layout component, as shown below.
 
@@ -62,4 +64,6 @@ const Page = () => (
 
 export default Page
 
-You would be able to see the Katalis.app widget on the page now.Last updated on Apr 10, 2024
+You would be able to see the Katalis.app widget on the page now.
+
+_Last updated on Apr 10, 2024_

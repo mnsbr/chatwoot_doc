@@ -1,4 +1,6 @@
-# Lesson 2: Dashboard BasicsBy the end of this lesson, you will understand all the key things you can do on the Katalis.app dashboard.
+# Lesson 2: Dashboard Basics
+
+By the end of this lesson, you will understand all the key things you can do on the Katalis.app dashboard.
 
 The screenshot given below represents your typical dashboard. It has been categorized by differently colored numbers for
 better distinction and understanding.
@@ -13,7 +15,7 @@ Click on the Katalis.app icon to go to the dashboard any time.
 
 From top down:
 
-Icon 1: View your conversations (people contacting/contacted you)
+## Icon 1: View your conversations (people contacting/contacted you)
 
 Icon 2: View contacts (people who have ever contacted you on Katalis.app + the ones you manually added)
 
@@ -23,17 +25,17 @@ Icon 4: Create a campaign (for proactive customer reach outs)
 
 Icon 5: Create a Help Center (or a Knowledge base, if you call it that)
 
-Icon 6: Go to Account Settings
+## Icon 6: Go to Account Settings
 
 3. Sidebar controls – set two
 
 From top down:
 
-Icon 1: Read our docs to solve product-related queries
+## Icon 1: Read our docs to solve product-related queries
 
-Icon 2: View notifications
+## Icon 2: View notifications
 
-Icon 3: Go to personal profile settings
+## Icon 3: Go to personal profile settings
 
 4. Currently viewing
 
@@ -45,7 +47,7 @@ orgs./accounts connected with a single email ID, you can switch between your acc
 In this section, you can see all the connected inboxes and enabled features of Katalis.app. Let us understand them
 one-by-one.
 
-Conversations
+## Conversations
 
 All Conversations: All the conversations your account has received.
 
@@ -74,16 +76,16 @@ Search bar
 
 Type in a keyword you remember from a conversation or the contact’s name to display a list of matching results.
 
-Switch your dashboard layout
+## Switch your dashboard layout
 
 Choose how you want to view your Katalis.app dashboard. You can choose to hide your chat queue, giving more space to your
 chat window.
 
-Filter conversations
+## Filter conversations
 
 Choose from various filters to only see the conversations you need to see.
 
-List of conversations
+## List of conversations
 
 This section enlists your conversations chronologically (newest/last received on top).
 
@@ -115,18 +117,18 @@ Mute
 
 Mute a conversation to stop receiving notifications for the same.
 
-Send transcript
+## Send transcript
 
 Send the full chat transcript to the customer, assigned agent or any other email address.
 
-Resolve conversation
+## Resolve conversation
 
 Use when you want to close a conversation; generally used when the associated concern of the customer has been
 rectified.
 
 Other options from the dropdown:
 
-Mark as pending
+## Mark as pending
 
 Using this option sends the conversation to the Pending chats list.
 
@@ -152,15 +154,15 @@ related contact notes.
 
 11. Conversation Actions
 
-Assigned Agent
+## Assigned Agent
 
 Use this dropdown to view the list of agents in your account and select one to assign the conversation to them.
 
-Assigned Team
+## Assigned Team
 
 Use this dropdown to view the list of internal teams in your account and select one to assign the conversation to them.
 
-Conversation Labels
+## Conversation Labels
 
 Click on “+Add Labels” to view the list of labels in your account and select the ones that fit.
 
@@ -184,4 +186,6 @@ Expand this section to view and apply custom account attributes which can be def
 Expand this section to get a list of all the previous conversations associated with the contact.
 
 Feeling confident about the dashboard? That probably took 5 minutes! Let us understand all the core features next. Go to
-Lesson 3A now.Last updated on Apr 10, 2024
+Lesson 3A now.
+
+_Last updated on Apr 10, 2024_

@@ -1,6 +1,6 @@
-# How to use Macros?A macro is a set of sequential saved actions, like labeling a conversation, sending an email transcript, sending an
+# How to use Macros?
 
-attachment, etc., which you can define from your dashboard.
+A macro is a set of sequential saved actions, like labeling a conversation, sending an email transcript, sending an attachment, etc., which you can define from your dashboard.
 
 As a support agent, you will find that you need to repeat the same set of actions often. Here is an example: Whenever
 you receive a demo request, you assign the Sales team, send a standard message on how to book a slot, add
@@ -12,7 +12,7 @@ macro.
 
 This guide explains, with examples, how to create macros––personal or public––and how to use them.
 
-How to create a macro?
+## How to create a macro?
 
 Step 1. Go to Settings -> Macros -> "Add a new macro".
 
@@ -23,7 +23,7 @@ You can start by selecting an action from the dropdown. The currently available 
 
 Select an action and set it up accordingly. When done, continue adding more actions.
 
-An example setup of a macro
+## An example setup of a macro
 
 Here is an example of the sequential actions performed whenever the Paper Layer team receives a query from a customer on
 the free plan.
@@ -35,9 +35,9 @@ team to be able to use it, set the visibility to "Public."
 
 Step 4. Click the "Save macro" button on the bottom-right of the setup page.
 
-Your macro is now ready to use!
+## Your macro is now ready to use!
 
-How to execute a macro?
+## How to execute a macro?
 
 Step 1. Locate the "Macros" section in the right sidebar of your chat window. Click the plus sign to expand it. This
 will show you the list of the macros created for your account – both private to you and public.
@@ -49,7 +49,9 @@ Step 3. Execute the macro by clicking the play button. This would automatically 
 sequence in a split second. You'll be able to see the respective success messages for different actions. Here's an
 example:
 
-How to edit or delete a macro?
+## How to edit or delete a macro?
 
 To edit or delete macros, open the list of macros by visiting Settings -> Macros. Find the specific macro and use the
-corresponding edit or delete button, as shown in the screenshot below.Last updated on Aug 21, 2024
+corresponding edit or delete button, as shown in the screenshot below.
+
+_Last updated on Aug 21, 2024_

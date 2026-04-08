@@ -1,4 +1,6 @@
-# Lesson 3 (a): Mastering core featuresSo, you have your first inbox ready and know your way around the dashboard. Now let us learn everything about the core
+# Lesson 3 (a): Mastering core features
+
+So, you have your first inbox ready and know your way around the dashboard. Now let us learn everything about the core
 
 features of Katalis.app––where to find them and how to use them effectively. Once you learn this, you will be able to use
 Katalis.app smoothly.
@@ -15,24 +17,24 @@ You would have entered Katalis.app through one of the two ways:
 
 Regardless of your entry point, it’ll be helpful to understand what an Agent can do on Katalis.app.
 
-What is an Agent on Katalis.app?
+## What is an Agent on Katalis.app?
 
 An Agent is anyone from your team who can answer customer conversations. They can be a member of your customer support
 team, your Engineering colleague, your co-founder, the marketer on your team, or anyone and everyone you want to bring
 to your Katalis.app account to help answer questions.
 
-What differentiates an Agent from an Admin?
+## What differentiates an Agent from an Admin?
 
 Permissions do. Agents can only access inboxes, canned responses, reports and conversations. They can assign
 conversations to other agents or themselves. They can also resolve conversations.
 
 Admins can do everything.
 
-How to add an Agent to Katalis.app?
+## How to add an Agent to Katalis.app?
 
 We have a detailed document for this.
 
-How to use the Agents feature?
+## How to use the Agents feature?
 
 There are two basic ways to do this, as explained below.
 
@@ -54,7 +56,7 @@ by the customer. This exists to talk with other agents privately.
 Step 2. Press “@” on your keyboard to mention teammates on Private Notes. Talk to them about anything you need to. You
 can also make use of rich text formatting, emoji, and attachments. Here is an example:
 
-Agent Reports
+## Agent Reports
 
 Admins can access the Agents Overview dashboard. This shows various metrics associated with a particular Agent, such as
 volume of messages, First Response Time, Resolution Time, etc. Here’s how:
@@ -79,22 +81,22 @@ your Sales team shouldn’t see a conversation reporting a bug. And your Enginee
 the billing-related questions. The next best thing to do: group your Katalis.app agents into their respective teams and let
 your conversations automatically go to relevant teams.
 
-What is a Team on Katalis.app?
+## What is a Team on Katalis.app?
 
 An (internal) team is a set of certain agents added to your account who usually take care of a certain kind of
 conversation––tech-related, billing-related, product-related, etc. You can create a team of agents to take care of each
 of these categories of queries. Say you can create an Engineering team for answering tech-related queries, a Finance
 team for billing-related queries, and the Customer Success team for product-related ones.
 
-Can an Agent be a part of multiple teams?
+## Can an Agent be a part of multiple teams?
 
 Yes.
 
-How to add a Team to Katalis.app?
+## How to add a Team to Katalis.app?
 
 We have a detailed document for this.
 
-How to use the Teams feature?
+## How to use the Teams feature?
 
 The main functions of keeping teams on Katalis.app is to be able to:
 
@@ -111,7 +113,7 @@ Step 2. You’ll see an option that reads “Assigned Team” followed by a drop
 search bar to narrow down on the name of the team you’re looking for, or click on a team’s name to assign the
 conversation to it.
 
-Using Automation to assign conversations to Teams
+## Using Automation to assign conversations to Teams
 
 If you happen to identify a pattern about the kind of conversations that always get assigned to a particular team, you
 can define automation rules to let certain conversations be assigned to certain teams automatically.
@@ -153,16 +155,16 @@ Your Contacts comprise two types of people:
 When you visit the All Contacts tab, you can view the list of these people with all the available information like email
 IDs, phone numbers, geographies, associated conversations.
 
-Contact Filters
+## Contact Filters
 
 You can view only specific contacts based on your conditions using certain filters. Just click the Filter button on your
 Contacts screen to view a list of available filters, as shown in the screenshot below.
 
-Contact Segments
+## Contact Segments
 
 If you need to use the same filters again and again, rather save it as a segment. Read the docs on this.
 
-Importing Contacts
+## Importing Contacts
 
 You can bulk import contacts from a CSV file. Just use Import button on the top-right corner of your screen.
 
@@ -177,16 +179,16 @@ month later. Doing that manually is painful. Instead, you can label your convers
 customers. You can simply select relevant labels (which you have to create only once) from your chat’s sidebar. This
 simple practice will let you categorize your conversations and ditch the grunt work.
 
-What is a Label on Katalis.app?
+## What is a Label on Katalis.app?
 
 It is like a digital sticker to put on your conversations and categorize them. Labels are created on the account-level
 and can be used across.
 
-How to create custom Labels?
+## How to create custom Labels?
 
 We have a detailed document for this.
 
-How to use the Labels feature?
+## How to use the Labels feature?
 
 There are three basic ways to do this, as explained below.
 
@@ -207,11 +209,11 @@ There are three basic ways to do this, as explained below.
 
 You can filter the following views by Labels:
 
-Conversations
+## Conversations
 
 Contacts
 
-Label Reports
+## Label Reports
 
 Admins can access the Labels Overview dashboard. This shows you various metrics associated with a particular label, such
 as volume of messages, First Response Time, Resolution Time, etc. Here’s how:
@@ -228,4 +230,6 @@ Imp: Toggle on the “Business Hours” to see reports adjusted accordingly.
 
 You can also download these reports to your system.
 
-Continue learning the other core features in lesson 3B (it's the second-last lesson!)Last updated on Apr 10, 2024
+Continue learning the other core features in lesson 3B (it's the second-last lesson!)
+
+_Last updated on Apr 10, 2024_

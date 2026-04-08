@@ -1,10 +1,12 @@
-# How to set up a Help Center?You can easily create a self-service portal for your customers to access articles and information. In this guide, we
+# How to set up a Help Center?
+
+You can easily create a self-service portal for your customers to access articles and information. In this guide, we
 
 take you through the steps to set up a Help Center, including creating a portal and adding articles.
 
 You can set up your Help Center in three parts, as explained below.
 
-I. Creating a portal
+## I. Creating a portal
 
 Step 1. Click the Help Center icon from your sidebar, and click the "New Portal" button.
 
@@ -33,7 +35,7 @@ Click "Create portal basic settings".
 
 Your portal is ready. You can start adding categories and articles within these categories.
 
-II. Creating categories
+## II. Creating categories
 
 Categories exist to structure your portal and organize your articles. Follow these steps:
 
@@ -57,7 +59,7 @@ These fields are described below.
 
 Click the "Create category" button.
 
-III. Creating articles
+## III. Creating articles
 
 Finally, start writing your articles. Follow the steps below.
 
@@ -67,4 +69,6 @@ Step 2. Use the text editor to write your article. Use the sidebar to select you
 update the meta content. Here is an example:
 
 You can use the "Preview" button to see how your article turns out. Once ready, click "Publish". Your live article will
-look like this:Last updated on Apr 20, 2024
+look like this:
+
+_Last updated on Apr 20, 2024_

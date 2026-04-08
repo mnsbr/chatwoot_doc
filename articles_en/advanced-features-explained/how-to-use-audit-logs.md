@@ -1,6 +1,6 @@
-# How to use Audit Logs?Audit Logs is an Enterprise feature. This keeps a record of the activities occurring in your account, which you can
+# How to use Audit Logs?
 
-track to audit your account, team, or services. Essentially, audit logs answer the four W's for you:
+Audit Logs is an Enterprise feature. This keeps a record of the activities occurring in your account, which you can track to audit your account, team, or services. Essentially, audit logs answer the four W's for you:
 
   - Who
 
@@ -12,7 +12,7 @@ track to audit your account, team, or services. Essentially, audit logs answer t
 
 Or, who did what, when and from where?
 
-Where to find the Audit Logs within Katalis.app?
+## Where to find the Audit Logs within Katalis.app?
 
 Step 1. If the feature is available to you, you can find it by going to 'Settings' -> 'Audit Logs'.
 
@@ -22,12 +22,12 @@ Pro tip: Use cmd/ctrl + F to quickly search for a desired entry.
 
 You will find the entries under three headers: Activity, Time and IP Address.
 
-Activities tracked through Audit Logs
+## Activities tracked through Audit Logs
 
 Whenever any of the following activities occurs within your account, an entry is created along with the date and
 timestamp, and the IP address. See the full list below.
 
-User activity logs
+## User activity logs
 
   - <Name | Email> changed self status to online, offline, busy
 
@@ -41,11 +41,11 @@ User activity logs
 
   - <Name | Email> changed the role of the user  to <agent | admin>
 
-Account activity logs
+## Account activity logs
 
   - <Name | Email> updated the account configuration.
 
-Automation rule logs
+## Automation rule logs
 
   - <Name | Email> created a new automation rule (#rule-id)
 
@@ -73,7 +73,7 @@ Inbox logs
 
   - <Name | Email> removed <Name1 | Email1>, <Name2 | Email 2> from the inbox (#inbox-id)
 
-Webhooks logs
+## Webhooks logs
 
   - <Name | Email> created a new webhook (#webook-id)
 
@@ -91,4 +91,6 @@ Team logs
 
   - <Name | Email> added <Name1 | Email1>, <Name2 | Email 2> to the team (#team-id)
 
-  - <Name | Email> remove <Name1 | Email1>, <Name2 | Email 2> from the team (#team-id)Last updated on Aug 07, 2024
+  - <Name | Email> remove <Name1 | Email1>, <Name2 | Email 2> from the team (#team-id)
+
+_Last updated on Aug 07, 2024_

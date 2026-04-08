@@ -1,10 +1,8 @@
+# How does sorting work?
 
-# How does sorting work?When managing conversations in Katalis.app, sorting helps prioritize and organize messages efficiently. There are four
+When managing conversations in Katalis.app, sorting helps prioritize and organize messages efficiently. There are four available sorting options: Latest Activity, Creation Time, Priority, and Pending Response. Each sorting method serves a specific purpose in streamlining communication.
 
-available sorting options: Latest Activity, Creation Time, Priority, and Pending Response. Each sorting method serves a
-specific purpose in streamlining communication.
-
-Sorting by Latest Activity
+## Sorting by Latest Activity
 
 Sorting by latest activity ensures that conversations with the most recent interactions appear at the top. This means:
 
@@ -14,7 +12,7 @@ Sorting by latest activity ensures that conversations with the most recent int
 
   - This option is useful for staying engaged with the most recent and active discussions.
 
-Sorting by Creation Time
+## Sorting by Creation Time
 
 Sorting by creation time organizes conversations based on when they were initiated. When sorted by the latest created
 attribute:
@@ -25,10 +23,9 @@ attribute:
 
   - This method helps prioritize older conversations that may need attention first.
 
-Sorting by Priority
+## Sorting by Priority
 
-Sorting by priority helps focus on the most critical conversations first. However, not all conversations will have a
-priority assigned. The sorting hierarchy is as follows:
+Sorting by priority helps focus on the most critical conversations first. However, not all conversations will have a priority assigned. The sorting hierarchy is as follows:
 
 1.  Urgent conversations appear at the top.
 
@@ -42,7 +39,7 @@ priority assigned. The sorting hierarchy is as follows:
 
 This sorting method is ideal for ensuring that high-priority issues are addressed promptly.
 
-Sorting by Pending Response
+## Sorting by Pending Response
 
 Some conversations may be waiting for a response from an agent. Sorting by pending response arranges conversations based
 on wait time:
@@ -53,4 +50,6 @@ on wait time:
 
   - Conversations not waiting for a response are listed at the bottom.
 
-This method is beneficial for handling unattended conversations efficiently and minimizing response delays.Last updated on Feb 26, 2025
+This method is beneficial for handling unattended conversations efficiently and minimizing response delays.
+
+_Last updated on Feb 26, 2025_

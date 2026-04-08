@@ -1,10 +1,10 @@
-# Review Notes for CSATReview Notes help teams add internal context to CSAT responses so scores are interpreted correctly. They are designed
+# Review Notes for CSAT
 
+Review Notes help teams add internal context to CSAT responses so scores are interpreted correctly. They are designed
 for managers and leads who review CSAT data regularly and need more than just a rating and a short customer comment.
-
 This guide explains when to use Review Notes, how to add them, and how they show up in reports and exports.
 
-When to use Review Notes
+## When to use Review Notes
 
 Use Review Notes when the CSAT rating or feedback does not tell the full story.
 
@@ -21,7 +21,7 @@ Common examples:
 Review Notes help separate support quality from situational factors, so teams do not draw the wrong conclusions from raw
 scores.
 
-Who can see Review Notes
+## Who can see Review Notes
 
   - Review Notes are internal-only
 
@@ -29,7 +29,7 @@ Who can see Review Notes
 
   - Customers never see these notes
 
-How to add a Review Note
+## How to add a Review Note
 
 1.  Go to Reports → CSAT
 
@@ -43,7 +43,7 @@ How to add a Review Note
 
 You can update or refine Review Notes later as more context becomes available.
 
-What to include in a Review Note
+## What to include in a Review Note
 
 A good Review Note focuses on context and learning, not justification.
 
@@ -60,7 +60,7 @@ Examples of useful notes:
 Avoid restating the customer’s comment. The goal is to capture internal insight that is not obvious from the feedback
 alone.
 
-Using Review Notes in analysis
+## Using Review Notes in analysis
 
 Review Notes are most effective when used consistently.
 
@@ -74,7 +74,7 @@ They help teams:
 
   - Make better decisions based on patterns, not isolated scores
 
-Review Notes in exports
+## Review Notes in exports
 
 When exporting CSAT reports, Review Notes are included as an additional column in the export. This allows offline
 analysis, sharing with leadership, and long-term tracking.
@@ -88,4 +88,6 @@ Review Notes are available on:
   - Self-hosted: Available in all self-hosted paid plans
 
 Review Notes are intentionally simple. They are meant to capture judgment and context where numbers fall short. As CSAT
-reporting evolves, Review Notes will continue to play a central role in making feedback actionable.Last updated on Jan 16, 2026
+reporting evolves, Review Notes will continue to play a central role in making feedback actionable.
+
+_Last updated on Jan 16, 2026_

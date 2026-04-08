@@ -1,4 +1,6 @@
-# Working with command barThe command bar is a key feature in Katalis.app that enhance productivity. It allows you to perform a lot of actions with
+# Working with command bar
+
+The command bar is a key feature in Katalis.app that enhance productivity. It allows you to perform a lot of actions with
 
 just a few keystrokes. You can access the command bar using ⌘ + K on macOS or Ctrl + k on Windows and Linux from
 anywhere on the Katalis.app dashboard.
@@ -9,12 +11,12 @@ from conversations, it would show conversation specific actions such as snooze, 
 
 Some of the key actions/navigation options are listed below.
 
-Jumping to a page with command bar
+## Jumping to a page with command bar
 
 The command bar lets you quickly navigate to a page, such as Settings, Reports, Notifications, and everything else.
 Start typing the page name and press Enter, and you'll be taken to that page.
 
-Quick navigations available
+## Quick navigations available
 
   - Dashboard Home
 
@@ -48,13 +50,13 @@ Quick navigations available
 
   - Notifications
 
-Performing a conversation action with command bar
+## Performing a conversation action with command bar
 
 The command bar is aware of where you are in the Katalis.app dashboard and recommends actions that will help you be more
 productive and fast. You can execute actions on a conversation like Resolve/Reopen it, Snooze it, or even assign
 particular agents or labels to it by simply searching for them.
 
-Commands available
+## Commands available
 
   - Resolve/Reopen the conversation
 
@@ -70,10 +72,12 @@ Commands available
 
   - Snooze the conversation
 
-Example: Assigning an agent
+## Example: Assigning an agent
 
 1.  Open the command bar
 
 2.  Search for Assign agent and press enter
 
-3.  Select the agent you want to assign the conversation to.Last updated on Apr 10, 2024
+3.  Select the agent you want to assign the conversation to.
+
+_Last updated on Apr 10, 2024_

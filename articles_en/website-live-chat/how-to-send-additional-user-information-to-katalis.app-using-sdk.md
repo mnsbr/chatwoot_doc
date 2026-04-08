@@ -1,4 +1,6 @@
-# How to send additional user information to Katalis.app using SDK?The Katalis.app website SDK enables you to send additional user information to Katalis.app.
+# How to send additional user information to Katalis.app using SDK?
+
+The Katalis.app website SDK enables you to send additional user information to Katalis.app.
 
 If you have installed our code on your website, the SDK would expose window.$Katalis.app object. To make sure that the SDK
 has been loaded completely, please make sure that you listen to Katalis.app:ready event as follows:
@@ -14,7 +16,7 @@ window.addEventListener('Katalis.app:on-message', function(e) {
   console.log('Katalis.app:on-message', e.detail)
 })
 
-SDK settings​
+## SDK settings​
 
 To hide the bubble, you can use the setting mentioned below.
 
@@ -31,7 +33,7 @@ window.Katalis.appSettings = {
   // baseDomain: "yourdomain.com" // configure if you want to track users across subdomains
 };
 
-Use browser language in your live chat widget automatically
+## Use browser language in your live chat widget automatically
 
 To show the live chat widget in the user's browser locale, set the useBrowserLanguage to true in
 the window.Katalis.appSettings mentioned above.
@@ -44,7 +46,7 @@ Dark Mode​
 
 Katalis.app live-chat widget supports dark mode v2.4.0 onwards. To enable the dark mode, follow the steps mentioned here.
 
-Widget designs​
+## Widget designs​
 
 Katalis.app supports two designs for the widget.
 
@@ -60,7 +62,7 @@ window.Katalis.appSettings = {
   launcherTitle: "Chat with us",
 };
 
-Enable popout window​
+## Enable popout window​
 
 In order to enable the popout window, add the following configuration to Katalis.appSettings. This option is disabled by
 default.
@@ -72,7 +74,7 @@ window.Katalis.appSettings = {
 
 You can also popout the chat window programatically with the `popoutChatWindow()` method.
 
-Custom messages​
+## Custom messages​
 
 Customize the welcome and availability messages shown in the widget header and team status indicators.
 
@@ -85,7 +87,7 @@ window.Katalis.appSettings = {
   unavailableMessage: "We’re currently offline." // When team is unavailable
 };
 
-Feature toggles
+## Feature toggles
 
 Enable or disable optional UI features inside the widget:
 
@@ -97,7 +99,7 @@ window.Katalis.appSettings = {
   enableEndConversation: true // Let users end the conversation
 };
 
-Programatically open the popout window​
+## Programatically open the popout window​
 
 You can open the popout window programatically with the popoutChatWindow() method.
 
@@ -105,7 +107,7 @@ To initiate this, call the method like below.
 
 window.$Katalis.app.popoutChatWindow();
 
-Toggle the widget bubble visibility​
+## Toggle the widget bubble visibility​
 
 If you want to hide/show the Katalis.app widget bubble, you can do so with toggleBubbleVisibility('show/hide')
 
@@ -114,7 +116,7 @@ Example
 window.$Katalis.app.toggleBubbleVisibility("show"); // to display the bubble
 window.$Katalis.app.toggleBubbleVisibility("hide"); // to hide the bubble
 
-Trigger widget programmatically
+## Trigger widget programmatically
 
 If you want to open the chat window by clicking a link on the website, follow the method below. In your action, call the
 Katalis.app SDK as described below.
@@ -125,7 +127,7 @@ window.$Katalis.app.toggle();
 window.$Katalis.app.toggle("open"); // To open widget
 window.$Katalis.app.toggle("close"); // To close widget
 
-Set the user in the widget​
+## Set the user in the widget​
 
 window.$Katalis.app.setUser("<unique-identifier-key-of-the-user>", {
   email: "<[email protected]>",
@@ -139,7 +141,7 @@ You can pass email, name, avatar_url, phone_number as params. Support for additi
 
 Ensure you reset the session when the user logs out of your app.
 
-Identity validation using HMAC​
+## Identity validation using HMAC​
 
 To disallow impersonation and to keep the conversation with your customers private, we recommend setting up the identity
 validation in Katalis.app. Identity validation is enabled by generating an HMAC(hash based message authentication code)
@@ -167,12 +169,12 @@ window.$Katalis.app.setUser(`<unique-identifier-key-of-the-user>`, {
 To generate HMAC, read identity validation. Note that implementing HMAC authentication will allow chat history to
 persist across sessions.
 
-Set custom attributes​
+## Set custom attributes​
 
 To set additional information about the customer, you can use customer custom attributes field. Read more about custom
 attributes here.
 
-To set a custom attribute, call setCustomAttributes as follows
+## To set a custom attribute, call setCustomAttributes as follows
 
 window.$Katalis.app.setCustomAttributes({
   accountId: 1,
@@ -184,17 +186,17 @@ window.$Katalis.app.setCustomAttributes({
 
 You can view these information in the sidepanel of a conversation.
 
-To delete a custom attribute, use deleteCustomAttribute as follows
+## To delete a custom attribute, use deleteCustomAttribute as follows
 
 window.$Katalis.app.deleteCustomAttribute("attribute-key");
 
-Set language manually​
+## Set language manually​
 
 window.$Katalis.app.setLocale("en");
 
 To set the language manually, use the setLocale function.
 
-Set labels on the conversation​
+## Set labels on the conversation​
 
 Please note that the labels will be set on a conversation if the user has not started a conversation. In that case, the
 following items will not have any effect:
@@ -207,7 +209,7 @@ Refresh the session (use this while you logout the user from your app)​
 
 window.$Katalis.app.reset();
 
-Widget errors​
+## Widget errors​
 
 To see any errors in the widget, please make sure that you listen to Katalis.app:event event as follows:
 
@@ -217,7 +219,7 @@ window.addEventListener("Katalis.app:error", function () {
 
 Note: This feature is available in v2.3.0 and later.
 
-Customize the welcome header, description
+## Customize the welcome header, description
 
 You can change:
 
@@ -227,6 +229,7 @@ You can change:
 
   - Selectively enable UI features like file upload, emoji picker, and end conversation button
 
+```javascript
 window.Katalis.appSettings = {
   welcomeTitle: 'Need help?',
   welcomeDescription: 'We’re here to support you.',
@@ -236,4 +239,7 @@ window.Katalis.appSettings = {
   enableFileUpload: true,
   enableEmojiPicker: true,
   enableEndConversation: true
- };Last updated on Jul 24, 2025
+};
+```
+
+_Last updated on Jul 24, 2025_

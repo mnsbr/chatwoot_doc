@@ -1,4 +1,6 @@
-# How to use Agent bots?AgentBot can seamlessly integrate with your Katalis.app inbox as a customer query handling bot. With Katalis.app, you can
+# How to use Agent bots?
+
+AgentBot can seamlessly integrate with your Katalis.app inbox as a customer query handling bot. With Katalis.app, you can
 
 easily connect your custom bot logic to conversation handling via AgentBot's API.
 
@@ -6,7 +8,7 @@ By connecting AgentBot to your inbox, all new conversations will automatically b
 send conversation events to your bot URL as webhook events, allowing AgentBot to respond through the Katalis.app API in
 real-time.
 
-How does the AgentBot work?
+## How does the AgentBot work?
 
 Explained below in a typical workflow of an AgentBot.
 
@@ -26,7 +28,7 @@ Explained below in a typical workflow of an AgentBot.
 
 7.  It continues to monitor open conversations to provide contextual information to the support agent.
 
-How does the Human-Agent handoff work?
+## How does the Human-Agent handoff work?
 
 When an agent bot is connected to an inbox, conversations are created with a "pending" status, allowing it to triage the
 conversation before passing it on to a human agent. If the bot determines that a human agent's assistance is needed, it
@@ -35,7 +37,7 @@ can use the conversation update API to change the status to "open."
 Sometimes the agents would want to push back a conversation which was handed off, back again into the bot queue. Agents
 can return a handed-off conversation to the bot queue by changing the status back to "pending”.
 
-How can I use the AgentBot?
+## How can I use the AgentBot?
 
 Listed below are a few examples.
 
@@ -58,17 +60,19 @@ Examples
 
 Also, look into interesting ways to leverage bot-message types on Katalis.app.
 
-Creating agent bots
+## Creating agent bots
 
-How to create agent bots in your Katalis.app account?
+## How to create agent bots in your Katalis.app account?
 
 You can create agent bots from the account settings. Go to Settings -> Bots. You will see an option like the one below.
 
 Click on "Add Bot" to create a new bot. You will see an option to provide a name, avatar and a webhook URL.
 
-How to connect an inbox to a bot?
+## How to connect an inbox to a bot?
 
 Open the inbox where you want to link the bot. In Bot Configuration, pick the bot that should manage the conversations.
 After you click Save, you’ll start getting webhook events each time a new conversation or message is created.
 
-For more details about the events that are supported in the webhooks, please visit the Webhook documentation here.Last updated on May 02, 2025
+For more details about the events that are supported in the webhooks, please visit the Webhook documentation here.
+
+_Last updated on May 02, 2025_

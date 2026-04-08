@@ -1,4 +1,6 @@
-# Inconsistencies for WhatsApp Numbers in Brazil and ArgentinaOver the past few years, some countries have changed their mobile numbering systems to accommodate growth. These changes
+# Inconsistencies for WhatsApp Numbers in Brazil and Argentina
+
+Over the past few years, some countries have changed their mobile numbering systems to accommodate growth. These changes
 
 created inconsistencies between the number you can dial today and the number WhatsApp has stored for older accounts.
 
@@ -17,7 +19,7 @@ inbox.
 Unfortunately, this issue comes from WhatsApp itself. There is no fix at the API level, and it’s unlikely WhatsApp will
 update old accounts to match the new numbering rules.
 
-How Katalis.app Solves This
+## How Katalis.app Solves This
 
 We’ve added logic to automatically prevent duplicate contacts and tickets when these mismatches occur:
 
@@ -30,11 +32,13 @@ We’ve added logic to automatically prevent duplicate contacts and tickets when
     → Katalis.app checks if a contact already exists in the new format.
     → If it does, we link the message to the correct contact instead of creating a duplicate.
 
-What this means for you
+## What this means for you
 
   - You may still notice the difference in how numbers look in WhatsApp vs how they look in your CRM.
 
   - You can continue messaging customers normally Katalis.app takes care of the background mismatch
 
   - Katalis.app automatically normalizes phone numbers from both old and new formats behind the scenes to ensure consistent
-    contact matching, regardless of which format WhatsApp returns.Last updated on Oct 15, 2025
+    contact matching, regardless of which format WhatsApp returns.
+
+_Last updated on Oct 15, 2025_

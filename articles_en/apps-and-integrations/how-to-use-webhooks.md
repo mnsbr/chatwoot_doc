@@ -1,8 +1,10 @@
-# How to use webhooks?Webhooks are HTTP callbacks that are set up for each account. These are triggered when actions such as creating a
+# How to use webhooks?
+
+Webhooks are HTTP callbacks that are set up for each account. These are triggered when actions such as creating a
 
 message occur in Katalis.app. Multiple webhooks can be created for a single account.
 
-How to add a webhook?
+## How to add a webhook?
 
 Step 1. Go to Settings → Integrations → Webhooks. Click on the "Configure" button.
 
@@ -12,7 +14,7 @@ the relevant events in Katalis.app.
 
 Katalis.app will send a POST request with the following payload to the configured URLs for various updates in your account.
 
-A sample webhook payload
+## A sample webhook payload
 
 {
 
@@ -53,7 +55,7 @@ A sample webhook payload
   }
 }
 
-Supported webhook events in Katalis.app
+## Supported webhook events in Katalis.app
 
 Katalis.app publishes various events to the configured webhook endpoints. If you want to configure a webhook, refer to the
 guide here.
@@ -173,14 +175,14 @@ Message
   }
 }
 
-A sample webhook payload
+## A sample webhook payload
 
 {
   "event": "event_name"
   // Attributes related to the event
 }
 
-Webhook Events
+## Webhook Events
 
 Katalis.app supports the following webhook events. You can subscribe to them while configuring a webhook in the dashboard
 or using the API.
@@ -300,7 +302,7 @@ This event is triggered when an agent stops typing or when they leave the conver
   "is_private": true
 }
 
-Verifying webhooks
+## Verifying webhooks
 
 Katalis.app signs every outgoing webhook request so your server can verify that the payload was sent by Katalis.app and has
 not been tampered with. The secret is shown to you once the webhook is created, and you can view it again on the webhook
@@ -326,7 +328,7 @@ Where:
 
   - raw_body is the raw JSON request body (not parsed/re-serialized)
 
-Verification Steps
+## Verification Steps
 
 1.  Extract X-Katalis.app-Signature and X-Katalis.app-Timestamp from the request headers
 
@@ -388,7 +390,7 @@ func verifySignature(rawBody []byte, timestamp, receivedSignature, secret string
 	return hmac.Equal([]byte(expected), []byte(receivedSignature))
 }
 
-Important Notes
+## Important Notes
 
   - Always use the raw request body for verification. Parsing the JSON and re-serializing it may change key ordering,
     whitespace, or unicode escaping, which will produce a different signature.
@@ -396,4 +398,6 @@ Important Notes
   - Always use constant-time comparison (e.g., hmac.compare_digest, crypto.timingSafeEqual,
     ActiveSupport::SecurityUtils.secure_compare) to prevent timing attacks.
 
-  - Consider rejecting requests with timestamps older than 5 minutes to mitigate replay attacks.Last updated on Feb 26, 2026
+  - Consider rejecting requests with timestamps older than 5 minutes to mitigate replay attacks.
+
+_Last updated on Feb 26, 2026_

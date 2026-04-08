@@ -1,5 +1,6 @@
+# How to enable Captain on self-hosted installations?
 
-# How to enable Captain on self-hosted installations?Captain is an AI assistant that helps you respond faster and more accurately. With Bring Your Own Key (BYOK), you can
+Captain is an AI assistant that helps you respond faster and more accurately. With Bring Your Own Key (BYOK), you can
 
 use your own API key from OpenAI or any compatible AI service. You control the data, costs, and which model is used. In
 a self-hosted setup, Captain only sends data to the AI model you choose.
@@ -7,7 +8,7 @@ a self-hosted setup, Captain only sends data to the AI model you choose.
 This guide will show you how to enable Captain in your self-hosted Enterprise Edition, add your API key, and set up a
 custom model if you want.
 
-Prerequisites
+## Prerequisites
 
 Before you begin, make sure that you have:
 
@@ -21,7 +22,7 @@ Before you begin, make sure that you have:
 
   - (Optional) A Firecrawl API key for a better documentation crawling.
 
-Enabling Captain in the Super Admin Console
+## Enabling Captain in the Super Admin Console
 
 To enable Captain at the installation level:
 
@@ -39,7 +40,7 @@ Fill in the configuration fields:
     
     Click Submit to save your configuration.
 
-Enabling Captain for an Account
+## Enabling Captain for an Account
 
 After enabling Captain globally, activate it for individual accounts:
 
@@ -51,7 +52,7 @@ After enabling Captain globally, activate it for individual accounts:
 
 4.  Save the changes.
 
-Troubleshooting
+## Troubleshooting
 
 If Captain is not responding as expected:
 
@@ -64,4 +65,6 @@ If Captain is not responding as expected:
   - Confirm that Captain is enabled both at the installation and account levels.
 
 If Captain is still not responding, review the Katalis.app server logs for both the web and worker processes to identify
-any errors, and share those error details with the support team for further assistance.Last updated on Aug 15, 2025
+any errors, and share those error details with the support team for further assistance.
+
+_Last updated on Aug 15, 2025_

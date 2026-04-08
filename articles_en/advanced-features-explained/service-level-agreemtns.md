@@ -1,4 +1,6 @@
-# Service Level AgreementsAs the service provider, your Service Level Agreements (SLAs) are contractual arrangements between you and your
+# Service Level Agreements
+
+As the service provider, your Service Level Agreements (SLAs) are contractual arrangements between you and your
 
 customers that define the level of service you commit to deliver. Your SLAs specify the expected performance metrics,
 such as response times, availability, and resolution times, that you have agreed to provide. These SLAs hold you, as the
@@ -19,12 +21,12 @@ Katalis.app allows you to track the following metrics:
     issue or query, from the initial contact to the final resolution. It is a key indicator of the provider's efficiency
     and effectiveness in addressing customer needs.
 
-Creating an SLA
+## Creating an SLA
 
 You can configure SLAs from the settings page, an admin is allowed to create and delete SLAs, please note that you
 cannot modify or change an SLA once it's created. To create an SLA, you need to add at-least one metric to be tracked.
 
-Applying an SLA
+## Applying an SLA
 
 You can use an automation rule to assign an SLA when a conversation event is triggered. Here's an example of assigning
 the "Enterprise P0" SLA when a conversation is created by a specific email address and the priority is set to Urgent.
@@ -32,4 +34,6 @@ the "Enterprise P0" SLA when a conversation is created by a specific email addre
 Once a conversation matches the SLA conditions and the events, the SLA policy is automatically applied. Once an SLA is
 applied, it cannot be removed from the conversation.
 
-Conversations with an active SLA, which is close to a threshold will show up in the UI as followsLast updated on Apr 15, 2024
+Conversations with an active SLA, which is close to a threshold will show up in the UI as follows
+
+_Last updated on Apr 15, 2024_

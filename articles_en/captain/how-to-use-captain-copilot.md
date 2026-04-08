@@ -1,15 +1,16 @@
+# How to use Captain Copilot?
 
-# How to use Captain Copilot?Captain Copilot is designed to help support agents work smarter by providing helpful suggestions and insights right from
+Captain Copilot is designed to help support agents work smarter by providing helpful suggestions and insights right from
 
 your dashboard. Here’s a guide to help you get the most out of Captain Copilot.
 
-Where to Find Copilot?
+## Where to Find Copilot?
 
 To get started, ensure Captain Copilot is enabled in your inbox. Open your dashboard and go to the conversation screen.
 On the right side, you’ll see the Copilot tab next to the contact options. Click on the Copilot tab to access and start
 using its features.
 
-How Copilot works?
+## How Copilot works?
 
 Copilot is a tool that can improve communication in multiple ways. It can analyze the current conversation and draft an
 appropriate response or even translate a message into another language while ensuring the tone and context remain
@@ -20,7 +21,7 @@ To further improve the experience, Copilot can also find relevant articles or re
 conversation, offering quick access to information that supports your responses. With its ability to bridge
 communication gaps, refine tone, and provide actionable insights.
 
-How to use copilot?
+## How to use copilot?
 
 Simply type your request in natural language, and Captain will analyze it to provide the best response. You can use it
 to draft replies, translate messages, or improve tone.
@@ -33,7 +34,7 @@ to draft the response.
 
 When Captain suggests a response, click “Use this” to add it directly to your message window.
 
-Additional Tips for Effective Usage
+## Additional Tips for Effective Usage
 
   - Always review Copilot’s suggestions before sending them to ensure they align with your team’s tone and guidelines.
 
@@ -41,4 +42,6 @@ Additional Tips for Effective Usage
     or clarifying ambiguous points.
 
   - Encourage your team to explore and utilize Copilot regularly for smoother collaboration and improved customer
-    interactions.Last updated on Jan 29, 2025
+    interactions.
+
+_Last updated on Jan 29, 2025_

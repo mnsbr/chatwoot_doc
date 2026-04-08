@@ -1,4 +1,3 @@
-
 # Creating a document in CaptainA document in Captain acts as a knowledge resource for the assistant. By linking your help center or guides, Captain can
 
 analyze the content and effectively assist with customer inquiries.
@@ -6,7 +5,7 @@ analyze the content and effectively assist with customer inquiries.
 Currently, we support website URLs and PDF files as sources , but we’re planning to expand this to include Notion
 documents in the future.
 
-How to create a document?
+## How to create a document?
 
 On the sidebar menu, click on the Documents option under Captain. You will see a page like the one below.
 
@@ -33,7 +32,7 @@ If you wish to remove a specific document that is not relevant, you can delete i
 associated information Captain has collected from that document, and ensures it is no longer referenced in any
 conversations.
 
-How can I verify that the content is properly parsed?
+## How can I verify that the content is properly parsed?
 
 To ensure that the content is properly parsed, Captain analyzes the provided documents to identify potential questions.
 It then generates a list of FAQs related to the document. By reviewing these FAQs, you can verify that the content has
@@ -48,4 +47,6 @@ Usage limit
 
 If you haven’t subscribed to a paid add-on for Captain, the number of documents you can add will be limited. With the
 Startups plan, you can add up to 100 documents for free. For higher plans, the limit increases to 200 free documents
-with the Business plan and 300 free documents with the Enterprise plan.Last updated on Nov 04, 2025
+with the Business plan and 300 free documents with the Enterprise plan.
+
+_Last updated on Nov 04, 2025_

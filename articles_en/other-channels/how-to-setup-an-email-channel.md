@@ -1,4 +1,6 @@
-# How to setup an Email channel?To manage your customer support/ticketing email from Katalis.app, you can create an Email inbox in Katalis.app. This is a
+# How to setup an Email channel?
+
+To manage your customer support/ticketing email from Katalis.app, you can create an Email inbox in Katalis.app. This is a
 
 complete guide to getting your Email channel up and running.
 
@@ -12,7 +14,7 @@ This document is divided into three parts:
 
 Feel free to jump to any section. Let's roll.
 
-How to create an Email inbox in Katalis.app?
+## How to create an Email inbox in Katalis.app?
 
 Step 1. Open your Katalis.app dashboard. Go to Settings → Inboxes → Add Inbox.
 
@@ -40,7 +42,7 @@ You will see three main settings here:
 
 All three settings are explained in the following sections.
 
-How to forward emails to Katalis.app inbox?
+## How to forward emails to Katalis.app inbox?
 
 Step 1. Copy the "Forward to email address" from the Configuration tab under inbox Settings.
 
@@ -50,7 +52,7 @@ P.S. Check the Gmail section below to learn how to add a forwarding address in G
 
 Step 3. Send a mail to the forwarding address added inbox and check the Katalis.app email inbox for the new email.
 
-How to configure IMAP for the Email channel?
+## How to configure IMAP for the Email channel?
 
 If you are using Gmail, scroll down to the IMAP section for Gmail below.
 
@@ -73,7 +75,7 @@ follows.
 Step 3. Test if everything is working fine. Send an email to the IMAP-configured email in Katalis.app. Check Katalis.app inbox
 for the new email. Open the email conversation in Katalis.app and verify the email details.
 
-How to configure SMTP for the Email channel?
+## How to configure SMTP for the Email channel?
 
 Step 1. Go to Settings -> Inboxes -> Email Inbox settings page.
 
@@ -102,9 +104,9 @@ Step 5. Type a reply message for the conversation and click the "Send" button. V
 
 You can also check the recipient inbox for the delivered email.
 
-Settings for Gmail users
+## Settings for Gmail users
 
-How to enable IMAP for Gmail inbox?
+## How to enable IMAP for Gmail inbox?
 
 Step 1. Open your Gmail inbox and click the Settings icon in the top right corner. Click the "See all settings" button.
 
@@ -112,7 +114,7 @@ Step 2. Select the "Forwarding and POP/IMAP" tab on the Settings page.
 
 Step 3. Choose the "Enable IMAP" option under the IMAP access section and click the "Save Changes" button.
 
-How to allow less secure access to Gmail?
+## How to allow less secure access to Gmail?
 
 Note: This option is unavailable for Gmail accounts with enabled 2-step verification or those managed by an
 organization.
@@ -123,7 +125,7 @@ Step 2. Click on "Turn on access" under the "Less secure app access" section on 
 
 Step 3. Toggle "Allow less secure apps" to "ON". Now you can use your Gmail account password to configure IMAP/SMTP.
 
-How to generate app password for Gmail?
+## How to generate app password for Gmail?
 
 Note: This option is for Gmail accounts with enabled 2-step verification or those managed by an organization.
 
@@ -133,7 +135,7 @@ Step 2. Click "App passwords" under the "Signing in to Google" section on the Se
 
 Step 3. Select the Mail app, select a device, and click "GENERATE". Use the generated password to configure IMAP/SMTP.
 
-How to add a forwarding address for Gmail?
+## How to add a forwarding address for Gmail?
 
 Step 1. Open your Gmail inbox and click the Settings icon in the top right corner. Click the "See all settings" button.
 
@@ -152,7 +154,7 @@ Step 6. Paste the verification code and click the "Verify" button.
 Step 7. Select the "Forward a copy of incoming mail" option. Choose the required action from the second dropdown and
 click the "Save Changes" button.
 
-How to create a Microsoft Email channel?
+## How to create a Microsoft Email channel?
 
 Step 1. Open your Katalis.app dashboard. Go to Settings → Inboxes → Add Inbox.
 
@@ -178,4 +180,6 @@ be making these fields non-editable soon for Outlook accounts.
 We use default IMAP settings to fetch emails and SMTP to send; you don't need to set anything through configuration.
 
 Step 6. If your access token expires, you must re-authorize your Microsoft account by going to Settings ->
-Configuration.Last updated on Apr 10, 2024
+Configuration.
+
+_Last updated on Apr 10, 2024_

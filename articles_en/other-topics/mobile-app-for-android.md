@@ -1,6 +1,8 @@
-# Mobile app for AndroidYou can access your Katalis.app account through the Katalis.app mobile app on Android mobile devices.
+# Mobile app for Android
 
-How to get the Katalis.app mobile app for Android?
+You can access your Katalis.app account through the Katalis.app mobile app on Android mobile devices.
+
+## How to get the Katalis.app mobile app for Android?
 
 You can download the app called "Katalis.app" from your Play Store. Follow these steps:
 
@@ -15,10 +17,12 @@ You can download the app called "Katalis.app" from your Play Store. Follow these
 
 5.  Click the Connect button and enter your account credentials to log in.
 
-Contribute to testing app updates​
+## Contribute to testing app updates​
 
 You can sign up for our beta program to help with testing app updates before release. Open this link from your Android
 device.
 
 You can leave the Beta testing program anytime by clicking this link while logged in with your Google Play email address
-used to opt-in for the Beta program. On the link, "Leave the program".Last updated on Apr 17, 2023
+used to opt-in for the Beta program. On the link, "Leave the program".
+
+_Last updated on Apr 17, 2023_

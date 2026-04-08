@@ -1,4 +1,6 @@
-# Troubleshooting: Why am I not receiving notifications?If you’re not receiving notifications, follow these steps one by one.
+# Troubleshooting: Why am I not receiving notifications?
+
+If you’re not receiving notifications, follow these steps one by one.
 
 1. Make sure notifications are turned on for your account
 
@@ -51,4 +53,6 @@ Important:
 
   - Confirm that email notifications are enabled for that event.
 
-  - Confirm your email is verified.Last updated on Mar 03, 2026
+  - Confirm your email is verified.
+
+_Last updated on Mar 03, 2026_

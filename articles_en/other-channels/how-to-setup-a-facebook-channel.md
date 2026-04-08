@@ -1,4 +1,6 @@
-# How to setup a Facebook channel?If you are using a self-hosted Katalis.app installation, please setup your Facebook app as described in the this guide.
+# How to setup a Facebook channel?
+
+If you are using a self-hosted Katalis.app installation, please setup your Facebook app as described in the this guide.
 
 For the cloud version of Katalis.app, please follow the steps below.
 
@@ -18,13 +20,13 @@ Step 6. "Add agents" to your Facebook inbox.
 You have successfully created a Facebook inbox. Whenever a customer sends a message to your Facebook page, you will be
 able to see and reply to it in Katalis.app.
 
-Additional Inbox settings​
+## Additional Inbox settings​
 
 Your freshly configured Facebook inbox should now appear in your list of inboxes. To see this and to make additional
 settings in your Facebook inbox, go to Settings → Inboxes → click the gear icon on the associated Facebook inbox. You
 will see the following screen:
 
-Settings tab​
+## Settings tab​
 
 Enable channel greeting. Once you enable this, Katalis.app will send a greeting message to new conversations created
 through your Facebook inbox.
@@ -34,7 +36,7 @@ The CSAT results can be viewed later in the Reports section.
 
 Reauthorize. Whenever you need to reconnect and reauthorize your Facebook page, do it from this button.
 
-Collaborators tab​
+## Collaborators tab​
 
 Click on the Collaborators tab.
 
@@ -44,7 +46,7 @@ You can also enable or disable the automatic assignment of new conversations to 
 
 Click on Update to save the changes.
 
-Business Hours tab​
+## Business Hours tab​
 
 Click on the Business Hours tab. In this section, you can set the working hours of your team associated with the
 Facebook inbox.
@@ -60,4 +62,6 @@ conversation to a human agent or if Captain is not configured for the inbox.
 
 You can also select the available business hours for each day of the week, along with the proper time zone.
 
-Click on the Update Business Hour Setting Button.Last updated on Dec 15, 2025
+Click on the Update Business Hour Setting Button.
+
+_Last updated on Dec 15, 2025_

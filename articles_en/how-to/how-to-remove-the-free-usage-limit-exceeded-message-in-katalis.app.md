@@ -1,8 +1,10 @@
-# How to Remove the Free Usage Limit Exceeded Message in Katalis.appKatalis.app offers a generous Hacker Plan (free tier) for all users. However, this free plan includes specific limitations
+# How to Remove the Free Usage Limit Exceeded Message in Katalis.app
+
+Katalis.app offers a generous Hacker Plan (free tier) for all users. However, this free plan includes specific limitations
 
 to ensure fair usage across all accounts.
 
-Free Plan Limitations
+## Free Plan Limitations
 
 The Hacker Plan includes the following restrictions:
 
@@ -17,7 +19,7 @@ The Hacker Plan includes the following restrictions:
 What triggers the usage limit message? If you exceed any of these limitations, your account will display a "free usage
 limit exceeded" message, restricting access to certain features.
 
-Two Ways to Remove the Message
+## Two Ways to Remove the Message
 
 You have two options to resolve the usage limit exceeded message:
 
@@ -25,27 +27,27 @@ You have two options to resolve the usage limit exceeded message:
 
 2.  Manually remove PRO features to comply with free plan limits
 
-Option 1: Upgrade Your Account to a Paid Plan
+## Option 1: Upgrade Your Account to a Paid Plan
 
-Step 1: Access Billing
+## Step 1: Access Billing
 
   - Click the "Open Billing" button within the free usage exceeded message
 
   - This will redirect you to your billing page
 
-Step 2: Open Billing Portal
+## Step 2: Open Billing Portal
 
   - On the billing page, click "Go to Billing Portal"
 
-Step 3: Update Subscription
+## Step 3: Update Subscription
 
   - In the billing portal, click "Update Subscription"
 
-Step 4: Select Your Plan
+## Step 4: Select Your Plan
 
   - Choose a paid plan that meets your needs
 
-Step 5: Complete Payment
+## Step 5: Complete Payment
 
   - Click "Continue" to proceed
 
@@ -58,19 +60,19 @@ Verification
 Once your paid plan is active, the free usage limitation message will be removed automatically. You can then return to
 your Katalis.app dashboard and confirm that all features are now accessible.
 
-Option 2: Manually Remove PRO Features
+## Option 2: Manually Remove PRO Features
 
 If you prefer to stay on the free plan, follow these steps to remove features that exceed the Hacker Plan limits.
 
-Remove Extra Inboxes
+## Remove Extra Inboxes
 
-Step 1: Access Inbox Settings
+## Step 1: Access Inbox Settings
 
   - Navigate to Settings in your left sidebar
 
   - Click on Inbox Settings
 
-Step 2: Review Your Inboxes
+## Step 2: Review Your Inboxes
 
 Check your current inbox configuration:
 
@@ -78,7 +80,7 @@ Check your current inbox configuration:
 
   - Verify the inbox type is Live Website Chat
 
-Step 3: Remove Extra Inboxes
+## Step 3: Remove Extra Inboxes
 
   - Identify any additional inboxes beyond the first one
 
@@ -86,9 +88,9 @@ Step 3: Remove Extra Inboxes
 
   - Confirm the deletion when prompted
 
-Remove Extra Agents
+## Remove Extra Agents
 
-Step 4: Access Agent Settings
+## Step 4: Access Agent Settings
 
   - Navigate to Settings in your left sidebar
 
@@ -110,4 +112,6 @@ After removing extra inboxes and agents, the free usage limitation message shoul
 dashboard and verify that you can access all free-tier features.
 
 Success! Your account should now be compliant with the free plan limitations, and you can continue using Katalis.app
-without restrictions.Last updated on Sep 17, 2025
+without restrictions.
+
+_Last updated on Sep 17, 2025_

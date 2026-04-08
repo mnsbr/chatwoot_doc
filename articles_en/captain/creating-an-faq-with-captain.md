@@ -1,10 +1,10 @@
+# Creating an FAQ with Captain
 
-# Creating an FAQ with CaptainFAQs (Frequently Asked Questions) are a collection of common questions and their answers, designed to provide quick and
-
+FAQs (Frequently Asked Questions) are a collection of common questions and their answers, designed to provide quick and
 easy assistance to customers. Captain uses these FAQs to respond to customer queries efficiently, ensuring accurate and
 consistent information is provided.
 
-How are FAQs generated?
+## How are FAQs generated?
 
 FAQs are generated in two ways:
 
@@ -14,7 +14,7 @@ or frequently asked topics. Based on this analysis, it suggests FAQs.
 Manually: You can create FAQs directly by navigating to the FAQs section, clicking “Add New,” entering the question and
 answer, and assigning it to the assistant.
 
-How can you add an FAQ manually?
+## How can you add an FAQ manually?
 
 Go to the FAQs section in the sidebar under Captain. If FAQs have already been generated from your documents, you will
 see them listed here. Otherwise, the page will appear as shown below.
@@ -23,7 +23,7 @@ Click on “Create New FAQ” to add a question and its corresponding answer, as
 
 Select the assistant and click “Create.” The FAQ will now be ready for use in conversations.
 
-How do you check the FAQs generated from conversations?
+## How do you check the FAQs generated from conversations?
 
 At the end of each conversation, Captain analyzes the interactions to identify potential gaps or frequently recurring
 questions that are not yet addressed in your knowledge base. Based on this analysis, it suggests new topics as FAQs to
@@ -42,4 +42,6 @@ suggested question, simply click on the conversation ID to review the interactio
 FAQ.
 
 Regularly reviewing these suggestions helps keep your knowledge base accurate, up-to-date, and aligned with your
-customers’ evolving needs.Last updated on Jan 29, 2025
+customers’ evolving needs.
+
+_Last updated on Jan 29, 2025_

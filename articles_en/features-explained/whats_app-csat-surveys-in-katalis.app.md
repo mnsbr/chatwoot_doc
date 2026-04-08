@@ -1,4 +1,6 @@
-# WhatsApp CSAT Surveys using TemplatesCustomer Satisfaction (CSAT) surveys help you understand how happy customers are with the support they receive on
+# WhatsApp CSAT Surveys using Templates
+
+Customer Satisfaction (CSAT) surveys help you understand how happy customers are with the support they receive on
 
 WhatsApp. Katalis.app now supports CSAT surveys via WhatsApp message templates, so surveys can be sent reliably even after
 the 24-hour WhatsApp messaging window.
@@ -14,7 +16,7 @@ The survey message contains:
 
 Customers tap the button and submit their rating in just a few seconds.
 
-Why does WhatsApp require a template?
+## Why does WhatsApp require a template?
 
 WhatsApp only allows free‑form messages within 24 hours of a customer’s last message.
 
@@ -33,11 +35,11 @@ You don’t need to manually create or manage templates.
 
 You can use CSAT Template surveys if You are using a WhatsApp Cloud or Whastapp Twilio inbox in Katalis.app
 
-How to enable CSAT for a WhatsApp inbox
+## How to enable CSAT for a WhatsApp inbox
 
 Follow these steps to turn on CSAT surveys.
 
-Step 1: Open your WhatsApp inbox settings
+## Step 1: Open your WhatsApp inbox settings
 
 1.  Go to Settings → Inboxes
 
@@ -45,13 +47,13 @@ Step 1: Open your WhatsApp inbox settings
 
 3.  Open the CSAT tab
 
-Step 2: Enable CSAT
+## Step 2: Enable CSAT
 
 Turn on the Enable CSAT toggle.
 
 Once enabled, Katalis.app will prepare a WhatsApp template for your survey.
 
-Step 3: Customize the survey message
+## Step 3: Customize the survey message
 
 Fill in the following fields:
 
@@ -63,7 +65,7 @@ Fill in the following fields:
 
 A live preview is shown on the right so you can see how it will look on WhatsApp.
 
-Template approval status
+## Template approval status
 
 After saving, you may see one of these statuses:
 
@@ -78,7 +80,7 @@ After saving, you may see one of these statuses:
 
 Once approved, no further action is required.
 
-What happens when a conversation is resolved?
+## What happens when a conversation is resolved?
 
 When a conversation ends:
 
@@ -90,7 +92,7 @@ When a conversation ends:
 
 Surveys are sent only once per conversation.
 
-Updating your CSAT message later
+## Updating your CSAT message later
 
 WhatsApp does not allow editing an approved template.
 
@@ -110,7 +112,7 @@ Katalis.app will show a confirmation message explaining that:
 
 After approval, the new template will be used automatically.
 
-Good practices for WhatsApp CSAT
+## Good practices for WhatsApp CSAT
 
   - Keep the message short and friendly
 
@@ -118,4 +120,6 @@ Good practices for WhatsApp CSAT
 
   - Send surveys only for meaningful conversations using labels
 
-  - Avoid changing templates too frequently to reduce approval delaysLast updated on Jan 13, 2026
+  - Avoid changing templates too frequently to reduce approval delays
+
+_Last updated on Jan 13, 2026_

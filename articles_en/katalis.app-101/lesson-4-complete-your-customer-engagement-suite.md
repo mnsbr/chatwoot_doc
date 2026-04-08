@@ -1,8 +1,10 @@
-# Lesson 4: Complete your customer engagement suiteIf you’ve made it so far, congratulations! By now, you know how to smoothly use Katalis.app to manage an effective customer
+# Lesson 4: Complete your customer engagement suite
+
+If you’ve made it so far, congratulations! By now, you know how to smoothly use Katalis.app to manage an effective customer
 
 engagement workflow. Now, let’s connect more channels in your customer engagement arsenal.
 
-How to select the best channels for your business?
+## How to select the best channels for your business?
 
 You’ll have a lot of options for channels to be present on for customer engagement. And mostly, businesses end up being
 on all––and manage them from Katalis.app. This is called omnichannel customer service.
@@ -38,9 +40,11 @@ specific guide. Find the list below.
 
   - Connect a different channel through API
 
-What next?
+## What next?
 
 Join our Discord community to stay connected with the Katalis.app team, fellow Katalis.app users, open-source enthusiasts, and
 folks working in customer engagement.
 
-Write to us at[email protected]to share your feedback, doubts, suggestions, and comments.Last updated on Sep 13, 2025
+Write to us at[email protected]to share your feedback, doubts, suggestions, and comments.
+
+_Last updated on Sep 13, 2025_

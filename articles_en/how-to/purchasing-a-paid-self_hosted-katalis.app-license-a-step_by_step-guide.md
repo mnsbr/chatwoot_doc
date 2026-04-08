@@ -1,4 +1,6 @@
-# Purchasing a Paid Self-Hosted Katalis.app License: A Step-by-Step GuideKatalis.app Products Overview
+# Purchasing a Paid Self-Hosted Katalis.app License: A Step-by-Step Guide
+
+## Katalis.app Products Overview
 
 Katalis.app offers two product options to suit your needs:
 
@@ -36,4 +38,6 @@ STEP 5: After payment, return to your settings page to verify that the correct p
 account.
 
 Enjoy your Katalis.app experience! If you have any questions along the way, please feel free to reach out to our support
-team. We'll be happy to assist you!Last updated on Jul 01, 2025
+team. We'll be happy to assist you!
+
+_Last updated on Jul 01, 2025_

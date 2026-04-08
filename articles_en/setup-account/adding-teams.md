@@ -1,4 +1,6 @@
-# Adding teamsTeams let you organize your agents into groups based on their responsibilities. A user can be part of multiple teams.
+# Adding teams
+
+Teams let you organize your agents into groups based on their responsibilities. A user can be part of multiple teams.
 
 You can assign conversations to a team when you are working collaboratively.
 
@@ -34,11 +36,13 @@ Step 4. Click on 'Finish' on the next screen.
 
 You will be able to see the team added to your list of teams.
 
-How to modify or delete a team?
+## How to modify or delete a team?
 
 Step 1. Open the list of your teams from Settings → Teams. Locate the team you want to edit. Click the Edit button
 (pencil icon) if you want to edit it. Click the delete button (red cross icon) if you want to delete it.
 
 Step 2. If you are editing the team's info, you will be taken through the same steps while adding a team. Edit
 information as needed. Click on the update button. If you want to discard the changes, click the "Back" button from the
-top-left of screen.Last updated on Nov 13, 2024
+top-left of screen.
+
+_Last updated on Nov 13, 2024_

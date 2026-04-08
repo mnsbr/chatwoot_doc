@@ -1,4 +1,6 @@
-# How to enhance conversations with OpenAI integration?Engaging with customers demands tireless professionalism. How well you communicate with your customers is usually a huge
+# How to enhance conversations with OpenAI integration?
+
+Engaging with customers demands tireless professionalism. How well you communicate with your customers is usually a huge
 
 contributing factor to sales as well as customer retention. Not to mention the effects on brand identity. But, in order
 to always sound perfect––you've got to be a robot. So we brought AI to your dashboard instead. With our OpenAI
@@ -8,10 +10,10 @@ By integrating AI into your Katalis.app dashboard, you can improve your customer
 sacrificing your unique voice or brand identity. You'll receive AI-powered suggestions that help you refine your
 messages and communicate more effectively with your customers.
 
-Setting up the integration takes less than a minute, and the benefits are immediate. To get started, follow the steps
+## Setting up the integration takes less than a minute, and the benefits are immediate. To get started, follow the steps
 below.
 
-How to integrate OpenAI with Katalis.app?
+## How to integrate OpenAI with Katalis.app?
 
 Step 1. Go to Settings → Applications → OpenAI. Click the corresponding “Configure” button.
 
@@ -21,11 +23,11 @@ To get your OpenAI API key, log in to your OpenAI account and visit this link.
 
 Once you enter your secret API key, you'll see a success message on the screen.
 
-How to use the AI features in Katalis.app?
+## How to use the AI features in Katalis.app?
 
 There are three AI-powered features in Katalis.app. The sections below explain how to use them.
 
-Reply suggestion with AI
+## Reply suggestion with AI
 
 The “Reply suggestion with AI” feature suggests a possible reply to a message from a customer, helping with fast
 responses. Follow the steps below to use this feature.
@@ -37,7 +39,7 @@ Step 2. Click the button to see the suggestion. The reply box will be populated 
 
 Step 3. Edit your message as you please, and hit the Send button!
 
-Improve with AI
+## Improve with AI
 
 The “Improve with AI” feature suggests improvements to your message drafts as you compose them. Follow the steps below
 to use this feature.
@@ -54,7 +56,7 @@ Continuing the example, this is what it would look like:
 
 Step 3. Edit your message as you please, and hit the Send button!
 
-Summary with AI
+## Summary with AI
 
 The “Summary with AI” feature summarizes conversations in Private Notes within seconds. Follow the steps below to use
 this feature.
@@ -66,7 +68,7 @@ Step 2. Click the button. The text editor will be populated with a summary of th
 
 Step 3. Edit your note as you please, and hit the ‘Add Note’ button!
 
-How to use AI Assist?
+## How to use AI Assist?
 
 You can toggle the AI assist by either selecting it from the command bar or clicking the AI Assist button inside the
 editor.
@@ -78,12 +80,14 @@ insert the content into the editor, click on the Use this suggestion button.
 
 FAQs​
 
-Are AI Assist results always accurate?​
+## Are AI Assist results always accurate?​
 
 The results may not always be accurate. While the AI Assist is designed to provide accurate suggestions, it is important
 for agents to review and verify the suggestions before sending them to customers. Additionally, we are continuously
 working on improving our AI Assist.
 
-Do you support any AI providers other than OpenAI​
+## Do you support any AI providers other than OpenAI​
 
-At the moment, we support only OpenAI. But we are planning to add more providers soon.Last updated on Apr 10, 2024
+At the moment, we support only OpenAI. But we are planning to add more providers soon.
+
+_Last updated on Apr 10, 2024_

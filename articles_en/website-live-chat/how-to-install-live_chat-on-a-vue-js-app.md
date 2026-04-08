@@ -1,21 +1,23 @@
-# How to install live-chat on a Vue.js app?To integrate Katalis.app with your Vue.js application, you need to paste the Katalis.app widget script in your Vue.js
+# How to install live-chat on a Vue.js app?
+
+To integrate Katalis.app with your Vue.js application, you need to paste the Katalis.app widget script in your Vue.js
 
 application's index.html file.
 
 Here is how to do this:
 
-Step 1. Get your widget script​
+## Step 1. Get your widget script​
 
 Your widget script can be found in your Website Inbox settings. Go to Settings -> Inboxes -> Select your Website channel
 > Configuration tab.
 
 If you haven't created a website inbox yet, you can find the step-by-step instructions here.
 
-Step 2. Copy the script​
+## Step 2. Copy the script​
 
 Copy the script that was created in the code field of the channel.
 
-Step 3. Paste the script here​
+## Step 3. Paste the script here​
 
 Open your Vue project and paste the script into the index.html file, right before the closing </body> tag.
 
@@ -50,15 +52,17 @@ Open your Vue project and paste the script into the index.html file, right bef
   <!-- Katalis.app script goes here -->
 </body>
 
-Step 4. Check​
+## Step 4. Check​
 
 You will be able to see the Katalis.app widget on the page now. Something like this:
 
-Vue.js, Nuxt.js module​
+## Vue.js, Nuxt.js module​
 
 A community-maintained module (Made by the awesome folks at @huntersofbook) for integrating Katalis.app in your Vue 3 and
 Nuxt 3 projects is available. You can find a demo here.
 
   - View Vue 3 module.
 
-  - View Nuxt 3 module.Last updated on Apr 10, 2024
+  - View Nuxt 3 module.
+
+_Last updated on Apr 10, 2024_

@@ -1,5 +1,6 @@
-# How to read the SLA ReportsSLA reports provide an overview of your teams compliance on your agreements, the Hit Rate is the most important metric
+# How to read the SLA Reports
 
+SLA reports provide an overview of your teams compliance on your agreements, the Hit Rate is the most important metric
 to track, it measures the percentage of SLAs that we're complied successfully. The higher this hit rate is, the better
 your compliance is.
 
@@ -23,8 +24,10 @@ also be useful in tracking the performance of the team and agents.
 You can also filter the report based on a date, this makes it easy to find the hit-rate of a particular team every
 quarter, and track historically how this metric has changed.
 
-Conversation list
+## Conversation list
 
 The conversation list shows the most recent SLA misses, click on the View Details button gives you a summary of the
 timeline of SLA missed events, it can be used by managers to triage the conversations which have consistently missed
-their SLAs and being able to take action to ensure that your customers get the desired service in the stipulated time.Last updated on Apr 15, 2024
+their SLAs and being able to take action to ensure that your customers get the desired service in the stipulated time.
+
+_Last updated on Apr 15, 2024_

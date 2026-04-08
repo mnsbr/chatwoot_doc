@@ -1,9 +1,10 @@
+# Embedding videos in Help Center
 
-# Embedding videos in Help CenterKatalis.app Help Center supports automatic embedding of videos from multiple platforms. When you paste supported video
+Katalis.app Help Center supports automatic embedding of videos from multiple platforms. When you paste supported video
 
 URLs on their own lines (surrounded by empty lines), they will be automatically converted to embedded video players.
 
-Supported Video Platforms
+## Supported Video Platforms
 
 | Platform | URL Format | How to Get the URL |
 |----------|------------|---------------------|
@@ -16,7 +17,7 @@ use "Share" button |
 | Bunny CDN | https://iframe.mediadelivery.net/play/LIBRARY_ID/VIDEO_ID | Get iframe URL from Bunny CDN dashboard |
 | Direct MP4 | Any URL ending in .mp4 | Use direct link to MP4 file from any hosting service |
 
-Important Requirements
+## Important Requirements
 
 1.  Empty Lines: Video URLs must be surrounded by empty lines (blank lines above and below)
 
@@ -27,4 +28,6 @@ Important Requirements
 4.  Exact Format: URLs must match the exact patterns shown above
 
 The video embedding system automatically detects these patterns and replaces the URLs with responsive video players that
-work across all devices.Last updated on May 28, 2025
+work across all devices.
+
+_Last updated on May 28, 2025_

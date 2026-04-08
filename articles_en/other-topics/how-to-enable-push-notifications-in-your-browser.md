@@ -1,4 +1,6 @@
-# How to enable push notifications in your browserGoogle Chrome:
+# How to enable push notifications in your browser
+
+Google Chrome:
 
 1.  Click the three-dot menu in the top-right corner and select Settings.
 
@@ -51,4 +53,6 @@ popular browsers.
 
 2.  Safari
 
-3.  FirefoxLast updated on Nov 13, 2024
+3.  Firefox
+
+_Last updated on Nov 13, 2024_

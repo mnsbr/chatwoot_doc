@@ -1,8 +1,10 @@
-# How to Use Your Coupon Code on Katalis.app?Introduction
+# How to Use Your Coupon Code on Katalis.app?
+
+Introduction
 
 This guide will walk you through the process of applying coupon codes in Katalis.app to access discounted services.
 
-Step-by-Step Instructions
+## Step-by-Step Instructions
 
 1.  Access Settings: Click the "Settings" option in the left navigation bar
 
@@ -16,7 +18,7 @@ Step-by-Step Instructions
 
 6.  Complete: Click "Apply" followed by "Submit" to activate the discount
 
-After Applying the Coupon
+## After Applying the Coupon
 
 Once successfully applied, you should see:
 
@@ -24,4 +26,6 @@ Once successfully applied, you should see:
 
   - A confirmation message of successful application
 
-  - The updated pricing in your billing detailsLast updated on Apr 08, 2025
+  - The updated pricing in your billing details
+
+_Last updated on Apr 08, 2025_

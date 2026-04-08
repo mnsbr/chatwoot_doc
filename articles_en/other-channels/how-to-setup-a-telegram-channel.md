@@ -1,4 +1,6 @@
-# How to setup a Telegram channel?Step 1. Go to Settings → Inboxes → “Add Inbox”.
+# How to setup a Telegram channel?
+
+Step 1. Go to Settings → Inboxes → “Add Inbox”.
 
 Step 2. Click on the "Telegram" icon.
 
@@ -16,11 +18,11 @@ Step 7. Send a message to the Telegram bot. Check Katalis.app Telegram inbox for
 
 FAQs
 
-Does Katalis.app support Telegram Business Bot accounts?
+## Does Katalis.app support Telegram Business Bot accounts?
 
 Yes — support for Telegram Business-mode bots was added in Katalis.app v4.3.0 (18 Jun 2025).
 
-How to enable Business Bots?
+## How to enable Business Bots?
 
 1.  In @BotFather run /business_mode, choose your bot, and confirm.
 
@@ -30,7 +32,7 @@ How to enable Business Bots?
 
 4.  For best results, keep this Business bot in its own inbox, separate from any standard bot you already use. ￼
 
-Known issues with Business Bot
+## Known issues with Business Bot
 
 • 24-hour reply window – Telegram only lets the bot (and Katalis.app) reply within 24 hours of the customer’s last message.
 ￼
@@ -39,4 +41,6 @@ Known issues with Business Bot
 rather than the Business account; creating a dedicated Business bot & inbox avoids this confusion.
 
 • The Telegram Business API is currently less feature-rich than the regular Bot API (e.g., no typing indicators, limited
-message types). Keep expectations accordingly.Last updated on Jun 19, 2025
+message types). Keep expectations accordingly.
+
+_Last updated on Jun 19, 2025_

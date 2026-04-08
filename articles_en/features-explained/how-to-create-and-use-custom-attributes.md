@@ -1,4 +1,6 @@
-# How to create and use custom attributes?Katalis.app allows you to track additional information about your conversations and contacts beyond the standard data
+# How to create and use custom attributes?
+
+Katalis.app allows you to track additional information about your conversations and contacts beyond the standard data
 
 attributes like name, email, and location. These additional pieces of information are called custom attributes and can
 be anything you want to track. Listed below are a few examples of custom attributes.
@@ -20,7 +22,7 @@ history or account status. This information can be used to better understand and
 
 The only difference between custom and standard attributes is standard data attributes automatically get updated.
 
-How to create a custom attribute?
+## How to create a custom attribute?
 
 Step 1. Go to Settings → Custom Attributes. Click on the “Add Custom Attribute” button.
 
@@ -53,7 +55,7 @@ Note: You cannot create a custom attribute with the same key twice in the accoun
 Step 3. Once you enter the details, click the ”Create” button. If the request is successful, a message "Custom attribute
 added successfully" will be displayed.
 
-How to use a conversation custom attribute?
+## How to use a conversation custom attribute?
 
 You can add conversation custom attributes to a conversation from the conversation sidebar. Follow the steps described
 below.
@@ -70,11 +72,11 @@ couple of examples:
 
 To edit/delete/copy an attribute, hover on it to see the options.
 
-How to use a contact custom attribute?
+## How to use a contact custom attribute?
 
 There two ways to set custom attributes for contacts.
 
-Set attributes via SDK method
+## Set attributes via SDK method
 
 To set a contact custom attribute, call setCustomAttributes method as follows.
 
@@ -109,9 +111,11 @@ window.$Katalis.app.deleteCustomAttribute("signUpDate");
 Note: Prior to version v1.22, all the attributes rendered as text. Please create new definition to display the value
 properly.
 
-Set attributes via contact side panel
+## Set attributes via contact side panel
 
 For adding Contact Attributes, follow the same procedure as described above for conversation custom attributes, but use
 the Contact Attributes section of your chat sidebar instead. This is what it would look like:
 
-Based on the type of attribute you added (list, checkbox, text, etc.), populate it at your will. Here is an example:Last updated on Apr 10, 2024
+Based on the type of attribute you added (list, checkbox, text, etc.), populate it at your will. Here is an example:
+
+_Last updated on Apr 10, 2024_

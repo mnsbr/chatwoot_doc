@@ -1,13 +1,15 @@
-# Creating a Katalis.app AccountThis guide will help you create your account on Katalis.app cloud or any self-hosted Katalis.app installations.
+# Creating a Katalis.app Account
 
-I am using the self-hosted version​
+This guide will help you create your account on Katalis.app cloud or any self-hosted Katalis.app installations.
+
+## I am using the self-hosted version​
 
 If you are using a self-hosted Katalis.app installation, you may directly open the
 URL {your_installation_url}/app/auth/signup.
 
 P.S. We have a wholly different guide for self-hosted Katalis.app.
 
-I am using the cloud version​
+## I am using the cloud version​
 
 Step 1. If you would like to use Katalis.app cloud, you can open katalis.app and click on the "Create a free account"
 button. This button takes you to the signup page.
@@ -70,4 +72,6 @@ Katalis.app.
 
   - Integrations: Integrate Katalis.app with your favorite apps, or use Webhooks.
 
-  - Applications: Connect your account with applications for better workflows.Last updated on Feb 29, 2024
+  - Applications: Connect your account with applications for better workflows.
+
+_Last updated on Feb 29, 2024_

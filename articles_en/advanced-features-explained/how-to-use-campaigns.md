@@ -1,19 +1,17 @@
-# How to use Campaigns?The Campaigns feature is a way for you to send outbound messages to your customers. There are two types of campaigns in
+# How to use Campaigns?
 
-Katalis.app:
+The Campaigns feature is a way for you to send outbound messages to your customers. There are two types of campaigns in Katalis.app:
 
-I. Ongoing campaigns
+## I. Ongoing campaigns
 
-You can use ongoing campaigns to send frequent outbound messages via website live chat. You can set specific conditions
-that trigger these messages, like when a user spends a certain amount of time on a specific page. By sending these
-messages, you can increase the likelihood of conversions and keep the conversation flowing with your prospects.
+You can use ongoing campaigns to send frequent outbound messages via website live chat. You can set specific conditions that trigger these messages, like when a user spends a certain amount of time on a specific page. By sending these messages, you can increase the likelihood of conversions and keep the conversation flowing with your prospects.
 
-II. One-off campaigns
+## II. One-off campaigns
 
 You can use one-off campaigns to send an SMS campaign to a group of contacts. This is an effective way to reach many
 customers at once and make announcements or promote your products/services or specific offers.
 
-How to create an Ongoing Campaign?
+## How to create an Ongoing Campaign?
 
 Step 1. Click on the "Campaigns" tab in the sidebar. Select "Ongoing" -> "Create an ongoing campaign" button.
 
@@ -47,7 +45,7 @@ The fields seen in the form are explained below.
 
 6.  Time on page (seconds)
     
-    How many seconds should the visitor spend on the given URL before triggering the campaign?
+    ## How many seconds should the visitor spend on the given URL before triggering the campaign?
 
 7.  Enable campaign
     
@@ -55,7 +53,7 @@ The fields seen in the form are explained below.
 
 Step 3. Test it out. Visit the URL specified in the campaign and wait for the time configured in the campaign.
 
-How to create a One-off Campaign?
+## How to create a One-off Campaign?
 
 Step 1. Click on the "Campaigns" tab in the sidebar. Select "One off" -> "Create a one off campaign" button.
 
@@ -85,7 +83,9 @@ The fields seen in the form are explained below.
 
 Once you have filled out the fields, click the "Create" button. It will appear on your One-off campaigns page.
 
-How to edit or delete campaigns?
+## How to edit or delete campaigns?
 
 To edit or delete campaigns, open the list of campaigns by visiting "Campaigns" -> Selecting the campaign type. Scroll
-laterally to find the edit and delete options.Last updated on Apr 10, 2024
+laterally to find the edit and delete options.
+
+_Last updated on Apr 10, 2024_
